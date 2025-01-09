@@ -49,7 +49,7 @@
   >
     <Text
       id="text1"
-      value="Please 1) upload artists and then 2) upload art"
+      value="Please 1) upload the artists and then 2) upload art"
       verticalAlign="center"
     />
     <Text
@@ -727,7 +727,7 @@ upload art"
       hidden="{{ artists.value.length===0 && !attemptToLoadArt.value }}"
       style={{ ordered: [{ color: "danger" }] }}
       value={
-        '{{ artists.value.length===0 && attemptToLoadArt.value? "No artists loaded; please upload artists first": "" }}'
+        '{{ artists.value.length===0 && attemptToLoadArt.value? "No artists loaded! please upload artists first": "" }}'
       }
       verticalAlign="center"
     />
