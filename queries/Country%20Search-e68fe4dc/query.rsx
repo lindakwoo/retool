@@ -5,8 +5,13 @@
   resourceType={null}
 >
   <RESTQuery
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    body={'[{"key":"hasKey","value":"true"}]'}
+    bodyType="json"
+    events={[]}
     importedQueryDefaults={{ country_name: "united" }}
-    importedQueryInputs={{ country_name: "" }}
+    importedQueryInputs={{ country_name: "united" }}
     playgroundQueryId={0}
     playgroundQuerySaveId={0}
     privateParams={[]}
