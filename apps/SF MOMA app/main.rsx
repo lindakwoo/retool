@@ -49,7 +49,7 @@
   >
     <Text
       id="text1"
-      value="Please 1) upload artists! and then 2) upload art!"
+      value="Please 1) upload the artists and then 2) upload art"
       verticalAlign="center"
     />
     <Text
