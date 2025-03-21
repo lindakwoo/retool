@@ -36,6 +36,11 @@
     padding="8px 12px"
     type="main"
   >
+    <Text
+      id="text1"
+      value="adding this to see if it shows up in main"
+      verticalAlign="center"
+    />
     <Table
       id="table1"
       cellSelection="none"
