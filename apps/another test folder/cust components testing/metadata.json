@@ -15,7 +15,9 @@
       ]
     },
     "isFetching": true,
-    "version": "3.170.0",
+
+    "version": "3.174.0",
+
     "experimentalDataTabEnabled": true
   }
 }
