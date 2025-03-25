@@ -1,10 +1,5 @@
 {
-  "anotherTestModule1": {
-    "row": 8.2,
-    "col": 1,
-    "height": 2.4,
-    "width": 11
-  },
+
   "helloWorld1": {
     "row": 3.8,
     "col": 2,

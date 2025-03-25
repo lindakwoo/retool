@@ -24,10 +24,12 @@
       maintainSpaceWhenHidden={false}
       name="martha"
     />
+
     <Module
       id="anotherTestModule1"
       name="Another test module"
       pageUuid="185ae842-09a8-11f0-b156-778049b45569"
     />
+
   </Frame>
 </App>
