@@ -1,0 +1,21 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "1ff63e8e-0049-11f0-b0ac-bbd2765580a0",
+  "appTemplate": {
+    "customComponentCollections": {
+      "array": [
+        {
+          "object": {
+            "collectionName": "LindaLibrary",
+            "collectionRevisionUuid": "146bf39d-baf7-41d3-8926-76bb4fe09780",
+            "collectionUuid": "5f3540c2-9a81-415f-ae6c-2b3507b344b3"
+          }
+        }
+      ]
+    },
+    "isFetching": true,
+    "version": "3.170.0",
+    "experimentalDataTabEnabled": true
+  }
+}
