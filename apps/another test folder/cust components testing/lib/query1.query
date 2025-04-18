@@ -1,5 +1,0 @@
-// Don't forget to replace "myFirestoreCollection"
-// you can hard-code it or try it with a component reference
-// `.collection(select1.value)`
-const snapshot = await db.firestore().collection("patients").get();
-return snapshot.docs.map(d => d.data());
