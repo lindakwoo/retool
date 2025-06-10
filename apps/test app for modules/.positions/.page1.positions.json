@@ -1,0 +1,13 @@
+{
+  "moduleForSourceControlTest1": {
+    "row": 4.6,
+    "col": 2,
+    "height": 2.4,
+    "width": 10
+  },
+  "text1": {
+    "row": 2.2,
+    "col": 1,
+    "height": 0.6
+  }
+}
