@@ -15,7 +15,7 @@
     "urlparams": [["", ""]],
     "auth0_domain": "",
     "bearer_token": "",
-    "oauth2_scope": "https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/sheets",
+    "oauth2_scope": "https://www.googleapis.com/auth/calendar",
     "auth0_clientID": "",
     "authentication": "oauth2",
     "basic_password": "",
