@@ -6,7 +6,7 @@
   browserTitle=""
   title="Page 1"
   urlSlug=""
-  uuid="45580b91-900b-4b0d-9f8e-60da81b59a80"
+  uuid="b309897b-ac53-44f2-ad69-88ff595617db"
 >
   <RESTQuery
     id="getCalendtars"
@@ -36,6 +36,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text1" value="a changes" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
