@@ -6,19 +6,22 @@
   browserTitle=""
   title="Page 1"
   urlSlug=""
+  uuid="01378cd5-8fc9-4762-a79a-6f2fe3676955"
 >
   <RESTQuery
     id="getCalendtars"
     headers={'[{"key":"Content-Type","value":"application/json"}]'}
     query="/users/me/calendarList/"
-    resourceName="3b56bbab-f103-4124-898c-7bd191f3f6f2"
+    resourceDisplayName="google calendar"
+    resourceName="e65cdea5-f0bc-47cd-be2e-26fbb2cfc0ad"
   />
   <RESTQuery
     id="getEvents"
     isMultiplayerEdited={false}
     notificationDuration={4.5}
     query="/calendars/{{ table1.selectedRow.id }}/events/"
-    resourceName="3b56bbab-f103-4124-898c-7bd191f3f6f2"
+    resourceDisplayName="google calendar"
+    resourceName="e65cdea5-f0bc-47cd-be2e-26fbb2cfc0ad"
     showSuccessToaster={false}
   />
   <RESTQuery
