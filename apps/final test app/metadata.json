@@ -4,7 +4,7 @@
   "pageUuid": "15c915de-5059-11f0-9b57-bffc48aa5d2c",
   "appTemplate": {
     "rootScreen": "page1",
-    "version": "3.223.0",
+    "version": "3.235.0",
     "experimentalDataTabEnabled": true
   }
 }
