@@ -16,6 +16,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text2" value="Branch B change" verticalAlign="center" />
     <Text id="text1" value="parent app" verticalAlign="center" />
     <Module
       id="finalTestModule1"
