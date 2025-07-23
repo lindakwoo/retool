@@ -52,5 +52,10 @@
     "col": 4,
     "height": 8,
     "width": 8
+  },
+  "text1": {
+    "row": 0.8,
+    "col": 7,
+    "height": 0.6
   }
 }

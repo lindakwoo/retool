@@ -6,19 +6,22 @@
   browserTitle=""
   title="Page 1"
   urlSlug=""
+  uuid="b309897b-ac53-44f2-ad69-88ff595617db"
 >
   <RESTQuery
     id="getCalendtars"
     headers={'[{"key":"Content-Type","value":"application/json"}]'}
     query="/users/me/calendarList/"
-    resourceName="3b56bbab-f103-4124-898c-7bd191f3f6f2"
+    resourceDisplayName="google calendar - naming conflict at Jul 11, 2025 6:00 PM"
+    resourceName="e65cdea5-f0bc-47cd-be2e-26fbb2cfc0ad"
   />
   <RESTQuery
     id="getEvents"
     isMultiplayerEdited={false}
     notificationDuration={4.5}
     query="/calendars/{{ table1.selectedRow.id }}/events/"
-    resourceName="3b56bbab-f103-4124-898c-7bd191f3f6f2"
+    resourceDisplayName="google calendar - naming conflict at Jul 11, 2025 6:00 PM"
+    resourceName="e65cdea5-f0bc-47cd-be2e-26fbb2cfc0ad"
     showSuccessToaster={false}
   />
   <RESTQuery
@@ -33,6 +36,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text1" value="a changes" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
