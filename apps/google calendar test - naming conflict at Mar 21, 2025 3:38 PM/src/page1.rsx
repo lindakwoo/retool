@@ -36,6 +36,11 @@
     padding="8px 12px"
     type="main"
   >
+    <Text
+      id="text2"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <Text id="text1" value="a changes" verticalAlign="center" />
     <Table
       id="table1"
