@@ -3,6 +3,13 @@
     "height": 12,
     "width": 12
   },
+  "table1": {
+    "container": "moduleContainer",
+    "row": 6.4,
+    "col": 5,
+    "height": 8,
+    "width": 7
+  },
   "text1": {
     "container": "moduleContainer",
     "row": 5.8,
