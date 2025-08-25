@@ -16,7 +16,7 @@
       <Text id="text2" value="some new change here" verticalAlign="center" />
       <Text
         id="text1"
-        value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+        value="👋 **Hello!!! {{ current_user.firstName || 'friend' }}!**"
         verticalAlign="center"
       />
       <Table
