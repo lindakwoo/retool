@@ -17,5 +17,11 @@
     type="main"
   >
     <Text id="text1" value="protect this app" verticalAlign="center" />
+    <Text
+      id="text3"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
+    <Text id="text2" value="allow me to add this" verticalAlign="center" />
   </Frame>
 </Screen>
