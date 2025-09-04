@@ -23,5 +23,6 @@
       verticalAlign="center"
     />
     <Text id="text2" value="allow me to add this" verticalAlign="center" />
+    <Text id="text4" value="one more" verticalAlign="center" />
   </Frame>
 </Screen>
