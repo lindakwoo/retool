@@ -8,5 +8,11 @@
     "row": 5.8,
     "col": 4,
     "height": 1
+  },
+  "text2": {
+    "container": "moduleContainer",
+    "row": 3.6,
+    "col": 4,
+    "height": 0.6
   }
 }
