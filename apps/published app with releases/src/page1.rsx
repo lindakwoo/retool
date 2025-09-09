@@ -17,5 +17,6 @@
     type="main"
   >
     <Text id="text1" value="protect this app" verticalAlign="center" />
+    <Text id="text2" value="add to staging" verticalAlign="center" />
   </Frame>
 </Screen>

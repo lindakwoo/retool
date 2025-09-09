@@ -3,5 +3,10 @@
     "row": 4.2,
     "col": 4,
     "height": 1
+  },
+  "text2": {
+    "row": 8.8,
+    "col": 5,
+    "height": 0.6
   }
 }
