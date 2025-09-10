@@ -5,15 +5,14 @@
     "height": 2.4,
     "width": 9
   },
-  "table1": {
-    "row": 8.2,
-    "col": 3,
-    "height": 8,
-    "width": 8
-  },
   "text1": {
     "row": 7,
     "col": 4,
     "height": 1
+  },
+  "text2": {
+    "row": 8,
+    "col": 4,
+    "height": 0.6
   }
 }
