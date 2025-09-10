@@ -1,9 +1,15 @@
 {
   "finalTestModule1": {
-    "row": 11,
+    "row": 16.2,
     "col": 3,
     "height": 2.4,
     "width": 9
+  },
+  "table1": {
+    "row": 8.2,
+    "col": 3,
+    "height": 8,
+    "width": 8
   },
   "text1": {
     "row": 7,
