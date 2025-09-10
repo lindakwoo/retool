@@ -292,6 +292,11 @@
         waitType="debounce"
       />
     </Table>
+    <Text
+      id="text3"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <Table
       id="table2"
       cellSelection="none"
