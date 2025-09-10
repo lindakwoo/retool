@@ -26,10 +26,5 @@
       name="module for source control test"
       pageUuid="f618bb18-4635-11f0-a303-b763d9914697"
     />
-    <Text
-      id="text2"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
-      verticalAlign="center"
-    />
   </Frame>
 </Screen>
