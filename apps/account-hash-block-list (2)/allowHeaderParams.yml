@@ -1,0 +1,13 @@
+id: allowHeaderParams
+type: function
+subtype: Function
+template:
+  ordered:
+    - funcBody: |-
+        const body = {
+          delete_ids: {{allowIDs.value}}
+        };
+
+        return headerHelper(body, {{retoolContext.environment}});
+    - value: ''
+createdAt: 2022-09-26T21:24:44.807Z
