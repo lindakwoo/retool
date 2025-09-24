@@ -17,6 +17,11 @@
     type="main"
   >
     <Text
+      id="text2"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
+    <Text
       id="text1"
       value="This is my test app and below is my module"
       verticalAlign="center"
