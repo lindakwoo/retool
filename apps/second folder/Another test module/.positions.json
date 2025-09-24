@@ -9,5 +9,11 @@
     "col": 3,
     "height": 8,
     "width": 8
+  },
+  "text1": {
+    "container": "moduleContainer",
+    "row": 10.2,
+    "col": 3,
+    "height": 1
   }
 }
