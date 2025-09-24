@@ -1,4 +1,11 @@
 {
+  "button1": {
+    "container": "moduleContainer",
+    "row": 9.8,
+    "col": 6,
+    "height": 1,
+    "width": 2
+  },
   "moduleContainer": {
     "height": 12,
     "width": 12
