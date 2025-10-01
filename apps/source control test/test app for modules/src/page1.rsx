@@ -16,6 +16,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text2" value="changes from B" verticalAlign="center" />
     <Text
       id="text1"
       value="This is my test app and below is my module"
