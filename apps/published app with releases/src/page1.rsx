@@ -17,6 +17,7 @@
     type="main"
   >
     <Text id="text1" value="protect this app" verticalAlign="center" />
+ <Text id="text5" value="add another text block" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
