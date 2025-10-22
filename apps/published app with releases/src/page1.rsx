@@ -168,6 +168,7 @@
         />
       </ToolbarButton>
     </Table>
+    <Button id="button1" text="Button" />
     <Text id="text2" value="add to staging" verticalAlign="center" />
   </Frame>
 </Screen>
