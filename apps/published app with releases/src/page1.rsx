@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -16,7 +17,7 @@
     padding="8px 12px"
     type="main"
   >
-    <Text id="text1" value="protect this app" verticalAlign="center" />
+    <Button id="button2" text="another button" />
     <Text id="text1" value="add some text here!!" verticalAlign="center" />
     <Table
       id="table1"
