@@ -17,6 +17,7 @@
     type="main"
   >
     <Text id="text1" value="protect this app" verticalAlign="center" />
+    <Text id="text1" value="add some text here!!" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
@@ -168,6 +169,7 @@
         />
       </ToolbarButton>
     </Table>
+    <Button id="button1" text="Button" />
     <Text id="text2" value="add to staging" verticalAlign="center" />
   </Frame>
 </Screen>
