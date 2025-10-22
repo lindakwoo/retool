@@ -16,7 +16,7 @@
     padding="8px 12px"
     type="main"
   >
-    <Text id="text1" value="protect this app" verticalAlign="center" />
+  
     <Table
       id="table1"
       cellSelection="none"
