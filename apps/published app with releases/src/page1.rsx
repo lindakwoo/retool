@@ -16,9 +16,7 @@
     padding="8px 12px"
     type="main"
   >
-    <Text id="text1" value="protect this app" verticalAlign="center" />
     <Text id="text1" value="add some text here!!" verticalAlign="center" />
-    <Text id="text10" value="add a tenth box" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
