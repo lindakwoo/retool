@@ -1,11 +1,17 @@
 {
+  "table1": {
+    "row": 5,
+    "col": 6,
+    "height": 8,
+    "width": 6
+  },
   "text1": {
     "row": 4.2,
     "col": 4,
     "height": 1
   },
   "text2": {
-    "row": 8.8,
+    "row": 13,
     "col": 5,
     "height": 0.6
   }
