@@ -168,11 +168,6 @@
         />
       </ToolbarButton>
     </Table>
-    <Text
-      id="text3"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
-      verticalAlign="center"
-    />
     <Text id="text2" value="add to staging" verticalAlign="center" />
   </Frame>
 </Screen>
