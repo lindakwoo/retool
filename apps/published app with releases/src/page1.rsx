@@ -40,7 +40,7 @@
         </Tabs>
       </Header>
       <View id="00030" viewKey="View 1">
-        <Button id="button2" hidden="true" text="another button" />
+        <Button id="button2" hidden="false" text="another button" />
       </View>
       <View id="00031" viewKey="View 2" />
       <View id="00032" viewKey="View 3" />
