@@ -40,11 +40,34 @@
         </Tabs>
       </Header>
       <View id="00030" viewKey="View 1">
-        <Button id="button2" hidden="true" text="another button" />
+        <Button id="button2" hidden="false" text="another button" />
       </View>
       <View id="00031" viewKey="View 2" />
       <View id="00032" viewKey="View 3" />
     </Container>
+    <Form
+      id="form1"
+      footerPadding="4px 12px"
+      headerPadding="4px 12px"
+      padding="12px"
+      requireValidation={true}
+      resetAfterSubmit={true}
+      showBody={true}
+      showFooter={true}
+      showHeader={true}
+    >
+      <Header>
+        <Text id="formTitle1" value="#### Form title" verticalAlign="center" />
+      </Header>
+      <Footer>
+        <Button
+          id="formButton1"
+          submit={true}
+          submitTargetId="form1"
+          text="Submit"
+        />
+      </Footer>
+    </Form>
     <Text id="text1" value="add some text here!!" verticalAlign="center" />
     <Table
       id="table1"
@@ -198,6 +221,7 @@
       </ToolbarButton>
     </Table>
     <Button id="button1" text="Button" />
+    <Filter id="filter1" />
     <Text id="text2" value="add to staging" verticalAlign="center" />
   </Frame>
 </Screen>
