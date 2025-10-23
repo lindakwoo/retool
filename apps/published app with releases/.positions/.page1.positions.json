@@ -1,6 +1,6 @@
 {
   "button1": {
-    "row": 7.4,
+    "row": 2.6,
     "col": 1,
     "height": 1,
     "width": 2
@@ -52,6 +52,10 @@
     "rowGroup": "header",
     "height": 0.6,
     "width": 12
+  },
+  "image1": {
+    "row": 13.6,
+    "col": 2
   },
   "tabbedContainer1": {
     "row": 0.2,
