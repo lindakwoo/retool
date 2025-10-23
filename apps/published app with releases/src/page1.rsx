@@ -18,7 +18,7 @@
     type="main"
   >
     <Text id="text11" value="add text box 11" verticalAlign="center" />
-  <Text id="text12" value="add text box 12" verticalAlign="center" />
+    <Text id="text12" value="add text box 12" verticalAlign="center" />
     <Container
       id="tabbedContainer1"
       currentViewKey="{{ self.viewKeys[0] }}"
