@@ -17,6 +17,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Text id="text11" value="add text box 11" verticalAlign="center" />
     <Container
       id="tabbedContainer1"
       currentViewKey="{{ self.viewKeys[0] }}"
@@ -68,6 +69,7 @@
         />
       </Footer>
     </Form>
+    <Button id="button1" text="Button" />
     <Text id="text1" value="add some text here!!" verticalAlign="center" />
     <Table
       id="table1"
@@ -220,8 +222,13 @@
         />
       </ToolbarButton>
     </Table>
-    <Button id="button1" text="Button" />
     <Filter id="filter1" />
     <Text id="text2" value="add to staging" verticalAlign="center" />
+    <Image
+      id="image1"
+      heightType="fixed"
+      horizontalAlign="center"
+      src="https://picsum.photos/id/1025/800/600"
+    />
   </Frame>
 </Screen>
