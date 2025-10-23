@@ -57,6 +57,12 @@
     "row": 13.6,
     "col": 2
   },
+  "navigation1": {
+    "row": 15.2,
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
   "tabbedContainer1": {
     "row": 0.2,
     "col": 6,
@@ -89,6 +95,9 @@
     "height": 1
   },
   "text11": {},
+  "text12": {
+    "row": 1
+  },
   "text2": {
     "row": 13,
     "col": 5,
