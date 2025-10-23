@@ -70,6 +70,7 @@
     </Form>
     <Text id="text1" value="add some text here!!" verticalAlign="center" />
   <Text id="text11" value="add text box 11" verticalAlign="center" />
+  <Text id="text11" value="add text box 12" verticalAlign="center" />
     <Table
       id="table1"
       cellSelection="none"
