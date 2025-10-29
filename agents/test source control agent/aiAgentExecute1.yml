@@ -1,0 +1,113 @@
+id: aiAgentExecute1
+type: datasource
+subtype: JavascriptQuery
+resourceName: RetoolAIAgentExecuteQuery
+template:
+  queryRefreshTime: ''
+  allowedGroupIds: []
+  streamResponse: false
+  lastReceivedFromResourceAt: null
+  isFunction: false
+  functionParameters: null
+  queryDisabledMessage: ''
+  servedFromCache: false
+  offlineUserQueryInputs: ''
+  functionDescription: null
+  successMessage: ''
+  queryDisabled: ''
+  instructions: >-
+    You are a helpful assistant chatting with {{ current_user.firstName }} {{
+    current_user.lastName }}. Their email is {{ current_user.email }}, and the
+    date is {{ new Date() }}.
+  playgroundQuerySaveId: latest
+  workflowParams: null
+  resourceNameOverride: ''
+  runWhenModelUpdates: false
+  workflowRunExecutionType: sync
+  showFailureToaster: true
+  query: ''
+  playgroundQueryUuid: ''
+  playgroundQueryId: null
+  error: null
+  workflowRunBodyType: raw
+  privateParams: []
+  model: gpt-4.1
+  queryRunOnSelectorUpdate: false
+  runWhenPageLoadsDelay: ''
+  data: null
+  providerId: retoolAIBuiltIn::openAI
+  importedQueryInputs: {}
+  _additionalScope: []
+  isImported: false
+  showSuccessToaster: true
+  cacheKeyTtl: ''
+  requestSentTimestamp: null
+  metadata: null
+  queryRunTime: null
+  changesetObject: ''
+  offlineOptimisticResponse: null
+  errorTransformer: return data.error
+  finished: null
+  confirmationMessage: null
+  isFetching: false
+  changeset: ''
+  drafts:
+    array: []
+  rawData: null
+  queryTriggerDelay: '0'
+  resourceTypeOverride: null
+  watchedParams: []
+  temperature: 0.3
+  enableErrorTransformer: false
+  showLatestVersionUpdatedWarning: false
+  timestamp: 0
+  mcpServers:
+    array: []
+  importedQueryDefaults: {}
+  enableTransformer: false
+  showUpdateSetValueDynamicallyToggle: true
+  overrideOrgCacheForUserCache: false
+  runWhenPageLoads: false
+  transformer: return data
+  events: []
+  queryTimeout: '10000'
+  workflowId: null
+  maxIterations: 10
+  requireConfirmation: false
+  queryFailureConditions: ''
+  tools:
+    - id: c9d6e65b-67a6-4d65-8201-c2251a0a9567
+      name: source contol workflow
+      description: gets repos from github
+      approvalRequired: false
+      handlerTimeout: 10000
+      params: []
+      handler:
+        type: workflow
+        workflowId: 0427b861-fde8-4abd-801e-4c477b9db73f
+      metadata:
+        type: custom
+        iconName: RetoolWorkflow
+        iconColor: gray
+        isGeneratedFunction: false
+  changesetIsObject: false
+  providerName: openAI
+  enableCaching: false
+  allowedGroups: []
+  offlineQueryType: None
+  queryThrottleTime: '750'
+  updateSetValueDynamically: false
+  notificationDuration: ''
+createdAt: 2025-10-29T15:58:34.893Z
+blockData:
+  top: 48
+  left: 480
+  uuid: 4e59554f-36d3-43db-a93b-54e7778c3357
+  pluginId: aiAgentExecute1
+  blockType: aiAgentExecute
+  editorType: JavascriptQuery
+  isMinimized: false
+  resourceName: RetoolAIAgentExecuteQuery
+  incomingPorts: []
+  incomingOnSuccessEdges:
+    - bf3e843c-503b-4a8d-90ad-e46c9f642ebc
