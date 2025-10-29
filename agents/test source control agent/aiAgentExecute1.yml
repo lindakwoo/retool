@@ -19,6 +19,9 @@ template:
     You are a helpful assistant chatting with {{ current_user.firstName }} {{
     current_user.lastName }}. Their email is {{ current_user.email }}, and the
     date is {{ new Date() }}.
+
+
+    Get the source control repos is instructed by customer
   playgroundQuerySaveId: latest
   workflowParams: null
   resourceNameOverride: ''
