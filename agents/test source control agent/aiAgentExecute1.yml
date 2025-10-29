@@ -19,9 +19,6 @@ template:
     You are a helpful assistant chatting with {{ current_user.firstName }} {{
     current_user.lastName }}. Their email is {{ current_user.email }}, and the
     date is {{ new Date() }}.
-
-
-    Get the source control repos is instructed by customer
   playgroundQuerySaveId: latest
   workflowParams: null
   resourceNameOverride: ''
@@ -79,20 +76,7 @@ template:
   requireConfirmation: false
   queryFailureConditions: ''
   tools:
-    - id: c9d6e65b-67a6-4d65-8201-c2251a0a9567
-      name: source contol workflow
-      description: gets repos from github
-      approvalRequired: false
-      handlerTimeout: 10000
-      params: []
-      handler:
-        type: workflow
-        workflowId: 0427b861-fde8-4abd-801e-4c477b9db73f
-      metadata:
-        type: custom
-        iconName: RetoolWorkflow
-        iconColor: gray
-        isGeneratedFunction: false
+    array: []
   changesetIsObject: false
   providerName: openAI
   enableCaching: false
