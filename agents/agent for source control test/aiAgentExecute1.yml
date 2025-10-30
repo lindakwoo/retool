@@ -1,0 +1,124 @@
+id: aiAgentExecute1
+type: datasource
+subtype: JavascriptQuery
+resourceName: RetoolAIAgentExecuteQuery
+template:
+  queryRefreshTime: ''
+  allowedGroupIds: []
+  streamResponse: false
+  lastReceivedFromResourceAt: null
+  isFunction: false
+  functionParameters: null
+  queryDisabledMessage: ''
+  servedFromCache: false
+  offlineUserQueryInputs: ''
+  functionDescription: null
+  successMessage: ''
+  queryDisabled: ''
+  instructions: >-
+    You are a helpful assistant chatting with {{ current_user.firstName }} {{
+    current_user.lastName }}. Their email is {{ current_user.email }}, and the
+    date is {{ new Date() }}.
+
+
+    You will get a string from the user and send it to httpbin using the httpbin
+    tool.  You will then reply to the user with the response from the tool
+  playgroundQuerySaveId: latest
+  workflowParams: null
+  resourceNameOverride: ''
+  runWhenModelUpdates: false
+  workflowRunExecutionType: sync
+  showFailureToaster: true
+  query: ''
+  playgroundQueryUuid: ''
+  playgroundQueryId: null
+  error: null
+  workflowRunBodyType: raw
+  privateParams: []
+  model: gpt-4.1
+  queryRunOnSelectorUpdate: false
+  runWhenPageLoadsDelay: ''
+  data: null
+  providerId: retoolAIBuiltIn::openAI
+  importedQueryInputs: {}
+  _additionalScope: []
+  isImported: false
+  showSuccessToaster: true
+  cacheKeyTtl: ''
+  requestSentTimestamp: null
+  metadata: null
+  queryRunTime: null
+  changesetObject: ''
+  offlineOptimisticResponse: null
+  errorTransformer: return data.error
+  finished: null
+  confirmationMessage: null
+  isFetching: false
+  changeset: ''
+  drafts:
+    array: []
+  rawData: null
+  queryTriggerDelay: '0'
+  resourceTypeOverride: null
+  watchedParams: []
+  temperature: 0.3
+  enableErrorTransformer: false
+  showLatestVersionUpdatedWarning: false
+  timestamp: 0
+  mcpServers:
+    array: []
+  importedQueryDefaults: {}
+  enableTransformer: false
+  showUpdateSetValueDynamicallyToggle: true
+  overrideOrgCacheForUserCache: false
+  runWhenPageLoads: false
+  transformer: return data
+  events: []
+  queryTimeout: '10000'
+  workflowId: null
+  maxIterations: 10
+  requireConfirmation: false
+  queryFailureConditions: ''
+  tools:
+    - draft: null
+      approvalRequired: false
+      params:
+        - id: d440abf3-f90e-475d-90d8-98a051cebe2c
+          name: tag
+          description: text to send to httpbin
+          type: string
+          required: false
+          exampleValue: ''
+      handler:
+        type: workflow
+        workflowId: 0427b861-fde8-4abd-801e-4c477b9db73f
+      name: httpbin tool
+      metadata:
+        iconName: RetoolWorkflow
+        iconColor: gray
+        type: custom
+        isGeneratedFunction: false
+      handlerTimeout: 10000
+      id: a0b73783-bb61-4c1b-96a5-a4945e46daa9
+      description: run this workflow to post something to httpbin
+  changesetIsObject: false
+  providerName: openAI
+  enableCaching: false
+  allowedGroups: []
+  offlineQueryType: None
+  queryThrottleTime: '750'
+  updateSetValueDynamically: false
+  notificationDuration: ''
+createdAt: 2025-10-30T18:09:11.426Z
+blockData:
+  top: 48
+  left: 480
+  uuid: 1c33eb05-1e2c-4a12-951c-e00dfa7d20a3
+  pluginId: aiAgentExecute1
+  blockType: aiAgentExecute
+  editorType: JavascriptQuery
+  isMinimized: false
+  resourceName: RetoolAIAgentExecuteQuery
+  incomingPorts: []
+  incomingOnSuccessEdges:
+    - 08f7dcfb-61bd-4a23-b053-8e3c1ae0fe4d
