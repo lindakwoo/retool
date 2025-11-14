@@ -1,0 +1,27 @@
+- id: 3f9bd2d1-1f42-4579-9212-015282300590
+  createdBy: 1871206
+  enabledAt: null
+  workflowId: 7a9ac7f2-530c-4046-817f-da366e181d41
+  triggerType: schedule
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  concurrencyLimit: 1
+- id: 90fb221f-c599-466b-b61b-827f1d6825b2
+  createdBy: 1871206
+  enabledAt: '2025-11-14T21:00:15.413Z'
+  workflowId: 7a9ac7f2-530c-4046-817f-da366e181d41
+  triggerType: webhook
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions: null
+  concurrencyLimit: null
+  workflowCustomUrlPath:
+    id: 971cc19d-1973-4306-9e4e-53e55b417d13
+    path: run-zencastr
+    isPublic: false
+    createdAt: '2025-11-14T21:00:30.409Z'
+    updatedAt: '2025-11-14T21:00:30.409Z'
+    workflowId: 7a9ac7f2-530c-4046-817f-da366e181d41
+    organizationId: 1119279
