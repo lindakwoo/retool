@@ -1,0 +1,13 @@
+id: blockHeaderParams
+type: function
+subtype: Function
+template:
+  ordered:
+    - funcBody: |-
+        const body = {
+          add_ids: {{blockIDs.value}}
+        };
+
+        return headerHelper(body, {{retoolContext.environment}});
+    - value: ''
+createdAt: 2022-09-26T21:10:56.879Z

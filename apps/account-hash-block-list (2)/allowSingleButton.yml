@@ -1,0 +1,44 @@
+id: allowSingleButton
+type: widget
+subtype: ButtonWidget2
+template:
+  ordered:
+    - horizontalAlign: stretch
+    - clickable: false
+    - iconAfter: ''
+    - submitTargetId: null
+    - marginType: normal
+    - hidden: false
+    - text: Allow Hash
+    - showInEditor: false
+    - tooltipText: ''
+    - style:
+        ordered:
+          - background: info
+    - styleVariant: solid
+    - submit: false
+    - iconBefore: ''
+    - events:
+        - ordered:
+            - event: click
+            - type: datasource
+            - method: trigger
+            - pluginId: allowSingleHash
+            - targetId: null
+            - params:
+                ordered: []
+            - waitType: debounce
+            - waitMs: '0'
+    - loading: false
+    - loaderPosition: auto
+    - disabled: '{{ !segmentSelect.value }}'
+    - maintainSpaceWhenHidden: false
+style:
+  ordered: []
+position2:
+  position2:
+    row: 1.8000000000000003
+    col: 9
+    height: 1
+    width: 1
+createdAt: 2022-09-27T14:48:01.462Z

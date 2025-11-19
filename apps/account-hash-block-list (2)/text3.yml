@@ -1,0 +1,29 @@
+id: text3
+type: widget
+subtype: TextWidget2
+template:
+  ordered:
+    - heightType: auto
+    - horizontalAlign: left
+    - marginType: normal
+    - hidden: false
+    - imageWidth: fit
+    - showInEditor: false
+    - verticalAlign: center
+    - tooltipText: ''
+    - value: >-
+        ### Are you sure you want to remove these {{allowIDs.value.length}} ids
+        from the block list?
+    - disableMarkdown: false
+    - overflowType: scroll
+    - maintainSpaceWhenHidden: false
+style:
+  ordered: []
+position2:
+  position2:
+    container: allowConfirm
+    row: 2
+    col: 1
+    height: 1.6
+    width: 10
+createdAt: 2022-09-26T21:21:44.046Z
