@@ -19,9 +19,6 @@
   concurrencyLimit: null
   workflowCustomUrlPath:
     id: 971cc19d-1973-4306-9e4e-53e55b417d13
-    path: run-zencastr
+    path: run-zencastr-test
     isPublic: false
-    createdAt: '2025-11-14T21:00:30.409Z'
-    updatedAt: '2025-11-14T21:00:30.409Z'
     workflowId: 7a9ac7f2-530c-4046-817f-da366e181d41
-    organizationId: 1119279
