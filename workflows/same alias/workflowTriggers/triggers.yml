@@ -1,0 +1,27 @@
+- id: 4815258c-9062-471e-914e-1aa6a4c49dd1
+  createdBy: 1735245
+  enabledAt: '2025-11-20T17:31:55.875Z'
+  workflowId: 4a711832-4f99-466c-99e0-8f35952a0bc9
+  triggerType: webhook
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions: null
+  concurrencyLimit: null
+  workflowCustomUrlPath:
+    id: c2980474-61f9-4a3f-8004-939e7df2099b
+    path: same-alias
+    isPublic: false
+    createdAt: '2025-11-20T17:36:51.711Z'
+    updatedAt: '2025-11-20T17:36:51.711Z'
+    workflowId: 4a711832-4f99-466c-99e0-8f35952a0bc9
+    organizationId: 1119279
+- id: c8edb8f0-a066-479e-8786-91cf5b5f3547
+  createdBy: 1735245
+  enabledAt: null
+  workflowId: 4a711832-4f99-466c-99e0-8f35952a0bc9
+  triggerType: schedule
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  concurrencyLimit: 1
