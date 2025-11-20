@@ -1,0 +1,27 @@
+- id: 39860013-7c48-48da-8534-d36c9e98c02b
+  createdBy: 1735245
+  enabledAt: null
+  workflowId: 220c42b7-344f-42ef-8d46-803ea189beee
+  triggerType: schedule
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  concurrencyLimit: 1
+- id: d3278a88-70ab-4cda-b135-319e141fe391
+  createdBy: 1735245
+  enabledAt: null
+  workflowId: 220c42b7-344f-42ef-8d46-803ea189beee
+  triggerType: webhook
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions: null
+  concurrencyLimit: null
+  workflowCustomUrlPath:
+    id: 49771ec9-0374-4860-b53c-9a5b9acea345
+    path: run-another
+    isPublic: false
+    createdAt: '2025-11-20T17:12:19.115Z'
+    updatedAt: '2025-11-20T17:12:19.115Z'
+    workflowId: 220c42b7-344f-42ef-8d46-803ea189beee
+    organizationId: 1119279
