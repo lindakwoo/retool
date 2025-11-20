@@ -19,9 +19,6 @@
   concurrencyLimit: null
   workflowCustomUrlPath:
     id: 49771ec9-0374-4860-b53c-9a5b9acea345
-    path: run-another
+    path: run-something
     isPublic: false
-    createdAt: '2025-11-20T17:12:19.115Z'
-    updatedAt: '2025-11-20T17:12:19.115Z'
     workflowId: 220c42b7-344f-42ef-8d46-803ea189beee
-    organizationId: 1119279
