@@ -1,0 +1,248 @@
+{
+  "AddUser": {
+    "container": "createUserForm",
+    "rowGroup": "footer",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "EditUserSave": {
+    "container": "editUserForm",
+    "rowGroup": "footer",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "addListLevel": {
+    "container": "createUserForm",
+    "col": 10,
+    "height": 0.2,
+    "width": 2
+  },
+  "button20": {
+    "subcontainer": "header3",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "button25": {
+    "container": "editUserForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "cancel": {
+    "container": "createUserForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "checkbox2": {
+    "container": "editUserForm",
+    "row": 2.2,
+    "col": 3,
+    "height": 0.6,
+    "width": 4
+  },
+  "checkbox3": {
+    "container": "createUserForm",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.6
+  },
+  "container241": {
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "countryList": {
+    "container": "createUserForm",
+    "row": 0.2,
+    "col": 3,
+    "height": 0.2
+  },
+  "createCountryCodeList": {
+    "container": "createUserForm",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2
+  },
+  "createUser": {
+    "container": "container241",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "createUserForm": {
+    "row": 11.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "createUserRole1": {
+    "subcontainer": "userManagementModal",
+    "row": 7.8,
+    "col": 5,
+    "height": 0.2
+  },
+  "createUserRole2": {
+    "container": "createUserForm",
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "editCountryCode": {
+    "container": "editUserForm",
+    "row": 2,
+    "col": 6,
+    "height": 0.2
+  },
+  "editCountryList": {
+    "container": "editUserForm",
+    "row": 2,
+    "col": 3,
+    "height": 0.2
+  },
+  "editListLevel": {
+    "container": "editUserForm",
+    "col": 10,
+    "height": 0.2,
+    "width": 2
+  },
+  "editUserForm": {
+    "row": 12,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "editUserRole": {
+    "container": "editUserForm",
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "formTitle53": {
+    "container": "createUserForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle54": {
+    "container": "editUserForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "userManagementModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "userManagementModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "multiselect11": {
+    "container": "createUserForm",
+    "row": 0.2,
+    "height": 0.2
+  },
+  "multiselect12": {
+    "container": "createUserForm",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.2
+  },
+  "multiselect13": {
+    "container": "editUserForm",
+    "row": 2,
+    "col": 9,
+    "height": 0.2
+  },
+  "multiselect14": {
+    "container": "editUserForm",
+    "row": 2,
+    "height": 0.2
+  },
+  "multiselect6": {
+    "rowGroup": "footer",
+    "subcontainer": "userManagementModal",
+    "col": 5,
+    "height": 0.2
+  },
+  "productList": {
+    "container": "createUserForm",
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "productListEdit": {
+    "container": "editUserForm",
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "text556": {
+    "subcontainer": "header3",
+    "height": 0.6
+  },
+  "textInput122": {
+    "container": "createUserForm",
+    "height": 0.2
+  },
+  "textInput123": {
+    "container": "createUserForm",
+    "col": 3,
+    "height": 0.2
+  },
+  "textInput124": {
+    "container": "editUserForm",
+    "height": 0.2
+  },
+  "textInput125": {
+    "container": "editUserForm",
+    "col": 3,
+    "height": 0.2
+  },
+  "userListTable": {
+    "container": "container241",
+    "subcontainer": "61061",
+    "height": 9.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

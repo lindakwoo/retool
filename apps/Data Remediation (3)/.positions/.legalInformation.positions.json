@@ -1,0 +1,564 @@
+{
+  "CloseMasterRecordBtn4": {
+    "row": 18.6,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "EntityInfoActionsWrapper6": {
+    "row": 1.4,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "FormWrapper6": {
+    "row": 5.2,
+    "col": 2,
+    "height": 13.4,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "IncorporationDate": {
+    "container": "group11",
+    "subcontainer": "c0251",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "IncorporationDate5": {
+    "container": "group7",
+    "subcontainer": "c0251",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "LegalFieldsContainer": {
+    "container": "MyEditsContainer11",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "LegalFieldsContainer3": {
+    "container": "MyEditsContainer12",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12
+  },
+  "MyEditsContainer11": {
+    "container": "FormWrapper6",
+    "subcontainer": "3eabc",
+    "col": 6,
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer12": {
+    "container": "FormWrapper6",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonGroup14": {
+    "container": "EntityInfoActionsWrapper6",
+    "subcontainer": "3eabc",
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle80": {
+    "container": "navigationAccordion16",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle81": {
+    "container": "navigationAccordion17",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle82": {
+    "container": "navigationAccordion18",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle81": {
+    "container": "navigationAccordion16",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle82": {
+    "container": "navigationAccordion17",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle83": {
+    "container": "navigationAccordion18",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "companyCategory6": {
+    "container": "EntityInfoActionsWrapper6",
+    "subcontainer": "3eabc",
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle402": {
+    "container": "EntityInfoActionsWrapper6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle403": {
+    "container": "navigationContainer6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle404": {
+    "container": "FormWrapper6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle405": {
+    "container": "MyEditsContainer11",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 9
+  },
+  "containerTitle406": {
+    "container": "LegalFieldsContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle409": {
+    "container": "LegalFieldsContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "editIncopDay": {
+    "container": "group7",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 8,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "editIncopMonth": {
+    "container": "group7",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "editIncopYear": {
+    "container": "group7",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoGoldenRecordIcon6": {
+    "container": "MyEditsContainer12",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 5
+  },
+  "group10": {
+    "container": "LegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group11": {
+    "container": "LegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 11.6,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group12": {
+    "container": "LegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 7.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group7": {
+    "container": "LegalFieldsContainer3",
+    "subcontainer": "3eabc",
+    "row": 3.6,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "group9": {
+    "container": "LegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "incopDay": {
+    "container": "group11",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 8,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "incopMonth": {
+    "container": "group11",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "incopYear": {
+    "container": "group11",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "legalFormSelect": {
+    "container": "group9",
+    "subcontainer": "c0251",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "legalFormSelect3": {
+    "container": "LegalFieldsContainer3",
+    "subcontainer": "3eabc",
+    "height": 0.2,
+    "width": 12
+  },
+  "legalNavigation": {
+    "container": "navigationAccordion16",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "legalSave": {
+    "row": 18.6,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "linkList7": {
+    "container": "EntityInfoActionsWrapper6",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "nationalLegalFormValue": {
+    "container": "group10",
+    "subcontainer": "c0251",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "nationalLegalFormdis2": {
+    "container": "LegalFieldsContainer3",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigation28": {
+    "container": "navigationAccordion17",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation29": {
+    "container": "navigationAccordion18",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationAccordion16": {
+    "container": "navigationContainer6",
+    "subcontainer": "f90d9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion17": {
+    "container": "navigationContainer6",
+    "subcontainer": "f90d9",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationAccordion18": {
+    "container": "navigationContainer6",
+    "subcontainer": "f90d9",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationContainer6": {
+    "row": 5.2,
+    "height": 13.4,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "orbisMasterButtonGroup2": {
+    "row": 0.2,
+    "col": 9,
+    "height": 1
+  },
+  "stateOfIncoperationgld2": {
+    "container": "LegalFieldsContainer3",
+    "subcontainer": "3eabc",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "stateOfIncorporationValue": {
+    "container": "group12",
+    "subcontainer": "35c2a",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text552": {
+    "container": "EntityInfoActionsWrapper6",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text553": {
+    "container": "EntityInfoActionsWrapper6",
+    "subcontainer": "3eabc",
+    "col": 2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

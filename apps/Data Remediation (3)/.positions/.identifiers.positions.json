@@ -1,0 +1,612 @@
+{
+  "CloseMasterRecordBtnIdentifiers": {
+    "row": 18.2,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "CurrentIdentifiersList": {
+    "container": "IdentifiersContainer",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "CurrentIdentifiersList7": {
+    "container": "IdentifiersContainer6",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "EachIdentifierContainer": {
+    "container": "CurrentIdentifiersList",
+    "row": 1,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "EntityInfoActionsWrapper5": {
+    "row": 1,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "FormWrapper5": {
+    "row": 4.8,
+    "col": 2,
+    "height": 13.4,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "IdentifiersContainer": {
+    "container": "MyEditsContainer9",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "IdentifiersContainer6": {
+    "container": "MyEditsContainer10",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer10": {
+    "container": "FormWrapper5",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer9": {
+    "container": "FormWrapper5",
+    "subcontainer": "3eabc",
+    "col": 6,
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "TextIMutliIDSelected3": {
+    "container": "container233",
+    "subcontainer": "7647e",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "TextInBVDIDSelected18": {
+    "container": "container233",
+    "subcontainer": "7647e",
+    "height": 0.2,
+    "width": 12
+  },
+  "TextInBVDIDSelected19": {
+    "container": "container233",
+    "subcontainer": "7647e",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "TextInBVDIDSelected20": {
+    "container": "container236",
+    "subcontainer": "7647e",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "TextInBVDIDSelected21": {
+    "container": "container236",
+    "subcontainer": "7647e",
+    "height": 0.2,
+    "width": 12
+  },
+  "TextInMultiIdSelected3": {
+    "container": "container236",
+    "subcontainer": "7647e",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "alertExistingIdentifiers": {
+    "container": "CurrentIdentifiersList",
+    "height": 1,
+    "width": 12
+  },
+  "alertNewIdentifiers": {
+    "container": "IdentifiersContainer",
+    "subcontainer": "3eabc",
+    "row": 1.4,
+    "height": 2.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonGroup13": {
+    "container": "EntityInfoActionsWrapper5",
+    "subcontainer": "3eabc",
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle77": {
+    "container": "navigationAccordion13",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle78": {
+    "container": "navigationAccordion14",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle79": {
+    "container": "navigationAccordion15",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle78": {
+    "container": "navigationAccordion13",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle79": {
+    "container": "navigationAccordion14",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle80": {
+    "container": "navigationAccordion15",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "companyCategory5": {
+    "container": "EntityInfoActionsWrapper5",
+    "subcontainer": "3eabc",
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container233": {
+    "container": "IdentifiersContainer",
+    "subcontainer": "3eabc",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container234": {
+    "container": "newIdentifiersList5",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container236": {
+    "container": "IdentifiersContainer6",
+    "subcontainer": "3eabc",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container237": {
+    "container": "CurrentIdentifiersList7",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle384": {
+    "container": "EntityInfoActionsWrapper5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle385": {
+    "container": "navigationContainer5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle386": {
+    "container": "FormWrapper5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle391": {
+    "container": "MyEditsContainer9",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 9
+  },
+  "containerTitle392": {
+    "container": "container233",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle393": {
+    "container": "IdentifiersContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle394": {
+    "container": "EachIdentifierContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle395": {
+    "container": "container234",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle399": {
+    "container": "container236",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle400": {
+    "container": "IdentifiersContainer6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle401": {
+    "container": "container237",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "eachIdentifierVal": {
+    "container": "EachIdentifierContainer",
+    "subcontainer": "62b09",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "eachIdentifierVal7": {
+    "container": "container237",
+    "subcontainer": "62b09",
+    "height": 0.2,
+    "width": 11
+  },
+  "eachNewIdentifier": {
+    "container": "container234",
+    "subcontainer": "bf06c",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoGoldenRecordIcon5": {
+    "container": "MyEditsContainer10",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 5
+  },
+  "icon235": {
+    "container": "EachIdentifierContainer",
+    "subcontainer": "62b09",
+    "row": 0.4,
+    "col": 11,
+    "height": 0.6,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "linkList6": {
+    "container": "EntityInfoActionsWrapper5",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigation24": {
+    "container": "navigationAccordion13",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation25": {
+    "container": "navigationAccordion14",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation26": {
+    "container": "navigationAccordion15",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationAccordion13": {
+    "container": "navigationContainer5",
+    "subcontainer": "f90d9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion14": {
+    "container": "navigationContainer5",
+    "subcontainer": "f90d9",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationAccordion15": {
+    "container": "navigationContainer5",
+    "subcontainer": "f90d9",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationContainer5": {
+    "row": 4.8,
+    "height": 13.4,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newIdentifiersAdded": {
+    "container": "IdentifiersContainer",
+    "subcontainer": "3eabc",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newIdentifiersAdded6": {
+    "container": "IdentifiersContainer6",
+    "subcontainer": "3eabc",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "newIdentifiersList5": {
+    "container": "IdentifiersContainer",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "orbisMasterButtonGroup6": {
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "saveButtonIdentifiers": {
+    "row": 18.2,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "text550": {
+    "container": "EntityInfoActionsWrapper5",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text551": {
+    "container": "EntityInfoActionsWrapper5",
+    "subcontainer": "3eabc",
+    "col": 2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textInOrbisIDSelected10": {
+    "container": "container236",
+    "subcontainer": "7647e",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "textInOrbisIDSelected9": {
+    "container": "container233",
+    "subcontainer": "7647e",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  }
+}

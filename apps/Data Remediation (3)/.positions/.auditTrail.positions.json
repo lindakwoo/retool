@@ -1,0 +1,56 @@
+{
+  "TableAuditInfo2": {
+    "height": 3.6,
+    "width": 12
+  },
+  "auditTrailTitle2": {
+    "subcontainer": "header6",
+    "height": 0.6,
+    "width": 11
+  },
+  "buttonAuditSearch3": {
+    "subcontainer": "header6",
+    "row": 2,
+    "col": 9,
+    "height": 1,
+    "width": 2
+  },
+  "divider7": {
+    "subcontainer": "header6",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "from_date2": {
+    "subcontainer": "header6",
+    "row": 1.4,
+    "col": 5,
+    "height": 0.2,
+    "width": 2
+  },
+  "modalCloseButton20": {
+    "subcontainer": "header6",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "radioAudit2": {
+    "subcontainer": "header6",
+    "row": 1.4,
+    "height": 0.8,
+    "width": 4
+  },
+  "to_date2": {
+    "subcontainer": "header6",
+    "row": 1.4,
+    "col": 7,
+    "height": 0.2,
+    "width": 2
+  },
+  "txtboxSearchAuditInfo2": {
+    "subcontainer": "header6",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 4
+  }
+}

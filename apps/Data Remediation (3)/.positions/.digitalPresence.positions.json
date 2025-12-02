@@ -1,0 +1,602 @@
+{
+  "CloseMasterRecordBtnDigital": {
+    "row": 18.4,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "EmailsContainer": {
+    "container": "MyEditsContainer5",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "EmailsContainer3": {
+    "container": "MyEditsContainer6",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12
+  },
+  "EntityInfoActionsWrapper3": {
+    "row": 1.2,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "FormWrapper3": {
+    "row": 5,
+    "col": 2,
+    "height": 13.4,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ListOfWebsites": {
+    "container": "WebsitesContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ListOfWebsites3": {
+    "container": "WebsitesContainer3",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer5": {
+    "container": "FormWrapper3",
+    "subcontainer": "3eabc",
+    "col": 6,
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer6": {
+    "container": "FormWrapper3",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "NewEmailsList": {
+    "container": "EmailsContainer",
+    "subcontainer": "3eabc",
+    "row": 1.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "NewWebsitesList": {
+    "container": "WebsitesContainer",
+    "subcontainer": "3eabc",
+    "row": 1.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "WebsitesContainer": {
+    "container": "MyEditsContainer5",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "WebsitesContainer3": {
+    "container": "MyEditsContainer6",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12
+  },
+  "buttonGroup10": {
+    "container": "EntityInfoActionsWrapper3",
+    "subcontainer": "3eabc",
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle71": {
+    "container": "navigationAccordion7",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle72": {
+    "container": "navigationAccordion8",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle73": {
+    "container": "navigationAccordion9",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle72": {
+    "container": "navigationAccordion7",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle73": {
+    "container": "navigationAccordion8",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle74": {
+    "container": "navigationAccordion9",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "companyCategory3": {
+    "container": "EntityInfoActionsWrapper3",
+    "subcontainer": "3eabc",
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container197": {
+    "container": "emailList3",
+    "height": 2.6,
+    "width": 12
+  },
+  "container198": {
+    "container": "emailList",
+    "height": 2.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container199": {
+    "container": "NewEmailsList",
+    "height": 1.6,
+    "width": 12
+  },
+  "container251": {
+    "container": "NewWebsitesList",
+    "height": 1.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle313": {
+    "container": "EntityInfoActionsWrapper3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle314": {
+    "container": "navigationContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle315": {
+    "container": "FormWrapper3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle318": {
+    "container": "MyEditsContainer5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 9
+  },
+  "containerTitle319": {
+    "container": "WebsitesContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle322": {
+    "container": "EmailsContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle323": {
+    "container": "container197",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle324": {
+    "container": "EmailsContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle325": {
+    "container": "container198",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle326": {
+    "container": "container199",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle432": {
+    "container": "WebsitesContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle433": {
+    "container": "container251",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "eachEmail": {
+    "container": "emailList",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 11
+  },
+  "eachEmail3": {
+    "container": "emailList3",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 11
+  },
+  "eachNewEmail": {
+    "container": "container199",
+    "subcontainer": "d81f7",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "eachNewWebsite": {
+    "container": "container251",
+    "subcontainer": "dc9c2",
+    "height": 0.2,
+    "width": 11
+  },
+  "eachWebsite": {
+    "container": "ListOfWebsites",
+    "height": 0.2,
+    "width": 11
+  },
+  "eachWebsite3": {
+    "container": "ListOfWebsites3",
+    "height": 0.2,
+    "width": 11
+  },
+  "emailList": {
+    "container": "EmailsContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "emailList3": {
+    "container": "EmailsContainer3",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoGoldenRecordIcon3": {
+    "type": "stack",
+    "container": "MyEditsContainer6",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 148,
+        "height": 32
+      }
+    }
+  },
+  "icon221": {
+    "container": "emailList3",
+    "row": 3,
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "icon222": {
+    "container": "emailList",
+    "row": 3,
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon3": {
+    "container": "ListOfWebsites",
+    "row": 0.4,
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "iconText11": {
+    "container": "EmailsContainer3",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 0.6,
+    "width": 5
+  },
+  "iconText12": {
+    "container": "EmailsContainer",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 0.6,
+    "width": 5
+  },
+  "iconText7": {
+    "container": "WebsitesContainer",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 0.6,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "iconText9": {
+    "container": "WebsitesContainer3",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 0.6,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "linkList4": {
+    "container": "EntityInfoActionsWrapper3",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigation18": {
+    "container": "navigationAccordion7",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation20": {
+    "container": "navigationAccordion9",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationAccordion7": {
+    "container": "navigationContainer3",
+    "subcontainer": "f90d9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion8": {
+    "container": "navigationContainer3",
+    "subcontainer": "f90d9",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationAccordion9": {
+    "container": "navigationContainer3",
+    "subcontainer": "f90d9",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationContainer3": {
+    "row": 5,
+    "height": 13.4,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationDigital": {
+    "container": "navigationAccordion8",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "orbisMasterButtonGroup4": {
+    "row": 0.2,
+    "col": 9,
+    "height": 1
+  },
+  "saveButtonDigitalPresence": {
+    "row": 18.4,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "text543": {
+    "container": "EntityInfoActionsWrapper3",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text544": {
+    "container": "EntityInfoActionsWrapper3",
+    "subcontainer": "3eabc",
+    "col": 2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

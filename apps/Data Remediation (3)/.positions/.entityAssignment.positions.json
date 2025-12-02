@@ -1,0 +1,52 @@
+{
+  "EntityAssignedDataTable": {
+    "row": 2.6,
+    "height": 8,
+    "width": 12
+  },
+  "EntityAssignedHistoryTable": {
+    "row": 11.2,
+    "height": 13.8,
+    "width": 12
+  },
+  "button28": {
+    "subcontainer": "header5",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "buttonEntitySearch": {
+    "row": 1.6,
+    "col": 3,
+    "height": 1,
+    "width": 2
+  },
+  "entityAssignSearchTab": {
+    "row": 0.8,
+    "height": 0.8
+  },
+  "entityAssignTabs": {
+    "height": 0.8
+  },
+  "modalCloseButton18": {
+    "rowGroup": "header",
+    "subcontainer": "assignedEntity",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "modalTitle15": {
+    "rowGroup": "header",
+    "subcontainer": "assignedEntity",
+    "height": 0.6,
+    "width": 9
+  },
+  "text558": {
+    "subcontainer": "header5",
+    "height": 0.6
+  },
+  "txtboxSearchEntityAssign": {
+    "row": 1.6,
+    "height": 0.2
+  }
+}

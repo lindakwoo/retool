@@ -1,0 +1,175 @@
+
+.lds-roller,
+.lds-roller div,
+.lds-roller div:after {
+  box-sizing: border-box;
+}
+.lds-roller {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-roller div {
+  animation: lds-roller 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  transform-origin: 40px 40px;
+}
+.lds-roller div:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  width: 7.2px;
+  height: 7.2px;
+  border-radius: 50%;
+  background: currentColor;
+  margin: -3.6px 0 0 -3.6px;
+}
+.lds-roller div:nth-child(1) {
+  animation-delay: -0.036s;
+}
+.lds-roller div:nth-child(1):after {
+  top: 62.62742px;
+  left: 62.62742px;
+}
+.lds-roller div:nth-child(2) {
+  animation-delay: -0.072s;
+}
+.lds-roller div:nth-child(2):after {
+  top: 67.71281px;
+  left: 56px;
+}
+.lds-roller div:nth-child(3) {
+  animation-delay: -0.108s;
+}
+.lds-roller div:nth-child(3):after {
+  top: 70.90963px;
+  left: 48.28221px;
+}
+.lds-roller div:nth-child(4) {
+  animation-delay: -0.144s;
+}
+.lds-roller div:nth-child(4):after {
+  top: 72px;
+  left: 40px;
+}
+.lds-roller div:nth-child(5) {
+  animation-delay: -0.18s;
+}
+.lds-roller div:nth-child(5):after {
+  top: 70.90963px;
+  left: 31.71779px;
+}
+.lds-roller div:nth-child(6) {
+  animation-delay: -0.216s;
+}
+.lds-roller div:nth-child(6):after {
+  top: 67.71281px;
+  left: 24px;
+}
+.lds-roller div:nth-child(7) {
+  animation-delay: -0.252s;
+}
+.lds-roller div:nth-child(7):after {
+  top: 62.62742px;
+  left: 17.37258px;
+}
+.lds-roller div:nth-child(8) {
+  animation-delay: -0.288s;
+}
+.lds-roller div:nth-child(8):after {
+  top: 56px;
+  left: 12.28719px;
+}
+@keyframes lds-roller {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+._retool-collapsibleContainer1,
+._retool-commiteesContainer,
+._retool-commiteesContainer2,
+._retool-seniorManagementContainer,
+._retool-seniorManagementContainer2,
+._retool-container69,
+._retool-collapsibleContainer5,
+._retool-collapsibleContainer6,
+._retool-container70,
+._retool-listView3,
+._retool-collapsibleContainer8,
+._retool-container78,
+._retool-collapsibleContainer11,
+._retool-collapsibleContainer12,
+.retool-collapsibleContainer14,
+._retool-container79
+._retool-AboutContainer1,
+._retool-AboutContainer2,
+._retool-EducationContainer1,
+._retool-EducationContainer2
+{
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+   width: 100%;
+}
+
+._retool-collapsibleContainer1:hover,
+._retool-commiteesContainer:hover,
+._retool-seniorManagementContainer:hover,
+._retool-container69:hover,
+._retool-collapsibleContainer5:hover,
+._retool-collapsibleContainer6:hover,
+._retool-container70:hover,
+._retool-listView3:hover,
+._retool-collapsibleContainer8:hover,
+._retool-AboutContainer1:hover,
+._retool-AboutContainer2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+._retool-phoneNumLabel5 {
+  font-weight: bold;
+}
+
+._retool-GoldenContainer ._retool-AboutContainer2 div,
+._retool-GoldenContainer ._retool-EducationContainer4 div,
+._retool-GoldenContainer ._retool-EducationContainer2 div,
+._retool-GoldenContainer ._retool-container110 div,
+._retool-GoldenContainer ._retool-container135 div,
+._retool-GoldenContainer2 div,
+._retool-AboutContainer4 div {
+  border: #fff;
+}
+
+
+._retool-GoldenContainer input,
+._retool-GoldenContainer2 input,
+._retool-nameLanguage4 div,
+._retool-salutation6 div,
+._retool-salutation7 div,
+._retool-birthCountry4 div,
+._retool-gender4 div,
+._retool-GoldenContainer ._retool-country7 div,
+._retool-GoldenContainer ._retool-birthYear2 div,
+._retool-GoldenContainer ._retool-birthMonth2 div,
+._retool-GoldenContainer ._retool-birthDay2 div
+._retool-GoldenContainer ._retool-deathYear2 div,
+._retool-GoldenContainer ._retool-deathMonth2 div,
+._retool-GoldenContainer ._retool-deathDay2 div{ 
+  padding-left: 0
+}
+
+._retool-deleteIntName svg,
+._retool-deletePersonalInfo svg,
+._retool-addressDelete svg {
+  height: 8px;  
+}
+
+._retool-disqualificationText div {
+}
+
+._main_145ea_1._rightSticky_145ea_44 {
+  border-left: none;
+}

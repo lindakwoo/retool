@@ -1,0 +1,494 @@
+{
+  "BusinessDescriptionContainer": {
+    "container": "MyEditsContainer3",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "BusinessDescriptionContainer4": {
+    "type": "stack",
+    "container": "MyEditsContainer4",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "row": 1.2,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 265,
+        "height": 1024
+      }
+    }
+  },
+  "BusinessDescriptionList": {
+    "container": "BusinessDescriptionContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "BusinessDescriptionList4": {
+    "container": "BusinessDescriptionContainer4",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "CloseMasterRecordBtnBusiness": {
+    "row": 18.2,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "EntityInfoActionsWrapper2": {
+    "row": 1,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "FormWrapper2": {
+    "row": 4.8,
+    "col": 2,
+    "height": 13.4,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer3": {
+    "container": "FormWrapper2",
+    "subcontainer": "3eabc",
+    "col": 6,
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer4": {
+    "container": "FormWrapper2",
+    "subcontainer": "3eabc",
+    "height": 7.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "addBusinessDescButton3": {
+    "container": "BusinessDescriptionContainer",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 1,
+    "width": 6
+  },
+  "addBusinessDescButton4": {
+    "container": "BusinessDescriptionContainer4",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "col": 6,
+    "height": 1,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "businessDescInputField": {
+    "container": "container176",
+    "subcontainer": "855d7",
+    "row": 1.2,
+    "height": 1,
+    "width": 12
+  },
+  "businessDescInputField5": {
+    "container": "container195",
+    "subcontainer": "855d7",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "businessDescLanguageInputField": {
+    "container": "container176",
+    "subcontainer": "855d7",
+    "height": 0.2,
+    "width": 8
+  },
+  "businessDescLanguageInputField4": {
+    "container": "container195",
+    "subcontainer": "855d7",
+    "height": 0.2,
+    "width": 8
+  },
+  "businessForm": {
+    "container": "BusinessDescriptionContainer",
+    "subcontainer": "3eabc",
+    "row": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonGroup9": {
+    "container": "EntityInfoActionsWrapper2",
+    "subcontainer": "3eabc",
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle68": {
+    "container": "navigationAccordion4",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle69": {
+    "container": "navigationAccordion5",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle70": {
+    "container": "navigationAccordion6",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle69": {
+    "container": "navigationAccordion4",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle70": {
+    "container": "navigationAccordion5",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle71": {
+    "container": "navigationAccordion6",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "companyCategory2": {
+    "container": "EntityInfoActionsWrapper2",
+    "subcontainer": "3eabc",
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container176": {
+    "container": "BusinessDescriptionList",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container195": {
+    "container": "BusinessDescriptionList4",
+    "height": 1,
+    "width": 12
+  },
+  "containerTitle265": {
+    "container": "FormWrapper2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle276": {
+    "container": "container176",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle277": {
+    "container": "BusinessDescriptionContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle283": {
+    "container": "MyEditsContainer3",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "containerTitle309": {
+    "container": "container195",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle310": {
+    "container": "BusinessDescriptionContainer4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle311": {
+    "container": "navigationContainer2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle312": {
+    "container": "EntityInfoActionsWrapper2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "deleteBusiness2": {
+    "container": "container176",
+    "subcontainer": "855d7",
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "deleteFlag2": {
+    "container": "container176",
+    "subcontainer": "855d7",
+    "row": 0.6,
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "firmoGoldenRecordIcon2": {
+    "type": "stack",
+    "container": "MyEditsContainer4",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 148,
+        "height": 32
+      }
+    }
+  },
+  "linkList3": {
+    "container": "EntityInfoActionsWrapper2",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigation16": {
+    "container": "navigationAccordion5",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation17": {
+    "container": "navigationAccordion6",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationAccordion4": {
+    "container": "navigationContainer2",
+    "subcontainer": "f90d9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion5": {
+    "container": "navigationContainer2",
+    "subcontainer": "f90d9",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion6": {
+    "container": "navigationContainer2",
+    "subcontainer": "f90d9",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationBusiness": {
+    "container": "navigationAccordion4",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationContainer2": {
+    "row": 4.8,
+    "height": 13.4,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newBusinessDesc2": {
+    "container": "businessForm",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 10
+  },
+  "newBusinessDescInputField": {
+    "container": "businessForm",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "newBusinessDescLanguageInputField": {
+    "container": "businessForm",
+    "height": 0.2,
+    "width": 11
+  },
+  "orbisMasterButtonGroup3": {
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "removeBusinessDesc2": {
+    "container": "businessForm",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "saveButtonBusiness": {
+    "row": 18.2,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "text541": {
+    "container": "EntityInfoActionsWrapper2",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text542": {
+    "container": "EntityInfoActionsWrapper2",
+    "subcontainer": "3eabc",
+    "col": 2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

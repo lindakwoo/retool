@@ -1,0 +1,22 @@
+.myClass {
+  /* text-align: center; */
+  background-color: #416475;
+  height: 50px;
+}
+.center-xy {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+}
+
+.copy-container {
+  text-align: center;
+}
+
+.error {
+  color: #fff;
+  font-size: 24px;
+  letter-spacing: .2px;
+  margin: 0;
+}

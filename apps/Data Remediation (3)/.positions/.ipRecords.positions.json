@@ -1,0 +1,1112 @@
+{
+  "CompanyNameLocalContainer4": {
+    "container": "firmoIpAndRemCompanyNameContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "IncorporationDate6": {
+    "container": "firmoIpAndRemGroup",
+    "subcontainer": "c0251",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "businessDescInputField6": {
+    "container": "firmoIpAndRemBusinessEachContainer",
+    "subcontainer": "855d7",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "button32": {
+    "subcontainer": "header10",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "container242": {
+    "container": "firmoAndRemAddressListView",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container243": {
+    "container": "firmoIpAndRemAkaNamesList",
+    "height": 1,
+    "width": 12
+  },
+  "container244": {
+    "container": "firmoIpAndRemAkaLocalNamesList",
+    "height": 1,
+    "width": 12
+  },
+  "container245": {
+    "container": "firmoIpAndRemCompanyLocalNamesList",
+    "height": 1,
+    "width": 12
+  },
+  "container246": {
+    "container": "firmoAndRemEmailsList",
+    "height": 2.6,
+    "width": 12
+  },
+  "container247": {
+    "container": "firmoIpAndRemIdentifiersContainerList",
+    "subcontainer": "3eabc",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container248": {
+    "container": "firmoIpAndRemPrevLocalNamesList",
+    "height": 1,
+    "width": 12
+  },
+  "container249": {
+    "container": "firmoPreAndRemPrevNameContainer",
+    "subcontainer": "3eabc",
+    "row": 3.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container250": {
+    "container": "firmoPreAndRemPrevNamesList",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle417": {
+    "container": "firmoIpAndRemAddressContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle418": {
+    "container": "container243",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle419": {
+    "container": "container244",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle420": {
+    "container": "firmoIpAndRemBusinessDescriptionContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "containerTitle421": {
+    "container": "firmoIpAndRemBusinessEachContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle422": {
+    "container": "firmoIpAndRemCompanyEachContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle423": {
+    "container": "container245",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle424": {
+    "container": "container246",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle425": {
+    "container": "container247",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle426": {
+    "container": "firmoIpAndRemIdentifierContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle427": {
+    "container": "firmoIpAndRemLegalFieldsContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle428": {
+    "container": "container248",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle429": {
+    "container": "container249",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle430": {
+    "container": "firmoPreAndRemPrevNameContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle431": {
+    "container": "container250",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "dateSince4": {
+    "container": "container250",
+    "subcontainer": "ee81e",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "dateUntil4": {
+    "container": "container250",
+    "subcontainer": "ee81e",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "divider8": {
+    "container": "container250",
+    "subcontainer": "ee81e",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "eachAddressForm6": {
+    "container": "container242",
+    "subcontainer": "c85c9",
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "eachAkaLocalName3": {
+    "container": "container244",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11
+  },
+  "eachPrevLocalName3": {
+    "container": "container248",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoAndIpCompanyNames": {
+    "type": "stack",
+    "container": "firmoIpAndRemCompanyNameContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 1188,
+        "height": 48
+      }
+    }
+  },
+  "firmoAndIpRecordAllContainer": {
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoAndRemAddressListView": {
+    "container": "firmoIpAndRemAddressContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoAndRemAddressTitle": {
+    "container": "container242",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 1
+  },
+  "firmoAndRemEmailsList": {
+    "container": "firmoIpAndRemEmailsContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoAndRemWebsitesTitle": {
+    "container": "firmoIpAndRemWebsitesContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemAddressContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 38,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemAddressLanguage": {
+    "container": "eachAddressForm6",
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemAddressLine": {
+    "container": "eachAddressForm6",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemAddressType": {
+    "container": "eachAddressForm6",
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemAkaLocalNamesList": {
+    "container": "firmoIpAndRemAkaNameLocalContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemAkaNameContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 15.2,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemAkaNameLocaTitle": {
+    "container": "firmoIpAndRemAkaNameLocalContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemAkaNameLocalContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 19,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemAkaNamesList": {
+    "container": "firmoIpAndRemAkaNameContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemAkaTitle": {
+    "container": "firmoIpAndRemAkaNameContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemBusinessDescLanguageInputField": {
+    "container": "firmoIpAndRemBusinessEachContainer",
+    "subcontainer": "855d7",
+    "height": 0.2,
+    "width": 8
+  },
+  "firmoIpAndRemBusinessDescriptionContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 26.6,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemBusinessDescriptionList": {
+    "container": "firmoIpAndRemBusinessDescriptionContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemBusinessEachContainer": {
+    "container": "firmoIpAndRemBusinessDescriptionList",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemCity": {
+    "container": "eachAddressForm6",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemCompanyEachContainer": {
+    "container": "firmoAndIpCompanyNames",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemCompanyLocalNamesList": {
+    "container": "firmoIpAndRemCompanyNamesLocalContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemCompanyLocalTitle": {
+    "container": "firmoIpAndRemCompanyNamesLocalContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "firmoIpAndRemCompanyNameContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemCompanyNamesLocalContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemContainerTitle": {
+    "container": "firmoIpAndRemIdentifiersContainerList",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemContainerTitleName": {
+    "container": "firmoIpAndRemEmailsContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemCountry": {
+    "container": "eachAddressForm6",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemCountryISO": {
+    "container": "eachAddressForm6",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.2
+  },
+  "firmoIpAndRemCountryRegion": {
+    "container": "eachAddressForm6",
+    "row": 0.8,
+    "height": 0.2
+  },
+  "firmoIpAndRemCounty": {
+    "container": "eachAddressForm6",
+    "row": 0.6,
+    "col": 9,
+    "height": 0.2
+  },
+  "firmoIpAndRemCurrentIdentifiersList": {
+    "container": "firmoIpAndRemIdentifiersContainerList",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemEachAkaName": {
+    "container": "container243",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoIpAndRemEachCompanyLocalName": {
+    "container": "container245",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoIpAndRemEachCompanyName": {
+    "container": "firmoIpAndRemCompanyEachContainer",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoIpAndRemEachEmail": {
+    "container": "firmoAndRemEmailsList",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoIpAndRemEachIdentifierVal": {
+    "container": "firmoIpAndRemIdentifierContainer",
+    "subcontainer": "62b09",
+    "height": 0.2,
+    "width": 11
+  },
+  "firmoIpAndRemEachWebsite": {
+    "container": "firmoIpAndRemListOfWebsites",
+    "height": 0.2,
+    "width": 7
+  },
+  "firmoIpAndRemEditIncopDay": {
+    "container": "firmoIpAndRemGroup",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemEditIncopMonth": {
+    "container": "firmoIpAndRemGroup",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "col": 2,
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemEditIncopYear": {
+    "container": "firmoIpAndRemGroup",
+    "subcontainer": "c0251",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemEmailsContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 34.2,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemFaxNumber": {
+    "container": "eachAddressForm6",
+    "row": 1.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemFaxNumberLabel": {
+    "container": "eachAddressForm6",
+    "row": 1,
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "firmoIpAndRemGroup": {
+    "container": "firmoIpAndRemLegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 3.6,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemIdentifierContainer": {
+    "container": "firmoIpAndRemCurrentIdentifiersList",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemIdentifiersContainerList": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 41.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemLegalFieldsContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 22.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemLegalFormSelect": {
+    "container": "firmoIpAndRemLegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "height": 0.2,
+    "width": 8
+  },
+  "firmoIpAndRemListOfWebsites": {
+    "container": "firmoIpAndRemWebsitesContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemNationalLegalFormdis": {
+    "container": "firmoIpAndRemLegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 8
+  },
+  "firmoIpAndRemPhoneNumLabel": {
+    "container": "eachAddressForm6",
+    "row": 1,
+    "height": 0.6,
+    "width": 6
+  },
+  "firmoIpAndRemPhoneNumber": {
+    "container": "eachAddressForm6",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "firmoIpAndRemPoBox": {
+    "container": "eachAddressForm6",
+    "row": 0.4,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "firmoIpAndRemPostCode": {
+    "container": "eachAddressForm6",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 4
+  },
+  "firmoIpAndRemPreNameLocalTitle": {
+    "container": "firmoIpAndRemPrevLocalNameContainer",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "firmoIpAndRemPrevLocalNameContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 11.4,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemPrevLocalNamesList": {
+    "container": "firmoIpAndRemPrevLocalNameContainer",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemRegionGeoCode": {
+    "container": "eachAddressForm6",
+    "row": 0.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 4
+  },
+  "firmoIpAndRemState": {
+    "container": "eachAddressForm6",
+    "row": 0.4,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "firmoIpAndRemStateOfIncoperationgld": {
+    "container": "firmoIpAndRemLegalFieldsContainer",
+    "subcontainer": "3eabc",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 8
+  },
+  "firmoIpAndRemTextInBVDIDSelected": {
+    "container": "container247",
+    "subcontainer": "7647e",
+    "height": 0.2,
+    "width": 12
+  },
+  "firmoIpAndRemTextInLEISelected": {
+    "container": "container247",
+    "subcontainer": "7647e",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "firmoIpAndRemTextInMultiIDSelected": {
+    "container": "container247",
+    "subcontainer": "7647e",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "firmoIpAndRemTextInOrbisIDSelected": {
+    "container": "container247",
+    "subcontainer": "7647e",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "firmoIpAndRemTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "firmoIpRecord",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 2
+  },
+  "firmoIpAndRemTitle3": {
+    "subcontainer": "header10",
+    "row": 0.6,
+    "height": 0.6
+  },
+  "firmoIpAndRemWebsitesContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 30.4,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoIpAndRemWorldRegion": {
+    "container": "eachAddressForm6",
+    "row": 0.8,
+    "col": 3,
+    "height": 0.2
+  },
+  "firmoPreAndRemEachPrevName": {
+    "container": "container250",
+    "subcontainer": "ee81e",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoPreAndRemPrevNameContainer": {
+    "container": "firmoAndIpRecordAllContainer",
+    "subcontainer": "3eabc",
+    "row": 7.6,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "firmoPreAndRemPrevNamesList": {
+    "container": "firmoPreAndRemPrevNameContainer",
+    "subcontainer": "3eabc",
+    "height": 2.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formButton48": {
+    "container": "eachAddressForm6",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formTitle61": {
+    "container": "eachAddressForm6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "icon281": {
+    "container": "container243",
+    "subcontainer": "ee81e",
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon282": {
+    "container": "container245",
+    "subcontainer": "ee81e",
+    "row": 0.4,
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon283": {
+    "container": "firmoAndRemEmailsList",
+    "row": 3,
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "icon284": {
+    "container": "firmoIpAndRemIdentifierContainer",
+    "subcontainer": "62b09",
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon285": {
+    "container": "container248",
+    "subcontainer": "ee81e",
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon286": {
+    "container": "firmoIpAndRemListOfWebsites",
+    "row": 0.6,
+    "col": 11,
+    "height": 0.4,
+    "width": 1
+  },
+  "icon287": {
+    "container": "firmoIpAndRemListOfWebsites",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "icon288": {
+    "container": "container249",
+    "subcontainer": "c01df",
+    "row": 0.2,
+    "col": 11,
+    "height": 0.4,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newDateSince4": {
+    "container": "container249",
+    "subcontainer": "c01df",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newDateUntil4": {
+    "container": "container249",
+    "subcontainer": "c01df",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newPrevName5": {
+    "container": "container249",
+    "subcontainer": "c01df",
+    "height": 0.2,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "showMorePrevNames4": {
+    "container": "firmoPreAndRemPrevNameContainer",
+    "subcontainer": "3eabc",
+    "row": 2.6,
+    "height": 0.6,
+    "width": 5
+  },
+  "text652": {
+    "subcontainer": "header10",
+    "height": 0.6
+  }
+}

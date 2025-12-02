@@ -1,0 +1,80 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "6f0732b2-9315-11f0-a491-1b2f4f1ead3f",
+  "appTemplate": {
+    "appThemeId": "custom",
+    "pageCodeFolders": {
+      "object": {
+        "entityDetails": {
+          "array": []
+        },
+        "home": {
+          "array": []
+        },
+        "business": {
+          "array": []
+        },
+        "digitalPresence": {
+          "array": []
+        },
+        "address": {
+          "array": []
+        },
+        "identifiers": {
+          "array": []
+        },
+        "legalInformation": {
+          "array": []
+        },
+        "jira": {
+          "array": []
+        },
+        "uploadDocument": {
+          "array": []
+        },
+        "userManagement": {
+          "array": []
+        },
+        "kompanySearch": {
+          "array": []
+        },
+        "manageRegistryUrls": {
+          "array": []
+        },
+        "kompanySearchConfig": {
+          "array": []
+        },
+        "entityAssignment": {
+          "array": []
+        },
+        "auditTrail": {
+          "array": []
+        },
+        "batchProcesses": {
+          "array": []
+        },
+        "directorIdManager": {
+          "array": []
+        },
+        "ipRecords": {
+          "array": []
+        },
+        "remediatedRecord": {
+          "array": []
+        },
+        "firmohome": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "home",
+    "preloadedAppJSLinks": {
+      "array": [
+        "https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"
+      ]
+    },
+    "version": "3.273.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "f2ab2833-9f57-4c8f-be25-95abd0862240",
+  "appTemplate": {
+    "appThemeId": 2,
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": true,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "isGlobalWidget": true,
+    "appThemeName": "MDS",
+    "version": "3.148.3",
+    "experimentalDataTabEnabled": true
+  }
+}

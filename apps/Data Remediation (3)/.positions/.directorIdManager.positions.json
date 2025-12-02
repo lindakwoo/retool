@@ -1,0 +1,182 @@
+{
+  "button29": {
+    "container": "directorIdsAddForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "button30": {
+    "container": "directorIdsEditForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "button31": {
+    "subcontainer": "header9",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "companyForm2": {
+    "height": 1,
+    "width": 12
+  },
+  "createEntityIPButton": {
+    "container": "companyForm2",
+    "row": 0.6,
+    "col": 4,
+    "height": 1,
+    "width": 2
+  },
+  "directorIdTable": {
+    "container": "companyForm2",
+    "row": 1.8,
+    "height": 7.2,
+    "width": 12
+  },
+  "directorIdsAddForm": {
+    "row": 1,
+    "height": 1,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "directorIdsEditForm": {
+    "row": 2,
+    "width": 8
+  },
+  "directorSearchIds": {
+    "container": "companyForm2",
+    "height": 0.2,
+    "width": 2
+  },
+  "editIsoCode5": {
+    "container": "directorIdsAddForm",
+    "height": 1
+  },
+  "editIsoCode7": {
+    "container": "directorIdsAddForm",
+    "row": 0.2,
+    "col": 11,
+    "height": 0.2,
+    "width": 1
+  },
+  "editIsoCode8": {
+    "container": "directorIdsEditForm",
+    "height": 1
+  },
+  "editIsoCode9": {
+    "container": "directorIdsEditForm",
+    "row": 3.6,
+    "col": 11,
+    "height": 0.2,
+    "width": 1
+  },
+  "editKompanyApiField3": {
+    "container": "directorIdsAddForm",
+    "row": 2.2,
+    "height": 0.2
+  },
+  "editKompanyApiField4": {
+    "container": "directorIdsEditForm",
+    "row": 1,
+    "height": 0.2
+  },
+  "editLastModifiedBy3": {
+    "container": "directorIdsAddForm",
+    "row": 2.2,
+    "col": 3,
+    "height": 0.2,
+    "width": 7
+  },
+  "editLastModifiedBy4": {
+    "container": "directorIdsEditForm",
+    "row": 1,
+    "col": 3,
+    "height": 0.2,
+    "width": 8
+  },
+  "formButton46": {
+    "container": "directorIdsAddForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formButton47": {
+    "container": "directorIdsEditForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formTitle58": {
+    "container": "companyForm2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle59": {
+    "container": "directorIdsAddForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle60": {
+    "container": "directorIdsEditForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton13": {
+    "rowGroup": "header",
+    "subcontainer": "directoIdsManager",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "modalTitle10": {
+    "rowGroup": "header",
+    "subcontainer": "directoIdsManager",
+    "height": 0.6,
+    "width": 4
+  },
+  "searchDirectorIds": {
+    "container": "companyForm2",
+    "row": 0.6,
+    "col": 2,
+    "height": 1,
+    "width": 1
+  },
+  "searchDirectorIds2": {
+    "container": "companyForm2",
+    "row": 0.6,
+    "col": 3,
+    "height": 1,
+    "width": 1
+  },
+  "text651": {
+    "subcontainer": "header9",
+    "height": 0.6
+  },
+  "textInput126": {
+    "container": "directorIdsAddForm",
+    "col": 3,
+    "height": 1,
+    "width": 7
+  },
+  "textInput127": {
+    "container": "directorIdsEditForm",
+    "col": 3,
+    "height": 1,
+    "width": 8
+  }
+}

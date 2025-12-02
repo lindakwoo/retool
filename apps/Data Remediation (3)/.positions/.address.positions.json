@@ -1,0 +1,1188 @@
+{
+  "AddressContainer3": {
+    "container": "MyEditsContainer7",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AddressContainer4": {
+    "container": "MyEditsContainer8",
+    "subcontainer": "3eabc",
+    "row": 3.8,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AddressFilters": {
+    "container": "MyEditsContainer7",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AddressFilters4": {
+    "container": "MyEditsContainer8",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AddressListView": {
+    "container": "AddressContainer3",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AddressListView4": {
+    "container": "AddressContainer4",
+    "subcontainer": "3eabc",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "EntityInfoActionsWrapper4": {
+    "row": 1,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "FormWrapper4": {
+    "row": 4.8,
+    "col": 2,
+    "height": 13.4,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer7": {
+    "container": "FormWrapper4",
+    "subcontainer": "3eabc",
+    "col": 6,
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "MyEditsContainer8": {
+    "container": "FormWrapper4",
+    "subcontainer": "3eabc",
+    "height": 3.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "addNewAddress": {
+    "container": "AddressContainer3",
+    "subcontainer": "3eabc",
+    "row": 1.2,
+    "height": 1,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "addNewAddress4": {
+    "container": "AddressContainer4",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 1,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "addressChangeAlert": {
+    "container": "container200",
+    "rowGroup": "header",
+    "row": 0.8,
+    "height": 1.4,
+    "width": 12
+  },
+  "addressLanguage": {
+    "container": "eachAddressForm",
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "addressLanguage6": {
+    "container": "eachAddressForm5",
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "addressLine": {
+    "container": "eachAddressForm",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "addressLine14": {
+    "container": "eachAddressForm5",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "addressLine2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "addressType": {
+    "container": "eachAddressForm",
+    "height": 0.2,
+    "width": 6
+  },
+  "addressType6": {
+    "container": "eachAddressForm5",
+    "height": 0.2,
+    "width": 6
+  },
+  "applyFilter": {
+    "container": "AddressFilters",
+    "subcontainer": "44119",
+    "row": 0.6,
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "applyFilter4": {
+    "container": "AddressFilters4",
+    "subcontainer": "44119",
+    "row": 0.6,
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "buttonGroup11": {
+    "container": "EntityInfoActionsWrapper4",
+    "subcontainer": "3eabc",
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonGroup12": {
+    "container": "container200",
+    "rowGroup": "header",
+    "subcontainer": "c85c9",
+    "col": 7,
+    "height": 0.8,
+    "width": 4
+  },
+  "city": {
+    "container": "eachAddressForm",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "city14": {
+    "container": "eachAddressForm5",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "city2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 0.8,
+    "col": 7,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "clearFilter": {
+    "container": "AddressFilters",
+    "subcontainer": "44119",
+    "row": 0.6,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "clearFilter4": {
+    "container": "AddressFilters4",
+    "subcontainer": "44119",
+    "row": 0.6,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "closeButtonAddress": {
+    "row": 18.2,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "collapsibleTitle74": {
+    "container": "navigationAccordion10",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle75": {
+    "container": "navigationAccordion11",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle76": {
+    "container": "navigationAccordion12",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle75": {
+    "container": "navigationAccordion10",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle76": {
+    "container": "navigationAccordion11",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle77": {
+    "container": "navigationAccordion12",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "companyCategory4": {
+    "container": "EntityInfoActionsWrapper4",
+    "subcontainer": "3eabc",
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container200": {
+    "container": "AddressListView",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container219": {
+    "container": "AddressListView4",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle327": {
+    "container": "EntityInfoActionsWrapper4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle328": {
+    "container": "navigationContainer4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle329": {
+    "container": "FormWrapper4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle330": {
+    "container": "container200",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 0.6
+  },
+  "containerTitle331": {
+    "container": "AddressContainer3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle332": {
+    "container": "newAddressForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 8
+  },
+  "containerTitle333": {
+    "container": "AddressFilters",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle347": {
+    "container": "MyEditsContainer7",
+    "rowGroup": "header",
+    "height": 0.6
+  },
+  "containerTitle364": {
+    "container": "container219",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 0.6,
+    "width": 6
+  },
+  "containerTitle365": {
+    "container": "AddressContainer4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle366": {
+    "container": "AddressFilters4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "country": {
+    "container": "eachAddressForm",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "country14": {
+    "container": "eachAddressForm5",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "country2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "countryISO": {
+    "container": "eachAddressForm",
+    "row": 1.2,
+    "col": 6,
+    "height": 0.2
+  },
+  "countryISO2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1.8,
+    "col": 6,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "countryISO9": {
+    "container": "eachAddressForm5",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.2
+  },
+  "countryRegion": {
+    "container": "eachAddressForm",
+    "row": 2,
+    "height": 0.2,
+    "width": 4
+  },
+  "countryRegion2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 3.2,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "countryRegion9": {
+    "container": "eachAddressForm5",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 4
+  },
+  "county": {
+    "container": "eachAddressForm",
+    "row": 0.6,
+    "col": 9,
+    "height": 0.2
+  },
+  "county3": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1.2,
+    "col": 9,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "county6": {
+    "container": "eachAddressForm5",
+    "row": 0.6,
+    "col": 9,
+    "height": 0.2
+  },
+  "deleteFlag8": {
+    "container": "container200",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "eachAddressForm": {
+    "container": "container200",
+    "subcontainer": "c85c9",
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "eachAddressForm5": {
+    "container": "container219",
+    "subcontainer": "c85c9",
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "eachAddressLineValidationMsg": {
+    "container": "eachAddressForm",
+    "row": 0.4,
+    "height": 0.6,
+    "width": 6
+  },
+  "eachPostCodeValidationMsg2": {
+    "container": "eachAddressForm",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4
+  },
+  "faxNumber": {
+    "container": "eachAddressForm",
+    "row": 2.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "faxNumber15": {
+    "container": "eachAddressForm5",
+    "row": 1.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "faxNumber2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 4,
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "faxNumberLabel7": {
+    "container": "eachAddressForm",
+    "row": 2.2,
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "faxNumberLabel8": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 3.4,
+    "col": 6,
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "faxNumberLabel9": {
+    "container": "eachAddressForm5",
+    "row": 1,
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "firmoGoldenRecordIcon4": {
+    "container": "MyEditsContainer8",
+    "rowGroup": "header",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 5
+  },
+  "formButton43": {
+    "container": "eachAddressForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButton44": {
+    "container": "eachAddressForm5",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formTitle46": {
+    "container": "eachAddressForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle47": {
+    "container": "eachAddressForm5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "icon223": {
+    "container": "container200",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 1
+  },
+  "icon233": {
+    "container": "container219",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 1
+  },
+  "language2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "col": 7,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "languageFilter": {
+    "container": "AddressFilters",
+    "subcontainer": "44119",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "languageFilter4": {
+    "container": "AddressFilters4",
+    "subcontainer": "44119",
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "linkList5": {
+    "container": "EntityInfoActionsWrapper4",
+    "subcontainer": "3eabc",
+    "row": 0.2,
+    "col": 9,
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigation21": {
+    "container": "navigationAccordion10",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigation22": {
+    "container": "navigationAccordion11",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 10
+  },
+  "navigation23": {
+    "container": "navigationAccordion12",
+    "subcontainer": "4e33d",
+    "height": 0.8,
+    "width": 12
+  },
+  "navigationAccordion10": {
+    "container": "navigationContainer4",
+    "subcontainer": "f90d9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "navigationAccordion11": {
+    "container": "navigationContainer4",
+    "subcontainer": "f90d9",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationAccordion12": {
+    "container": "navigationContainer4",
+    "subcontainer": "f90d9",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigationContainer4": {
+    "row": 4.8,
+    "height": 13.4,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newAddressForm": {
+    "container": "AddressContainer3",
+    "subcontainer": "3eabc",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newAddressLineValidation": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1,
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newAddressType": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "height": 0.2,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newPostCodeValidation2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "orbisMasterButtonGroup5": {
+    "col": 9,
+    "height": 1
+  },
+  "phoneNumLabel20": {
+    "container": "eachAddressForm",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 6
+  },
+  "phoneNumLabel21": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 3.4,
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "phoneNumLabel22": {
+    "container": "eachAddressForm5",
+    "row": 1,
+    "height": 0.6,
+    "width": 6
+  },
+  "phoneNumber": {
+    "container": "eachAddressForm",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "phoneNumber15": {
+    "container": "eachAddressForm5",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "phoneNumber2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 4,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "poBox": {
+    "container": "eachAddressForm",
+    "row": 1,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "poBox2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1.6,
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "poBox9": {
+    "container": "eachAddressForm5",
+    "row": 0.4,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "postCode": {
+    "container": "eachAddressForm",
+    "row": 1,
+    "height": 0.2,
+    "width": 4
+  },
+  "postCode14": {
+    "container": "eachAddressForm5",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 4
+  },
+  "postCode2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "regionGeoCode": {
+    "container": "eachAddressForm",
+    "row": 1.4,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "regionGeoCode2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 2,
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "regionGeoCode8": {
+    "container": "eachAddressForm5",
+    "row": 0.8,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "removeAddress": {
+    "container": "newAddressForm",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "saveButtonAddress": {
+    "row": 18.2,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "state": {
+    "container": "eachAddressForm",
+    "row": 0.4,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "state14": {
+    "container": "eachAddressForm5",
+    "row": 0.4,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "state2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 1,
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text545": {
+    "container": "EntityInfoActionsWrapper4",
+    "subcontainer": "3eabc",
+    "height": 0.6,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text546": {
+    "container": "EntityInfoActionsWrapper4",
+    "subcontainer": "3eabc",
+    "col": 2,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text547": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text548": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 0.2,
+    "col": 7,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 21,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text549": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 2.6,
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "typeFilter": {
+    "container": "AddressFilters",
+    "subcontainer": "44119",
+    "height": 0.2,
+    "width": 4
+  },
+  "typeFilter4": {
+    "container": "AddressFilters4",
+    "subcontainer": "44119",
+    "height": 0.2,
+    "width": 4
+  },
+  "worldRegion": {
+    "container": "eachAddressForm",
+    "row": 2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  },
+  "worldRegion2": {
+    "container": "newAddressForm",
+    "subcontainer": "76445",
+    "row": 3.2,
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "worldRegion9": {
+    "container": "eachAddressForm5",
+    "row": 0.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 4
+  }
+}

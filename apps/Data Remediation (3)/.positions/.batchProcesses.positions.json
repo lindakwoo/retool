@@ -1,0 +1,193 @@
+{
+  "BatchResetCancel2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "d2a01",
+    "row": 0.4,
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "BtnProcessDataAfterUpload2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "d2a01",
+    "row": 0.2,
+    "col": 5,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ButtonHistory2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "ButtonReloadData2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "batchHistoryFromDate2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "height": 0.2,
+    "width": 2
+  },
+  "batchHistorySearchContainer2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "956b0",
+    "row": 0.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "batchHistoryToDate2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "col": 2,
+    "height": 0.2,
+    "width": 2
+  },
+  "batchProcessContainer2": {
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "batchProcessTable2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "d2a01",
+    "row": 1.6,
+    "height": 13.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "batchTab2": {
+    "container": "batchProcessContainer2",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 12
+  },
+  "browseExcelFile2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "d2a01",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "dropDownHistorySearchBatchName2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "col": 5,
+    "height": 0.2
+  },
+  "historyBatchTable2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "956b0",
+    "row": 1.6,
+    "height": 11.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "modalCloseButton21": {
+    "subcontainer": "header7",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "modalImportExportExcel2": {
+    "subcontainer": "header7",
+    "height": 0.6,
+    "width": 11
+  },
+  "radioSearchSelection2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "956b0",
+    "height": 2.4,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tags2": {
+    "container": "batchHistorySearchContainer2",
+    "subcontainer": "7ba3a",
+    "col": 4,
+    "height": 0.8,
+    "width": 1
+  },
+  "uploadFileBtn2": {
+    "container": "batchProcessContainer2",
+    "subcontainer": "d2a01",
+    "row": 0.2,
+    "col": 4,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

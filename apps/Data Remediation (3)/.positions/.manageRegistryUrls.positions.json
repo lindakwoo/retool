@@ -1,0 +1,223 @@
+{
+  "button26": {
+    "container": "registryUrlForm",
+    "row": 0.4,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "cancelEditRegistryUrl": {
+    "container": "editRegistryUrlForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "cancelRegistryUrl": {
+    "container": "createRegistryUrlForm",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "countriesList": {
+    "container": "registryUrlForm",
+    "height": 0.2,
+    "width": 2
+  },
+  "countryListCreate": {
+    "container": "createRegistryUrlForm",
+    "height": 0.2
+  },
+  "createRegistryUrlForm": {
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "editRegistryCountry": {
+    "container": "editRegistryUrlForm",
+    "col": 3,
+    "height": 0.2
+  },
+  "editRegistryCreateTimeStamp": {
+    "container": "editRegistryUrlForm",
+    "row": 0.6,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "editRegistryEngVersion": {
+    "container": "editRegistryUrlForm",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2
+  },
+  "editRegistryId": {
+    "container": "editRegistryUrlForm",
+    "row": 5.2,
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "editRegistryIdentifier": {
+    "container": "editRegistryUrlForm",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.2
+  },
+  "editRegistryIp": {
+    "container": "editRegistryUrlForm",
+    "row": 0.2,
+    "height": 0.2
+  },
+  "editRegistryOfficial": {
+    "container": "editRegistryUrlForm",
+    "row": 0.2,
+    "col": 3,
+    "height": 0.2
+  },
+  "editRegistryOrbisIdentifier": {
+    "container": "editRegistryUrlForm",
+    "row": 0.4,
+    "height": 0.2
+  },
+  "editRegistrySave": {
+    "container": "editRegistryUrlForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "editRegistryURL": {
+    "container": "editRegistryUrlForm",
+    "row": 0.4,
+    "col": 6,
+    "height": 0.2,
+    "width": 6
+  },
+  "editRegistryUpdateTimeStamp": {
+    "container": "editRegistryUrlForm",
+    "row": 5.4,
+    "col": 6,
+    "height": 0.2,
+    "width": 4
+  },
+  "editRegistryUrlForm": {
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editRegistryUserName": {
+    "container": "editRegistryUrlForm",
+    "height": 0.2
+  },
+  "editRegistrysSatesList": {
+    "container": "editRegistryUrlForm",
+    "col": 6,
+    "height": 0.2
+  },
+  "englishVersion": {
+    "container": "createRegistryUrlForm",
+    "row": 0.2,
+    "col": 3,
+    "height": 0.2
+  },
+  "formButton45": {
+    "container": "createRegistryUrlForm",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formTitle55": {
+    "container": "registryUrlForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle56": {
+    "container": "createRegistryUrlForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle57": {
+    "container": "editRegistryUrlForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "headerText": {
+    "subcontainer": "header4",
+    "height": 0.6
+  },
+  "ipTextInput": {
+    "container": "createRegistryUrlForm",
+    "col": 6,
+    "height": 0.2
+  },
+  "official": {
+    "container": "createRegistryUrlForm",
+    "row": 0.2,
+    "height": 0.2
+  },
+  "orbisIdentifier": {
+    "container": "createRegistryUrlForm",
+    "row": 0.4,
+    "height": 0.2
+  },
+  "registryHome": {
+    "subcontainer": "header4",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "registryIdentifier": {
+    "container": "createRegistryUrlForm",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2
+  },
+  "registryURL": {
+    "container": "createRegistryUrlForm",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.2,
+    "width": 6
+  },
+  "registryUrlForm": {
+    "height": 1,
+    "width": 12
+  },
+  "searchRegistryUrls": {
+    "container": "registryUrlForm",
+    "row": 0.6,
+    "col": 2,
+    "height": 1,
+    "width": 1
+  },
+  "statesListCreate": {
+    "container": "createRegistryUrlForm",
+    "col": 3,
+    "height": 0.2
+  },
+  "status": {
+    "container": "createRegistryUrlForm",
+    "row": 3.8,
+    "col": 9,
+    "height": 0.2,
+    "width": 2
+  },
+  "urlsList": {
+    "container": "registryUrlForm",
+    "row": 1.8,
+    "height": 5.4,
+    "width": 12
+  },
+  "userEmail": {
+    "container": "createRegistryUrlForm",
+    "row": 5.4,
+    "height": 0.2,
+    "width": 4
+  }
+}
