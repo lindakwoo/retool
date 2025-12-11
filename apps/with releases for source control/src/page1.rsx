@@ -6,7 +6,7 @@
   browserTitle=""
   title="Page 1"
   urlSlug=""
-  uuid="febddd95-a05b-478f-96d4-263189f05278"
+  uuid="6a6edd15-4442-4ece-8823-74e0f1b93d28"
 >
   <Frame
     id="$main"
@@ -21,6 +21,7 @@
       value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
       verticalAlign="center"
     />
+    <Button id="button1" text="Button" />
     <Table
       id="table1"
       cellSelection="none"
@@ -172,5 +173,33 @@
         />
       </ToolbarButton>
     </Table>
+    <Text id="text2" value="linda" verticalAlign="center" />
+    <Container
+      id="tabbedContainer1"
+      currentViewKey="{{ self.viewKeys[0] }}"
+      footerPadding="4px 12px"
+      headerPadding="4px 12px"
+      padding="12px"
+      showBody={true}
+      showHeader={true}
+    >
+      <Header>
+        <Tabs
+          id="tabs1"
+          itemMode="static"
+          navigateContainer={true}
+          targetContainerId="tabbedContainer1"
+          value="{{ self.values[0] }}"
+        >
+          <Option id="00030" value="Tab 1" />
+          <Option id="00031" value="Tab 2" />
+          <Option id="00032" value="Tab 3" />
+        </Tabs>
+      </Header>
+      <View id="00030" viewKey="View 1" />
+      <View id="00031" viewKey="View 2" />
+      <View id="00032" viewKey="View 3" />
+    </Container>
+    <TextInput id="textInput1" labelPosition="top" placeholder="Enter value" />
   </Frame>
 </Screen>

@@ -1,13 +1,49 @@
 {
+  "button1": {
+    "row": 0.8,
+    "col": 5,
+    "height": 1,
+    "width": 2
+  },
+  "tabbedContainer1": {
+    "row": 11.8,
+    "col": 7,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
   "table1": {
     "row": 2.4,
     "col": 2,
     "height": 8,
     "width": 8
   },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
   "text1": {
     "row": 0.4,
     "col": 2,
     "height": 1
+  },
+  "text2": {
+    "row": 11.8,
+    "col": 3,
+    "height": 0.6
+  },
+  "textInput1": {
+    "row": 12.4,
+    "height": 0.2,
+    "width": 4
   }
 }
