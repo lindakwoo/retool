@@ -201,5 +201,6 @@
       <View id="00032" viewKey="View 3" />
     </Container>
     <TextInput id="textInput1" labelPosition="top" placeholder="Enter value" />
+    <Text id="text3" value="final commit" verticalAlign="center" />
   </Frame>
 </Screen>
