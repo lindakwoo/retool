@@ -1,0 +1,24 @@
+{
+  "editableTextArea1": {
+    "row": 5,
+    "col": 6,
+    "height": 0.8,
+    "width": 4
+  },
+  "image3": {
+    "row": 5,
+    "col": 3
+  },
+  "navigation1": {
+    "row": 2.2,
+    "col": 1,
+    "height": 1,
+    "width": 11
+  },
+  "table2": {
+    "row": 11.6,
+    "col": 4,
+    "height": 8,
+    "width": 8
+  }
+}

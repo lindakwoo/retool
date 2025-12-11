@@ -3,6 +3,16 @@
   "version": "43.0.9",
   "pageUuid": "4e8c0db6-cfc7-11f0-8cec-33bfdb7f85ff",
   "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "page2": {
+          "array": []
+        },
+        "page3": {
+          "array": []
+        }
+      }
+    },
     "rootScreen": "page1",
     "version": "3.284.2",
     "experimentalDataTabEnabled": true
