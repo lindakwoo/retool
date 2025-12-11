@@ -54,6 +54,11 @@
       labelPosition="top"
       placeholder="Enter value"
     />
+    <Text
+      id="text6"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <Table
       id="table2"
       cellSelection="none"

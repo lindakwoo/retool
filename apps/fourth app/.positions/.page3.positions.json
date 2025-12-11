@@ -20,5 +20,9 @@
     "col": 4,
     "height": 8,
     "width": 8
+  },
+  "text6": {
+    "row": 5.4,
+    "height": 0.6
   }
 }
