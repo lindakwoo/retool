@@ -11,7 +11,7 @@
   "editPrivilege": null,
   "options": {
     "baseURL": "https://gmail.googleapis.com/gmail/v1",
-    "headers": [["", ""]],
+    "headers": [["some key", "{{ retoolContext.appName }}"]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
     "bearer_token": "",
