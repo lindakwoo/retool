@@ -17,7 +17,7 @@
     "bearer_token": "",
     "oauth2_scope": "https://www.googleapis.com/auth/gmail.modify",
     "auth0_clientID": "",
-    "authentication": "",
+    "authentication": "oauth2",
     "basic_password": "",
     "basic_username": "",
     "digest_password": "",
