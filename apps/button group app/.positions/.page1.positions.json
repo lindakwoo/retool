@@ -1,0 +1,12 @@
+{
+  "buttonGroup1": {
+    "row": 5.2,
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "textHeader": {
+    "height": 1.6,
+    "width": 12
+  }
+}
