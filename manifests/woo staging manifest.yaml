@@ -2,4 +2,4 @@ version: 1.0.0
 name: woo staging manifest
 apps:
   - uuid: 7ae76074-98ac-11f0-bdfd-87c973db54fa
-    release: 1.0.0
+    release: latest
