@@ -44,26 +44,11 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
-      primaryKeyColumnId="526e9"
       showBorder={true}
       showFooter={true}
       showHeader={true}
       toolbarPosition="bottom"
     >
-      <Column
-        id="526e9"
-        alignment="right"
-        editableOptions={{ showStepper: true }}
-        format="decimal"
-        formatOptions={{ showSeparators: true, notation: "standard" }}
-        groupAggregationMode="sum"
-        key="id"
-        label="ID"
-        placeholder="Enter value"
-        position="center"
-        size={100}
-        summaryAggregationMode="none"
-      />
       <Column
         id="185f7"
         alignment="left"
@@ -74,21 +59,7 @@
         label="Name"
         placeholder="Enter value"
         position="center"
-        size={100}
-        summaryAggregationMode="none"
-      />
-      <Column
-        id="90169"
-        alignment="right"
-        editableOptions={{ showStepper: true }}
-        format="decimal"
-        formatOptions={{ showSeparators: true, notation: "standard" }}
-        groupAggregationMode="sum"
-        key="age"
-        label="Age"
-        placeholder="Enter value"
-        position="center"
-        size={100}
+        size={50.09375}
         summaryAggregationMode="none"
       />
       <ToolbarButton
