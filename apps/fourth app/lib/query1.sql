@@ -1,1 +1,3 @@
-select * from users
+SELECT id, name, age, sex
+FROM users
+WHERE age > 25
