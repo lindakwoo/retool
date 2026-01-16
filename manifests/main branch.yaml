@@ -1,2 +1,5 @@
 version: 1.0.0
 name: main branch
+apps:
+  - uuid: d59b98fe-005f-11f0-9be5-1fe6257f07f1
+    release: 1.0.0
