@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -143,6 +144,7 @@
         type="custom"
       >
         <Event
+          id="dac6c293"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -158,6 +160,7 @@
         type="custom"
       >
         <Event
+          id="9f844e79"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
@@ -168,5 +171,10 @@
       </ToolbarButton>
     </Table>
     <Text id="text1" value="referral app" verticalAlign="center" />
+    <Text
+      id="text2"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
   </Frame>
 </Screen>
