@@ -1,3 +1,4 @@
-SELECT id, name, age, sex
-FROM users
-WHERE age > 25 AND name ='linda'
+SELECT * FROM test_employees
+WHERE id = {{ id_input.value }}
+  AND department = {{ dept_input.value }}
+  AND role_id = {{ role_input.value }};

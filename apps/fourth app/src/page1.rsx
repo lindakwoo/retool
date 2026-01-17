@@ -10,12 +10,16 @@
 >
   <SqlQueryUnified
     id="query1"
+    isMultiplayerEdited={false}
     query={include("../lib/query1.sql", "string")}
     resourceDisplayName="retool_db"
     resourceName="d19a645b-d819-4fef-86f0-7c8de4b456ce"
     runWhenModelUpdates={false}
     warningCodes={[]}
   />
+  <State id="id_input" value="3" />
+  <State id="dept_input" value="Marketing" />
+  <State id="role_input" value="3" />
   <Frame
     id="$main"
     enableFullBleed={false}
@@ -48,25 +52,28 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
-      rowHeight="medium"
+      primaryKeyColumnId="db238"
       showBorder={true}
       showFooter={true}
       showHeader={true}
       toolbarPosition="bottom"
     >
       <Column
-        id="b78d7"
+        id="db238"
         alignment="right"
+        editableOptions={{ showStepper: true }}
         format="decimal"
-        groupAggregationMode="countDistinct"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        groupAggregationMode="sum"
         key="id"
         label="ID"
+        placeholder="Enter value"
         position="center"
-        size={32}
+        size={100}
         summaryAggregationMode="none"
       />
       <Column
-        id="6765f"
+        id="52036"
         alignment="left"
         format="string"
         groupAggregationMode="none"
@@ -78,32 +85,42 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="09637"
-        alignment="right"
-        editableOptions={{ showStepper: true }}
-        format="decimal"
-        formatOptions={{ showSeparators: true, notation: "standard" }}
-        groupAggregationMode="sum"
-        key="age"
-        label="Age"
+        id="ff5e2"
+        alignment="left"
+        format="string"
+        groupAggregationMode="none"
+        key="department"
+        label="Department"
         placeholder="Enter value"
         position="center"
         size={100}
         summaryAggregationMode="none"
       />
       <Column
-        id="de747"
-        alignment="left"
-        format="tag"
-        formatOptions={{ automaticColors: true }}
-        groupAggregationMode="none"
-        key="sex"
-        label="Sex"
-        placeholder="Select option"
+        id="feb2a"
+        alignment="right"
+        editableOptions={{ showStepper: true }}
+        format="decimal"
+        formatOptions={{ showSeparators: true, notation: "standard" }}
+        groupAggregationMode="sum"
+        key="role_id"
+        label="Role ID"
+        placeholder="Enter value"
         position="center"
         size={100}
         summaryAggregationMode="none"
-        valueOverride="{{ _.startCase(item) }}"
+      />
+      <Column
+        id="d5c8c"
+        alignment="left"
+        format="boolean"
+        groupAggregationMode="none"
+        key="extra_flag"
+        label="Extra flag"
+        placeholder="Enter value"
+        position="center"
+        size={100}
+        summaryAggregationMode="none"
       />
       <ToolbarButton
         id="1a"
