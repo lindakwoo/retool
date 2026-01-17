@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
