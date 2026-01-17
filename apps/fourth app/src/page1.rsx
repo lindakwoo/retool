@@ -20,6 +20,7 @@
   <State id="id_input" value="3" />
   <State id="dept_input" value="Marketing" />
   <State id="role_input" value="3" />
+  <State id="name_input" value="Carol" />
   <Frame
     id="$main"
     enableFullBleed={false}
