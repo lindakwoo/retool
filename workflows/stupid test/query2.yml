@@ -1,4 +1,4 @@
-id: query1
+id: query2
 type: datasource
 subtype: RESTQuery
 resourceName: REST-WithoutResource
@@ -81,14 +81,14 @@ template:
   queryThrottleTime: '750'
   updateSetValueDynamically: false
   notificationDuration: ''
-createdAt: 2026-02-04T23:22:27.304Z
+createdAt: 2026-02-04T23:23:02.066Z
 blockData:
-  top: 224
-  left: 976
-  uuid: 2bcc54c4-02d8-429f-a6f0-48df8e7132ea
-  pluginId: query1
+  top: 496
+  left: 1072
+  uuid: 169bf330-7f6d-4b2b-8bc4-4e417002c48e
+  pluginId: query2
   blockType: default
   editorType: RESTQuery
   resourceName: REST-WithoutResource
   incomingOnSuccessEdges:
-    - 7f236090-9244-464e-bfb5-8de8d19c0b83
+    - 2bcc54c4-02d8-429f-a6f0-48df8e7132ea
