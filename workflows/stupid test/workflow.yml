@@ -108,7 +108,10 @@ setupScripts:
 
           /* Add destructured imports from library below
           eg. const { pow, log } = require("mathjs") */
-hasProtectedTriggers: true
+
+hasProtectedTriggers: false
+
+
 triggerWebhooks:
   array:
     - object:
