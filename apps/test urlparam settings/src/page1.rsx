@@ -33,7 +33,10 @@
       <Event
         event="click"
         method="openPage"
-        params={{ map: { pageName: "{{ item.id }}" } }}
+        params={{
+          pageName: "{{ item.id }}",
+          options: { passDataWith: "urlParams", persistUrlParams: true },
+        }}
         pluginId=""
         type="util"
         waitMs="0"
