@@ -3,3 +3,5 @@ name: some name for my manifest
 apps:
   - uuid: 7ae76074-98ac-11f0-bdfd-87c973db54fa
     release: latest
+  - uuid: a3b12794-06c8-11f1-97eb-8b282aa92c5e
+    release: latest
