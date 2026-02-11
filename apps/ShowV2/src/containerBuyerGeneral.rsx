@@ -311,6 +311,8 @@
         "queryExecutionMetadata",
         "source",
         "isRetoolSystemError",
+        "statusCode",
+        "data",
       ]}
       rowVisibility={{
         a: true,
@@ -321,11 +323,13 @@
         isRetoolSystemError: true,
         message: true,
         error: true,
+        data: true,
         SELLER_RATING_OVERALL: false,
         DELAYED_DROPOFF_THRESHOLD: false,
         MAIN_LS_CATEGORY: false,
         VIP_BUYER: true,
         source: true,
+        statusCode: true,
         queryExecutionMetadata: true,
       }}
     />
