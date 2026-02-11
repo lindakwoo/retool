@@ -3,7 +3,7 @@
   _customShortcuts={[]}
   _hashParams={[]}
   _order={0}
-  _searchParams={[]}
+  _searchParams={[{ key: "user_id", value: "{{ current_user.id }}" }]}
   browserTitle={null}
   title={null}
   urlSlug={null}

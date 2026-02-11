@@ -67,7 +67,7 @@
     "queryStatusVisibility": true,
     "rootScreen": "order_details",
     "customDocumentTitleEnabled": true,
-    "version": "3.253.2",
+    "version": "3.300.8",
     "markdownLinkBehavior": "never",
     "loadingIndicatorsDisabled": true
   }
