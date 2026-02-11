@@ -60,9 +60,43 @@
       <Option
         id="00031"
         icon="bold/interface-user-multiple"
+        iconPosition="left"
+        itemType="custom"
         label="Customers"
-      />
-      <Option id="00032" icon="bold/interface-setting-cog" label="Settings" />
+      >
+        <Event
+          event="click"
+          method="openPage"
+          params={{
+            options: { passDataWith: "urlParams", persistUrlParams: true },
+            pageName: "page2",
+          }}
+          pluginId=""
+          type="util"
+          waitMs="0"
+          waitType="debounce"
+        />
+      </Option>
+      <Option
+        id="00032"
+        icon="bold/interface-setting-cog"
+        iconPosition="left"
+        itemType="custom"
+        label="Settings"
+      >
+        <Event
+          event="click"
+          method="openPage"
+          params={{
+            options: { passDataWith: "urlParams", persistUrlParams: false },
+            pageName: "page3",
+          }}
+          pluginId=""
+          type="util"
+          waitMs="0"
+          waitType="debounce"
+        />
+      </Option>
       <Event
         event="click"
         method="openPage"
