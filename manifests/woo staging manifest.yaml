@@ -7,6 +7,8 @@ apps:
     release: latest
   - uuid: 832ca325-8af0-4ea1-a776-6d0495e7552c
     release: latest
+  - uuid: 88d25b54-076e-11f1-9c25-4f0352b6ffbf
+    release: latest
   - uuid: a3b12794-06c8-11f1-97eb-8b282aa92c5e
     release: latest
   - uuid: d4ee58e0-ca19-11f0-8de6-87c38a8b8b13

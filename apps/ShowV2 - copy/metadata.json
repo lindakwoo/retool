@@ -1,0 +1,74 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "88d25b54-076e-11f1-9c25-4f0352b6ffbf",
+  "appTemplate": {
+    "persistUrlParams": true,
+    "mobileAppSettings": {
+      "object": {
+        "mobileOfflineModeEnabled": false,
+        "mobileOfflineModeDelaySync": false,
+        "displaySetting": {
+          "object": {
+            "landscapeMode": false,
+            "tabletMode": false
+          }
+        }
+      }
+    },
+    "appMaxWidth": "1560px",
+    "pageCodeFolders": {
+      "object": {
+        "legacy": {
+          "array": []
+        },
+        "order_details": {
+          "array": []
+        },
+        "payment_details": {
+          "array": ["refunds"]
+        },
+        "shipment_data": {
+          "array": ["shipmentData", "tools"]
+        },
+        "orders_in_shipment": {
+          "array": []
+        },
+        "buyer_shipments_in_this_livestream": {
+          "array": []
+        },
+        "shipping_adjustments": {
+          "array": []
+        },
+        "listing": {
+          "array": []
+        },
+        "invoice": {
+          "array": []
+        },
+        "disputes": {
+          "array": []
+        },
+        "tracking_updates_from_shippo": {
+          "array": []
+        },
+        "seller_cancellation_fee": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "queryStatusVisibility": true,
+    "rootScreen": "order_details",
+    "customDocumentTitleEnabled": true,
+    "version": "3.300.8",
+    "markdownLinkBehavior": "never",
+    "loadingIndicatorsDisabled": true
+  }
+}
