@@ -68,7 +68,7 @@
           event="click"
           method="openPage"
           params={{
-            options: { passDataWith: "urlParams", persistUrlParams: true },
+            options: { passDataWith: "urlParams", persistUrlParams: false },
             pageName: "page2",
           }}
           pluginId=""
