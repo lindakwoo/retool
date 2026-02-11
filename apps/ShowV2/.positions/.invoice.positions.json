@@ -1,0 +1,1044 @@
+{
+  "AboveTheLineSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 8.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "AboveTheLineSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 8.6,
+    "height": 1,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "BillingAddressSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "BillingAddressSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DescSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DescSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DescSeller3": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DescSeller4": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DetailDivider": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 8.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "DetailDivider2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 8.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceDetailsSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 7.8,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceDetailsSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 7.8,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceIDSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceIDSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceIssuedAtSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 2.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceIssuedAtSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 2.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceStatusSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InvoiceStatusSeller2": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 5.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller10": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 3.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller2": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller3": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 6.6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller4": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 3,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller5": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 5.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller6": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller7": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 6.6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller8": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 3,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "OrderIDSeller9": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 3.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "SelleFee": {
+    "container": "SellerInvoice2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 11
+  },
+  "SellerEarning": {
+    "container": "SellerInvoice",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 11
+  },
+  "SellerInvoice": {
+    "container": "invoiceContainer",
+    "subcontainer": "8cc33",
+    "row": 4.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "SellerInvoice2": {
+    "container": "invoiceContainer",
+    "subcontainer": "8cc33",
+    "row": 4.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "aboveTheLine": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 8,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container12": {
+    "container": "invoiceContainer",
+    "subcontainer": "8cc33",
+    "row": 0.4,
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle21": {
+    "container": "container12",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 11
+  },
+  "divider4": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "invoiceContainer": {
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "revealBuyerInvoicePIIButton": {
+    "container": "container12",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "revealSellerEarningInvoicePIIButton": {
+    "container": "SellerInvoice",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "revealSellerInvoicePIIButton": {
+    "container": "SellerInvoice2",
+    "rowGroup": "header",
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "text100": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 4.2,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text101": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 9.6,
+    "height": 0.6,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text102": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 10.2,
+    "height": 0.6,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text103": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 10.2,
+    "height": 0.6,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text104": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 10.8,
+    "height": 0.6,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text111": {
+    "container": "AboveTheLineSeller2",
+    "height": 0.6,
+    "width": 5
+  },
+  "text112": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 4.2,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text113": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 10.2,
+    "height": 0.6,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text114": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 10.8,
+    "height": 0.6,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text115": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 7.2,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text116": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 4.8,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text117": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "col": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text118": {
+    "container": "SellerInvoice2",
+    "subcontainer": "3a548",
+    "row": 9.6,
+    "height": 0.6,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text123": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text124": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 3.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text51": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 0.6,
+    "col": 6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text52": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text53": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text54": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 2.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text55": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 4.8,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text56": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 7.2,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text59": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text81": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 3,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text82": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 7.2,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text87": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 5.4,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text88": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "col": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text89": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text90": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 4.2,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text91": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 6.6,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text92": {
+    "container": "container12",
+    "subcontainer": "8cc33",
+    "row": 9,
+    "height": 0.6,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text93": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 4.8,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text94": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "col": 6,
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text97": {
+    "container": "AboveTheLineSeller",
+    "height": 0.6,
+    "width": 5
+  },
+  "text98": {
+    "container": "SellerInvoice",
+    "subcontainer": "3a548",
+    "row": 9.6,
+    "height": 0.6,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "title": {
+    "container": "invoiceContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  }
+}

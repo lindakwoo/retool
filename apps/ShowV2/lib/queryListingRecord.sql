@@ -1,0 +1,1 @@
+SELECT * FROM listings WHERE id = {{ listingId.value }} LIMIT 1
