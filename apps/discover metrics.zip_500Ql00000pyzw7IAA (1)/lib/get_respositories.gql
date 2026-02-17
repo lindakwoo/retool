@@ -1,0 +1,12 @@
+query RepositoriesQuery {
+  repositoriesOrError {
+    ... on RepositoryConnection {
+      nodes {
+        name
+        location {
+          name
+        }
+      }
+    }
+  }
+}
