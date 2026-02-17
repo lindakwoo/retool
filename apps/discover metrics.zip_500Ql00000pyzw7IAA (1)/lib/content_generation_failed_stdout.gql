@@ -1,0 +1,19 @@
+query GetStepLogsByVariables($runId: ID!, $stepKey: String!) {
+  pipelineRunOrError(runId: $runId) {
+    ... on Run {
+      computeLogs(stepKey: $stepKey) {
+        stdout {
+          data
+          cursor
+        }
+        stderr {
+          data
+          cursor
+        }
+      }
+    }
+    ... on RunNotFoundError {
+      message
+    }
+  }
+}

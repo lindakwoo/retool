@@ -1,0 +1,1 @@
+{ index: "{{ org_id_as_int.value }}_tickets_metrics_v1" }

@@ -1,0 +1,1 @@
+select DISTINCT taxonomy_id from ft_ml_data_prod.discover_clusters_parquet_snappy_ext_load_v2 where org_id = '{{ urlparams.hash.org_id }}'

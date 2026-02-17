@@ -1,0 +1,19 @@
+{
+  body: {
+    query: {
+      match: { "agatha.taxonomy_id": "{{taxonomySelect.value}}" },
+    },
+    aggs: {
+      clusters: {
+        terms: {
+          script: {
+            source: "if (doc['agatha.cluster_name'].size() == 0) { 'No Cluster' } else if (doc['agatha.cluster_name'].value == 'Miscellaneous') { 'Miscellaneous' } else { 'Has Cluster' }",
+          },
+        },
+      },
+    },
+  },
+  index: "{{ urlparams.hash.org_id }}_tickets_metrics_v1",
+  size: 0,
+  trackTotalHits: true,
+}
