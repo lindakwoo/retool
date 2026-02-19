@@ -1,6 +1,8 @@
 version: 1.0.0
 name: main branch
 apps:
+  - uuid: 186cd274-e052-11f0-8936-7bd5b0d8a5cf
+    release: latest
   - uuid: d59b98fe-005f-11f0-9be5-1fe6257f07f1
     release: 1.0.0
   - uuid: d73eaafe-0c32-11f1-8368-032f5b0ed4ef
