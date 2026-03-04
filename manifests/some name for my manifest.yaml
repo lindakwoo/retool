@@ -1,8 +1,6 @@
 version: 1.0.0
 name: some name for my manifest
 apps:
-  - uuid: 26982eb6-17ed-11f1-a332-aff5b4e21cf0
-    release: latest
   - uuid: 4f6da282-06d4-11f1-8691-cfaeba17b5c0
     release: latest
   - uuid: 7ae76074-98ac-11f0-bdfd-87c973db54fa
