@@ -1,0 +1,45 @@
+{
+  "containerBuyerMain": {
+    "subcontainer": "header",
+    "row": 4.8,
+    "height": 11,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerShipment": {
+    "container": "containerBuyerMain",
+    "row": 45.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitleShipment": {
+    "type": "stack",
+    "container": "containerShipment",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 973,
+        "height": 40
+      }
+    }
+  }
+}

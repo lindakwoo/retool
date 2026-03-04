@@ -1,0 +1,2 @@
+select * from DBT.PRODUCTS.LOGISTICS__SHIPMENT_UPDATE_EVENTS where shipment_id = {{ queryShipment.data.id }} order by TS DESC
+-- snowflake_telemetry: {"app_name": "Orders/ShowV2", "query_name": "queryShipmentTrackingUpdatesSnowflake"}

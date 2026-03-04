@@ -1,0 +1,1 @@
+return {{queryRecord.data.items[0].actions.filter(x => x.value !== 'trigger_ship_it')}};

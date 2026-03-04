@@ -1,0 +1,843 @@
+{
+  "button1": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrameOrderSelectWarning",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "button2": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrameProcessing",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "buttonConfirmRefund": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFrameConfirmRefund",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "buttonReject": {
+    "container": "formRejectRefunds",
+    "row": 1.6,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "buttonRejectRefunds": {
+    "container": "container7",
+    "subcontainer": "00030",
+    "row": 0.8,
+    "col": 8,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonSubmitOrderRefund": {
+    "container": "container7",
+    "subcontainer": "00030",
+    "row": 0.8,
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container6": {
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container7": {
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container8": {
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "row": 1,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle6": {
+    "container": "container6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle7": {
+    "container": "container7",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle8": {
+    "container": "container8",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "currencyGiveawayRefund": {
+    "container": "formGiveawayRefund",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "currencyItemPriceRefund": {
+    "container": "formItemPriceRefund",
+    "row": 1.4,
+    "col": 6,
+    "height": 0.2,
+    "width": 4
+  },
+  "currencyLegacyRefund": {
+    "container": "formLegacyRefund",
+    "row": 1.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 4
+  },
+  "currencyPostageDueRefund": {
+    "container": "formPostageDueRefund",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "currencyShippingRefund": {
+    "container": "formShippingRefund",
+    "row": 1.4,
+    "col": 6,
+    "height": 0.2,
+    "width": 4
+  },
+  "formButton3": {
+    "container": "formRejectRefunds",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formButtonSetBuyerShipping": {
+    "container": "formShippingRefund",
+    "row": 1.4,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formButtonSetItemPrice": {
+    "container": "formItemPriceRefund",
+    "row": 1.4,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formButtonSetLegacyAmount": {
+    "container": "formLegacyRefund",
+    "row": 1.6,
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "formFullRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "00030",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formGiveawayRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "c852e",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formItemPriceRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "00031",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formLegacyRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "cdf06",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formPostageDueRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "11576",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formRejectRefunds": {
+    "subcontainer": "modalFrameRejectRefunds",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formShippingRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "92103",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formTaxRefund": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "b9dca",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formTitle1": {
+    "container": "formFullRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle2": {
+    "container": "formItemPriceRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle3": {
+    "container": "formRejectRefunds",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle4": {
+    "container": "formShippingRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle5": {
+    "container": "formLegacyRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle6": {
+    "container": "formLegacyRefund",
+    "rowGroup": "header",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle7": {
+    "container": "formGiveawayRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle8": {
+    "container": "formTaxRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle9": {
+    "container": "formPostageDueRefund",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameRejectRefunds",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton3": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameOrderSelectWarning",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseConfirmRefund": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameConfirmRefund",
+    "col": 9,
+    "height": 1
+  },
+  "modalHeaderProcessing": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameProcessing",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameRejectRefunds",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle3": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameOrderSelectWarning",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitleConfirm": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrameConfirmRefund",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 38.4,
+    "width": 12
+  },
+  "percentageItemPriceRefund": {
+    "container": "formItemPriceRefund",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "percentageLegacyRetund": {
+    "container": "formLegacyRefund",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "percentageShippingRefund": {
+    "container": "formShippingRefund",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 6
+  },
+  "selectFullRefundPaidBy": {
+    "container": "formFullRefund",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectFullRefundReason": {
+    "container": "formFullRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectFullRefundType": {
+    "container": "formFullRefund",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "selectGiveawayReason": {
+    "container": "formGiveawayRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectItemPricePaidBy": {
+    "container": "formItemPriceRefund",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectItemPriceRefundReason": {
+    "container": "formItemPriceRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectLegacyPaidBy": {
+    "container": "formLegacyRefund",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectLegacyRefundReason": {
+    "container": "formLegacyRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectLegacyReturnedTo": {
+    "container": "formLegacyRefund",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "selectPostageDueReason": {
+    "container": "formPostageDueRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectRejectRefundSelectReason": {
+    "container": "formRejectRefunds",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 8
+  },
+  "selectShippingPaidBy": {
+    "container": "formShippingRefund",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectShippingRefundReason": {
+    "container": "formShippingRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectTaxRefundReason": {
+    "container": "formTaxRefund",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainerRefundForm": {
+    "container": "container7",
+    "subcontainer": "00030",
+    "col": 4,
+    "height": 0.2,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableConfirmRefund": {
+    "subcontainer": "modalFrameConfirmRefund",
+    "row": 0.6,
+    "height": 8,
+    "width": 12
+  },
+  "tableLegacyResults": {
+    "subcontainer": "modalFrameProcessing",
+    "height": 8,
+    "width": 12
+  },
+  "tableOrderRefundResults": {
+    "subcontainer": "modalFrameProcessing",
+    "row": 8,
+    "height": 8,
+    "width": 12
+  },
+  "tableOrderRefunds": {
+    "container": "container8",
+    "subcontainer": "00030",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableOrders": {
+    "container": "container6",
+    "subcontainer": "00030",
+    "height": 6.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableReversibles": {
+    "container": "container7",
+    "subcontainer": "00030",
+    "height": 7.8,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabsRefundForms": {
+    "container": "tabbedContainerRefundForm",
+    "rowGroup": "header",
+    "subcontainer": "00031",
+    "height": 0.6,
+    "width": 12
+  },
+  "text5": {
+    "subcontainer": "modalFrameReversiblesAndRefund",
+    "height": 0.6,
+    "width": 12
+  },
+  "text6": {
+    "container": "formRejectRefunds",
+    "height": 0.6,
+    "width": 12
+  },
+  "text7": {
+    "container": "tabbedContainerRefundForm",
+    "subcontainer": "8c310",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text8": {
+    "subcontainer": "modalFrameOrderSelectWarning",
+    "height": 0.6,
+    "width": 12
+  },
+  "text9": {
+    "container": "moduleContainer",
+    "height": 0.6
+  },
+  "textAreaFullRefundNotes": {
+    "container": "formFullRefund",
+    "row": 0.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaGiveawayNotes": {
+    "container": "formGiveawayRefund",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaItemPriceNotes": {
+    "container": "formItemPriceRefund",
+    "row": 0.4,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaLegacyNotes": {
+    "container": "formLegacyRefund",
+    "row": 0.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaPostageDueNotes": {
+    "container": "formPostageDueRefund",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaShippingNotes": {
+    "container": "formShippingRefund",
+    "row": 0.4,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textAreaTaxRefundNotes": {
+    "container": "formTaxRefund",
+    "row": 0.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textConfirmMessage": {
+    "subcontainer": "modalFrameConfirmRefund",
+    "height": 0.6,
+    "width": 12
+  },
+  "textRefundRejectErrorMessage": {
+    "container": "formRejectRefunds",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "textRefundWarningMessage": {
+    "container": "container7",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "col": 4,
+    "height": 0.6,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textRejectRefundMessage": {
+    "container": "formRejectRefunds",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 8
+  }
+}
