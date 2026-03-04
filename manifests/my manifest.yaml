@@ -1,5 +1,8 @@
 version: 1.0.0
 name: my manifest
+apps:
+  - uuid: 26982eb6-17ed-11f1-a332-aff5b4e21cf0
+    release: latest
 workflows:
   - uuid: 4efba39a-b262-4b45-a871-74ad05e17389
     release: latest
