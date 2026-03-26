@@ -1,2 +1,5 @@
 version: 1.0.0
 name: one more manifest
+apps:
+  - uuid: 33f79a64-2955-11f1-8878-df434c5a536e
+    release: latest
