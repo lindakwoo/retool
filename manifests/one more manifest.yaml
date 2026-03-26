@@ -3,3 +3,6 @@ name: one more manifest
 apps:
   - uuid: 33f79a64-2955-11f1-8878-df434c5a536e
     release: latest
+workflows:
+  - uuid: c331af2a-9f5f-477e-9513-5aba49a673a8
+    release: latest

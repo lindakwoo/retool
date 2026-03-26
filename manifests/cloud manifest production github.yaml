@@ -1,2 +1,5 @@
 version: 1.0.0
 name: cloud manifest production github
+workflows:
+  - uuid: c331af2a-9f5f-477e-9513-5aba49a673a8
+    release: latest
