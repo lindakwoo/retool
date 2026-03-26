@@ -1,0 +1,109 @@
+id: query1
+type: datasource
+subtype: JavascriptQuery
+resourceName: JavascriptQuery
+template:
+  ordered:
+    - queryRefreshTime: ''
+    - allowedGroupIds:
+        array: []
+    - streamResponse: false
+    - lastReceivedFromResourceAt: null
+    - isFunction: false
+    - functionParameters: null
+    - queryDisabledMessage: ''
+    - servedFromCache: false
+    - offlineUserQueryInputs: ''
+    - functionDescription: null
+    - successMessage: ''
+    - queryDisabled: ''
+    - playgroundQuerySaveId: latest
+    - workflowParams: null
+    - resourceNameOverride: ''
+    - runWhenModelUpdates: false
+    - workflowRunExecutionType: sync
+    - showFailureToaster: true
+    - query: |+
+        function waitFor11Seconds() {
+          return new Promise((resolve) => {
+            setTimeout(resolve, 11000); // 11 seconds = 11000 ms
+          });
+        }
+
+        async function runExample() {
+          console.log("Waiting...");
+          await waitFor11Seconds();
+          console.log("11 seconds later!");
+          return "finished"
+        }
+
+        return runExample();
+
+
+    - playgroundQueryUuid: ''
+    - playgroundQueryId: null
+    - error: null
+    - workflowRunBodyType: raw
+    - privateParams:
+        array: []
+    - queryRunOnSelectorUpdate: false
+    - runWhenPageLoadsDelay: ''
+    - data: null
+    - importedQueryInputs:
+        object: {}
+    - _additionalScope:
+        array: []
+    - isImported: false
+    - showSuccessToaster: true
+    - cacheKeyTtl: ''
+    - requestSentTimestamp: null
+    - metadata: null
+    - queryRunTime: null
+    - changesetObject: ''
+    - offlineOptimisticResponse: null
+    - errorTransformer: return data.error
+    - finished: null
+    - confirmationMessage: null
+    - isFetching: false
+    - changeset: ''
+    - rawData: null
+    - queryTriggerDelay: '0'
+    - resourceTypeOverride: null
+    - watchedParams:
+        array: []
+    - enableErrorTransformer: false
+    - showLatestVersionUpdatedWarning: false
+    - timestamp: 0
+    - evalType: script
+    - importedQueryDefaults:
+        object: {}
+    - enableTransformer: false
+    - showUpdateSetValueDynamicallyToggle: true
+    - overrideOrgCacheForUserCache: false
+    - runWhenPageLoads: false
+    - transformer: return data
+    - events:
+        array: []
+    - queryTimeout: '12000'
+    - workflowId: null
+    - requireConfirmation: false
+    - queryFailureConditions: ''
+    - changesetIsObject: false
+    - enableCaching: false
+    - allowedGroups:
+        array: []
+    - offlineQueryType: None
+    - queryThrottleTime: '750'
+    - updateSetValueDynamically: false
+    - notificationDuration: ''
+createdAt: 2025-11-06T22:26:10.479Z
+blockData:
+  top: -16
+  left: 592
+  uuid: eb99e23f-8d5e-42ef-a8b0-ca705011fa32
+  pluginId: query1
+  blockType: default
+  editorType: JavascriptQuery
+  resourceName: JavascriptQuery
+  incomingOnSuccessEdges:
+    - 65fbda2b-e5f4-4faf-87e3-548cd3dee5fe

@@ -20,7 +20,9 @@ apps:
 workflows:
   - uuid: 4efba39a-b262-4b45-a871-74ad05e17389
     release: latest
-  - uuid: a07a7cd3-3954-41ee-87c2-e32b629a185f
+  - uuid: 919b9352-1fe4-4d3b-bea1-b2501a27daf0
+    release: latest
+  - uuid: c331af2a-9f5f-477e-9513-5aba49a673a8
     release: latest
   - uuid: de473d1a-081a-4806-b575-0b346fccaa38
     release: latest

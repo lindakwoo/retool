@@ -78,11 +78,11 @@ template:
   queryThrottleTime: '750'
   updateSetValueDynamically: false
   notificationDuration: ''
-createdAt: 2025-11-17T20:21:52.833Z
+createdAt: 2026-02-24T17:19:33.657Z
 blockData:
   top: 48
   left: 480
-  uuid: d25302aa-193b-4f46-9888-ff5f442f3a11
+  uuid: a47f8b4e-90a9-48e6-b583-c2597b451562
   pluginId: code1
   blockType: code
   dimensions:
@@ -91,4 +91,4 @@ blockData:
   editorType: JavascriptQuery
   resourceName: JavascriptQuery
   incomingOnSuccessEdges:
-    - bacb4dc3-e02a-4e17-8f35-e7d9a7a8a824
+    - 55391c1f-2918-48b6-9417-2ed3f6a4ead5

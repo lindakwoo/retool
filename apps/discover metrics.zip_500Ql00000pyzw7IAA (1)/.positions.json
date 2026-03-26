@@ -1,0 +1,1307 @@
+{
+  "ContentGenerationSelectedRunTitle": {
+    "container": "ContentGenerationTable",
+    "subcontainer": "dc1f9",
+    "col": 5,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ContentGenerationTable": {
+    "container": "tabbedContainer2",
+    "subcontainer": "cb787",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InferenceTable": {
+    "container": "tabbedContainer2",
+    "subcontainer": "1f57e",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "InferenceTable2": {
+    "container": "tabbedContainer2",
+    "subcontainer": "6ca83",
+    "height": 0.2,
+    "width": 12
+  },
+  "SentimentRunLogsOutput": {
+    "container": "container12",
+    "subcontainer": "d46c1",
+    "height": 10,
+    "width": 12
+  },
+  "SentimentSelectedRunTitle": {
+    "container": "SentimentTable",
+    "subcontainer": "dc1f9",
+    "col": 5,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "SentimentTable": {
+    "container": "tabbedContainer2",
+    "subcontainer": "8281b",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "alert1": {
+    "height": 1,
+    "width": 12
+  },
+  "channel_select": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 1.4,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ed23e",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer4": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "e1d55",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle1": {
+    "container": "InferenceTable",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle2": {
+    "container": "InferenceTable2",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle5": {
+    "container": "collapsibleContainer4",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle6": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle1": {
+    "container": "InferenceTable",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle2": {
+    "container": "InferenceTable2",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle5": {
+    "container": "collapsibleContainer4",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle6": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle7": {
+    "container": "SentimentTable",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle8": {
+    "container": "ContentGenerationTable",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "config_button": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 5.2,
+    "height": 1,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "confirm_keys_button": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 7.8,
+    "height": 1,
+    "width": 12
+  },
+  "container10": {
+    "row": 2,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container11": {
+    "row": 1.6,
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container12": {
+    "container": "SentimentTable",
+    "subcontainer": "dc1f9",
+    "row": 8.6,
+    "height": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container2": {
+    "row": 1.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container3": {
+    "container": "InferenceTable",
+    "subcontainer": "dc1f9",
+    "row": 8.4,
+    "height": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container4": {
+    "container": "InferenceTable2",
+    "subcontainer": "dc1f9",
+    "row": 8.4,
+    "height": 2,
+    "width": 12
+  },
+  "container5": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ed23e",
+    "col": 6,
+    "height": 7.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container7": {
+    "container": "tabbedContainer1",
+    "subcontainer": "5645b",
+    "col": 6,
+    "height": 7.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container8": {
+    "container": "tabbedContainer1",
+    "subcontainer": "0be6e",
+    "col": 6,
+    "height": 7.8,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container9": {
+    "row": 1.8,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle10": {
+    "container": "container10",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle11": {
+    "container": "container11",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle2": {
+    "container": "container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle3": {
+    "container": "container3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle4": {
+    "container": "container4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle6": {
+    "container": "container5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle8": {
+    "container": "container7",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle9": {
+    "container": "container8",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "contentGenerationLogsContainer": {
+    "container": "ContentGenerationTable",
+    "subcontainer": "dc1f9",
+    "row": 8.6,
+    "height": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "contentGenerationRunInsight": {
+    "container": "ContentGenerationTable",
+    "subcontainer": "dc1f9",
+    "row": 0.6,
+    "col": 5,
+    "height": 7.8,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "contentGenerationRunLogsOutput": {
+    "container": "contentGenerationLogsContainer",
+    "subcontainer": "d46c1",
+    "height": 10,
+    "width": 12
+  },
+  "contentGenerationRunLogsTitle": {
+    "container": "contentGenerationLogsContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "contentGenerationRunsTitle": {
+    "container": "ContentGenerationTable",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "content_generation_table": {
+    "container": "ContentGenerationTable",
+    "subcontainer": "dc1f9",
+    "row": 0.2,
+    "height": 8.4,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "custom_indexing_field_alert_text": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 35.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "data_source": {
+    "container": "trainingform",
+    "row": 1.6,
+    "height": 2.4,
+    "width": 12
+  },
+  "discover_status_picker": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "discover_viewable_tier": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "col": 6,
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "docsizeinput_inference": {
+    "container": "inferenceform",
+    "row": 1.2,
+    "height": 1,
+    "width": 6
+  },
+  "drawerCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "ticketsegmentationdrawer",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "drawerCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "articlesegmentationdrawer",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "drawerTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "ticketsegmentationdrawer",
+    "height": 0.6,
+    "width": 11
+  },
+  "drawerTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "articlesegmentationdrawer",
+    "height": 0.6,
+    "width": 11
+  },
+  "enable_content_generation": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 3.4,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "enable_content_generation_segmentation": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "enable_discover_for_chat": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 4,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "enable_discover_for_voice": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 4.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "enable_multilingual": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "enabled_for_admins": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "enddateinput": {
+    "container": "trainingform",
+    "row": 0.2,
+    "height": 1,
+    "width": 6
+  },
+  "enddateinput_inference": {
+    "container": "inferenceform",
+    "row": 0.8,
+    "height": 1,
+    "width": 6
+  },
+  "formTitle1": {
+    "container": "trainingform",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle3": {
+    "container": "genform",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle4": {
+    "container": "inferenceform",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "generate_segment_button": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 26,
+    "height": 1,
+    "width": 12
+  },
+  "generate_segment_button2": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 8.6,
+    "height": 1,
+    "width": 12
+  },
+  "genform": {
+    "container": "tabbedContainer1",
+    "subcontainer": "5645b",
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "genrunlinkbutton": {
+    "container": "container7",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "incomplete_segmentation_alert_text": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 36.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "inferenceRunInsight": {
+    "container": "InferenceTable",
+    "subcontainer": "dc1f9",
+    "row": 0.6,
+    "col": 5,
+    "height": 7.8,
+    "width": 7
+  },
+  "inference_table": {
+    "container": "InferenceTable",
+    "subcontainer": "dc1f9",
+    "height": 8.4,
+    "width": 5
+  },
+  "inferenceform": {
+    "container": "tabbedContainer1",
+    "subcontainer": "0be6e",
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "inferencerunlinkbutton": {
+    "container": "container8",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "jsonEditor1": {
+    "container": "InferenceTable2",
+    "subcontainer": "dc1f9",
+    "row": 0.6,
+    "col": 5,
+    "height": 7.8,
+    "width": 7
+  },
+  "jsonExplorer1": {
+    "container": "container11",
+    "subcontainer": "85226",
+    "height": 8.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "jsonExplorer3": {
+    "container": "container5",
+    "subcontainer": "0aea9",
+    "height": 4.6,
+    "width": 12
+  },
+  "jsonExplorer4": {
+    "container": "container7",
+    "subcontainer": "0aea9",
+    "height": 4.6,
+    "width": 12
+  },
+  "jsonExplorer5": {
+    "container": "container8",
+    "subcontainer": "0aea9",
+    "height": 4.6,
+    "width": 12
+  },
+  "key_selector_input": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 0.6,
+    "height": 7.2,
+    "width": 12
+  },
+  "notiontext": {
+    "rowGroup": "header",
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "notiontext2": {
+    "rowGroup": "header",
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "openSegmentationWindowButton": {
+    "container": "tabbedContainer1",
+    "subcontainer": "5645b",
+    "row": 6.8,
+    "height": 1,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "orgNavbar1": {
+    "subcontainer": "header",
+    "height": 0.2,
+    "width": 12
+  },
+  "org_control_container": {
+    "container": "container9",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "orginput": {
+    "container": "trainingform",
+    "height": 1,
+    "width": 6
+  },
+  "orginput_gen": {
+    "container": "genform",
+    "height": 1,
+    "width": 12
+  },
+  "orginput_inference": {
+    "container": "inferenceform",
+    "row": 0.6,
+    "height": 1,
+    "width": 6
+  },
+  "orginput_sentiment": {
+    "container": "sentimentform",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "renaming_table": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 9.4,
+    "height": 8,
+    "width": 12
+  },
+  "reset_button": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 5.2,
+    "col": 7,
+    "height": 1,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "samplesizeinput": {
+    "container": "trainingform",
+    "row": 0.6,
+    "height": 1,
+    "width": 6
+  },
+  "save_segmentations_button": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 37.4,
+    "height": 1,
+    "width": 12
+  },
+  "save_segmentations_button2": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 20.4,
+    "height": 1,
+    "width": 12
+  },
+  "segmentations_editor": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 27.6,
+    "height": 8,
+    "width": 12
+  },
+  "segmentations_editor2": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 11.8,
+    "height": 8,
+    "width": 12
+  },
+  "sentimentJobFormTitle": {
+    "container": "sentimentform",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "sentimentJobRunRequestResultsTitle": {
+    "container": "tabbedContainer1",
+    "subcontainer": "4e2f2",
+    "col": 6,
+    "height": 0.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sentimentRunInsight": {
+    "container": "SentimentTable",
+    "subcontainer": "dc1f9",
+    "row": 0.6,
+    "col": 5,
+    "height": 7.8,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sentimentRunLogsTitle": {
+    "container": "container12",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "sentimentRunResultsOutput": {
+    "container": "tabbedContainer1",
+    "subcontainer": "4e2f2",
+    "row": 1.2,
+    "col": 6,
+    "height": 4.6,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sentimentRunsTitle": {
+    "container": "SentimentTable",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "sentiment_table": {
+    "container": "SentimentTable",
+    "subcontainer": "dc1f9",
+    "row": 0.2,
+    "height": 8.4,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sentimentform": {
+    "container": "tabbedContainer1",
+    "subcontainer": "4e2f2",
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sentimentrunlinkbutton": {
+    "container": "tabbedContainer1",
+    "subcontainer": "4e2f2",
+    "row": 5.8,
+    "col": 6,
+    "height": 1,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "startdateinput": {
+    "container": "trainingform",
+    "row": 0.4,
+    "height": 1,
+    "width": 6
+  },
+  "startdateinputinference": {
+    "container": "inferenceform",
+    "row": 1,
+    "height": 1,
+    "width": 6
+  },
+  "startdateinputsentiment": {
+    "container": "sentimentform",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "step2": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 8.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "step3": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 17.4,
+    "height": 0.6,
+    "width": 12
+  },
+  "step4": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 27,
+    "height": 0.6,
+    "width": 12
+  },
+  "step5": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 36.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "step8": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 11.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "step9": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 19.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "submitgen": {
+    "container": "genform",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "submitinference": {
+    "container": "inferenceform",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "submitsentiment": {
+    "container": "sentimentform",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "submittraining": {
+    "container": "trainingform",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "tabbedContainer1": {
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer2": {
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table1": {
+    "container": "container2",
+    "subcontainer": "d46c1",
+    "height": 2,
+    "width": 12
+  },
+  "table2": {
+    "container": "container10",
+    "subcontainer": "04d65",
+    "height": 13.2,
+    "width": 12
+  },
+  "table3": {
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 0.6,
+    "height": 8,
+    "width": 12
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 12
+  },
+  "tabs2": {
+    "container": "tabbedContainer2",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 12
+  },
+  "tabs3": {
+    "rowGroup": "header",
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 1.6,
+    "height": 0.8,
+    "width": 12
+  },
+  "tabs4": {
+    "rowGroup": "header",
+    "subcontainer": "articlesegmentationdrawer",
+    "row": 1.6,
+    "height": 0.8,
+    "width": 12
+  },
+  "taxonomySelect": {
+    "row": 1.6,
+    "height": 1,
+    "width": 4
+  },
+  "taxonomyinput_gen": {
+    "container": "genform",
+    "row": 0.2,
+    "height": 1,
+    "width": 12
+  },
+  "text11": {
+    "container": "inferenceform",
+    "height": 0.6,
+    "width": 12
+  },
+  "text12": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text14": {
+    "container": "trainingform",
+    "rowGroup": "footer",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "text15": {
+    "container": "collapsibleContainer4",
+    "subcontainer": "65aa1",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text16": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "e1d55",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text17": {
+    "container": "sentimentform",
+    "height": 0.6,
+    "width": 12
+  },
+  "text18": {
+    "subcontainer": "articlesegmentationdrawer",
+    "height": 0.6,
+    "width": 12
+  },
+  "text19": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "height": 0.6,
+    "width": 12
+  },
+  "text3": {
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "text4": {
+    "container": "InferenceTable2",
+    "subcontainer": "dc1f9",
+    "col": 5,
+    "height": 0.6,
+    "width": 5
+  },
+  "text5": {
+    "container": "InferenceTable",
+    "subcontainer": "dc1f9",
+    "col": 5,
+    "height": 0.6,
+    "width": 5
+  },
+  "text8": {
+    "container": "container3",
+    "subcontainer": "d46c1",
+    "height": 10,
+    "width": 12
+  },
+  "text9": {
+    "container": "container4",
+    "subcontainer": "d46c1",
+    "height": 10,
+    "width": 12
+  },
+  "training_table": {
+    "container": "InferenceTable2",
+    "subcontainer": "dc1f9",
+    "height": 8.4,
+    "width": 5
+  },
+  "trainingform": {
+    "container": "tabbedContainer1",
+    "subcontainer": "ed23e",
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "trainingrunlinkbutton": {
+    "container": "container5",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "trainonly": {
+    "container": "trainingform",
+    "col": 6,
+    "height": 0.6,
+    "width": 6
+  },
+  "trial_end_date": {
+    "container": "container9",
+    "subcontainer": "db4de",
+    "row": 0.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "value_selector": {
+    "subcontainer": "ticketsegmentationdrawer",
+    "row": 18,
+    "height": 8,
+    "width": 12
+  },
+  "versioninput": {
+    "container": "trainingform",
+    "row": 0.8,
+    "height": 0.8,
+    "width": 12
+  }
+}
