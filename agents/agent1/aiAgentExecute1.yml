@@ -1,0 +1,100 @@
+id: aiAgentExecute1
+type: datasource
+subtype: JavascriptQuery
+resourceName: RetoolAIAgentExecuteQuery
+template:
+  queryRefreshTime: ''
+  allowedGroupIds: []
+  streamResponse: false
+  lastReceivedFromResourceAt: null
+  isFunction: false
+  functionParameters: null
+  queryDisabledMessage: ''
+  servedFromCache: false
+  offlineUserQueryInputs: ''
+  functionDescription: null
+  successMessage: ''
+  queryDisabled: ''
+  instructions: >-
+    You are a helpful assistant chatting with {{ current_user.firstName }} {{
+    current_user.lastName }}. Their email is {{ current_user.email }}, and the
+    date is {{ new Date() }}.
+  playgroundQuerySaveId: latest
+  workflowParams: null
+  resourceNameOverride: ''
+  runWhenModelUpdates: false
+  workflowRunExecutionType: sync
+  showFailureToaster: true
+  query: ''
+  playgroundQueryUuid: ''
+  playgroundQueryId: null
+  error: null
+  workflowRunBodyType: raw
+  privateParams: []
+  model: gpt-4.1
+  queryRunOnSelectorUpdate: false
+  runWhenPageLoadsDelay: ''
+  data: null
+  providerId: retoolAIBuiltIn::openAI
+  importedQueryInputs: {}
+  _additionalScope: []
+  isImported: false
+  showSuccessToaster: true
+  cacheKeyTtl: ''
+  requestSentTimestamp: null
+  metadata: null
+  queryRunTime: null
+  changesetObject: ''
+  offlineOptimisticResponse: null
+  errorTransformer: return data.error
+  finished: null
+  confirmationMessage: null
+  isFetching: false
+  changeset: ''
+  drafts:
+    array: []
+  rawData: null
+  queryTriggerDelay: '0'
+  resourceTypeOverride: null
+  watchedParams: []
+  temperature: 0.3
+  enableErrorTransformer: false
+  showLatestVersionUpdatedWarning: false
+  timestamp: 0
+  mcpServers:
+    array: []
+  importedQueryDefaults: {}
+  enableTransformer: false
+  showUpdateSetValueDynamicallyToggle: true
+  overrideOrgCacheForUserCache: false
+  runWhenPageLoads: false
+  transformer: return data
+  events: []
+  queryTimeout: '10000'
+  workflowId: null
+  maxIterations: 10
+  requireConfirmation: false
+  queryFailureConditions: ''
+  tools:
+    array: []
+  changesetIsObject: false
+  providerName: openAI
+  enableCaching: false
+  allowedGroups: []
+  offlineQueryType: None
+  queryThrottleTime: '750'
+  updateSetValueDynamically: false
+  notificationDuration: ''
+createdAt: 2026-03-27T15:50:34.868Z
+blockData:
+  top: 48
+  left: 480
+  uuid: 7b3c20be-5c50-4bcb-b336-0fdec3bb86cb
+  pluginId: aiAgentExecute1
+  blockType: aiAgentExecute
+  editorType: JavascriptQuery
+  isMinimized: false
+  resourceName: RetoolAIAgentExecuteQuery
+  incomingPorts: []
+  incomingOnSuccessEdges:
+    - 42b5b0e9-917b-49a3-84d7-abc1f8ac666c
