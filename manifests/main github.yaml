@@ -1,2 +1,5 @@
 version: 1.0.0
 name: main github
+workflows:
+  - uuid: 99ce804a-4f49-4d2d-855f-e8aef27f575d
+    release: latest
