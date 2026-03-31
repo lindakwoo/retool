@@ -71,11 +71,11 @@ template:
   queryThrottleTime: '750'
   updateSetValueDynamically: false
   notificationDuration: ''
-createdAt: 2026-03-26T23:08:44.649Z
+createdAt: 2026-03-31T17:41:53.658Z
 blockData:
   top: 48
   left: 48
-  uuid: d280e9da-e1b7-45e7-aac8-0309c7c3ee10
+  uuid: 177d8dc2-ae15-4bd8-a86a-63ea6e465355
   options: {}
   pluginId: startTrigger
   blockType: webhook
