@@ -1,0 +1,20 @@
+<GlobalFunctions>
+  <RESTQuery
+    id="query1"
+    body={'[{"key":"key","value":"something here"}]'}
+    bodyType="json"
+    query="post"
+    resourceDisplayName="httpbun2"
+    resourceName="b57cdf84-55fc-4cc6-8473-e24b6b9afab6"
+    runWhenModelUpdates={false}
+    type="POST"
+  />
+  <RESTQuery
+    id="query2"
+    notificationDuration={4.5}
+    query="bytes/89"
+    resourceDisplayName="httpbun"
+    resourceName="a0a4c544-50c5-48c7-9bd9-c1b13e5be9bb"
+    showSuccessToaster={false}
+  />
+</GlobalFunctions>
