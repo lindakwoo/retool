@@ -1,0 +1,9 @@
+- id: 198742ef-5d55-4f8a-bae1-7de7c2d99003
+  createdBy: 1
+  enabledAt: '2026-02-05T19:57:56.598Z'
+  workflowId: 21094dfa-6152-4a1b-8a23-56865f52184d
+  triggerType: webhook
+  environmentId: 528f7f01-26aa-4aca-a189-4cfda32c59f8
+  triggerOptions: null
+  environmentName: production
+  concurrencyLimit: null
