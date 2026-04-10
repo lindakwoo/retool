@@ -13,7 +13,7 @@
   triggerType: schedule
   environmentId: 528f7f01-26aa-4aca-a189-4cfda32c59f8
   triggerOptions:
-    crontab: 0 0 * * *
+    crontab: 0 0 1 * *
     timezone: UTC
     scheduleType: interval
   concurrencyLimit: 1
