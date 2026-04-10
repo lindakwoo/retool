@@ -9,13 +9,12 @@
   concurrencyLimit: null
 - id: f4c6f71b-9ad2-4138-bdd2-f1fababbeb48
   createdBy: 1871206
-  enabledAt: null
+  enabledAt: '2026-04-10T17:34:49.389Z'
   workflowId: 99ce804a-4f49-4d2d-855f-e8aef27f575d
   triggerType: schedule
   environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
   triggerOptions:
-    crontab: 0 0 * * *
+    crontab: 0 0 1 * *
     timezone: UTC
     scheduleType: interval
-  environmentName: production
   concurrencyLimit: 1
