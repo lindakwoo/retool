@@ -8,7 +8,7 @@
   concurrencyLimit: null
 - id: cfcf5b2b-04bf-41d2-aabd-4d551339b436
   createdBy: 1731926
-  enabledAt: '2026-04-10T17:31:51.261Z'
+  enabledAt: null
   workflowId: 30260a0c-6c2a-4e6f-9793-ebba9ba9d514
   triggerType: schedule
   environmentId: 528f7f01-26aa-4aca-a189-4cfda32c59f8
