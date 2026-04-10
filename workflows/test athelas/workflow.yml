@@ -1,4 +1,3 @@
-private: false
 customLibraries:
   array:
     - object:
@@ -125,6 +124,6 @@ triggerWebhooks:
         examplePathParams: ''
 version: 43.0.9
 workflowId: 0a1afd6f-e193-485c-8e46-0c284e09447d
-description: ''
+description: null
 workflowTemplate:
   version: 3.344.0
