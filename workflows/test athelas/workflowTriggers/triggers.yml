@@ -7,7 +7,7 @@
   triggerOptions: null
   concurrencyLimit: null
 - id: cfcf5b2b-04bf-41d2-aabd-4d551339b436
-  createdBy: 1731926
+  createdBy: null
   enabledAt: null
   workflowId: 0a1afd6f-e193-485c-8e46-0c284e09447d
   triggerType: schedule
