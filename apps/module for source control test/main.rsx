@@ -15,7 +15,7 @@
     >
       <Text
         id="text1"
-        value="Hello from my test module"
+        value="Hello from my test module!!"
         verticalAlign="center"
       />
     </ModuleContainerWidget>
