@@ -21,13 +21,10 @@ template:
   runWhenModelUpdates: true
   workflowRunExecutionType: sync
   showFailureToaster: true
-  query: |-
+  query: |
     return [
       { message: "Hello from Workflows" },
       { message: "Click the Run (▶) button to execute this block" },
-      { message: "Drag from the green sequence port to connect a new block" },
-      { message: "Click the help (?) button to learn more" },
-    ];
   playgroundQueryUuid: ''
   playgroundQueryId: null
   error: null
