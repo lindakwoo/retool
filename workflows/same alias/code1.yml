@@ -21,10 +21,9 @@ template:
   runWhenModelUpdates: true
   workflowRunExecutionType: sync
   showFailureToaster: true
-  query: |
-    return [
-      { message: "Hello from Workflows" },
-      { message: "Click the Run (▶) button to execute this block" },
+  query: |+
+    return "hello world"
+
   playgroundQueryUuid: ''
   playgroundQueryId: null
   error: null
