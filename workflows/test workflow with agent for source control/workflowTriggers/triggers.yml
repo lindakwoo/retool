@@ -11,7 +11,7 @@
   environmentName: production
   concurrencyLimit: 1
 - id: b68d715d-39d6-467a-81eb-ecb58058b6b0
-  createdBy: 1871206
+  createdBy: null
   enabledAt: null
   workflowId: a07a7cd3-3954-41ee-87c2-e32b629a185f
   triggerType: webhook
