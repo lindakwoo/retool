@@ -8,7 +8,7 @@
   environmentName: production
   concurrencyLimit: null
 - id: f4c6f71b-9ad2-4138-bdd2-f1fababbeb48
-  createdBy: 1871206
+  createdBy: null
   enabledAt: null
   workflowId: 99ce804a-4f49-4d2d-855f-e8aef27f575d
   triggerType: schedule
