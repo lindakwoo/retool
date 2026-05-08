@@ -1,2 +1,5 @@
 version: 1.0.0
 name: github localhost
+workflows:
+  - uuid: 9cf9662e-9be6-45c3-9d53-afe49feec24b
+    release: 5.0.0
