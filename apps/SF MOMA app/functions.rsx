@@ -1,15 +1,6 @@
 <GlobalFunctions>
   <State id="artists" value="[]" />
   <State id="artwork" value="[]" />
-  <Event
-      event="success"
-      method="trigger"
-      params={{ ordered: [] }}
-      pluginId="create_artists_with_art_db_table"
-      type="datasource"
-      waitMs="0"
-      waitType="debounce"
-  />
   <JavascriptQuery
     id="filterData"
     isMultiplayerEdited={false}
@@ -26,7 +17,7 @@
       type="datasource"
       waitMs="0"
       waitType="debounce"
-    />
+    >
   </JavascriptQuery>
   <State id="filteredArtwork" value="[]" />
   <State id="artistsMap" value="{}" />
