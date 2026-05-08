@@ -1,0 +1,20 @@
+query GetFailedStepLogs($runId: ID!) {
+  logsForRun(runId: $runId) {
+    ... on EventConnection {
+      events {
+        __typename
+        ... on ExecutionStepFailureEvent {
+          stepKey
+          error {
+            message
+            stack
+          }
+        }
+        ... on LogsCapturedEvent {
+          stepKey
+          logKey
+        }
+      }
+    }
+  }
+}

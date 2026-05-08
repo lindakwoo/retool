@@ -13,7 +13,6 @@
     id="query1"
     isMultiplayerEdited={false}
     query={include("../lib/query1.sql", "string")}
-    resourceDisplayName="retool_db"
     resourceName="d19a645b-d819-4fef-86f0-7c8de4b456ce"
     runWhenModelUpdates={false}
     warningCodes={[]}

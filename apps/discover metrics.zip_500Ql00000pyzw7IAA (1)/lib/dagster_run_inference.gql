@@ -1,0 +1,50 @@
+mutation LaunchRunMutation(
+  $repositoryLocationName: String!
+  $repositoryName: String!
+  $jobName: String!
+  $runConfigData: RunConfigData!
+  $orgTag: String!
+  $userTag: String!
+) {
+  launchRun(
+    executionParams: {
+      selector: {
+        repositoryLocationName: $repositoryLocationName
+        repositoryName: $repositoryName
+        jobName: $jobName
+      }
+      runConfigData: $runConfigData
+      executionMetadata: {
+        tags: [{
+          key: "OrgID"
+          value: $orgTag
+        }, {
+          key: "UserID"
+          value:$userTag
+        }, {
+          key: "LaunchedFrom"
+          value: "Retool"
+        },{
+          key: "org_id"
+          value: $orgTag
+        }]
+      }
+    }
+  ) {
+    __typename
+    ... on LaunchRunSuccess {
+      run {
+        runId
+      }
+    }
+    ... on RunConfigValidationInvalid {
+      errors {
+        message
+        reason
+      }
+    }
+    ... on PythonError {
+      message
+    }
+  }
+}

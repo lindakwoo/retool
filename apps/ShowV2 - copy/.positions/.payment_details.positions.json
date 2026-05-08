@@ -1,0 +1,472 @@
+{
+  "appealTable": {
+    "container": "containerAppealLog",
+    "row": 1.4,
+    "height": 6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button1": {
+    "container": "container4",
+    "rowGroup": "header",
+    "col": 8,
+    "height": 0.8,
+    "width": 4
+  },
+  "button18": {
+    "subcontainer": "mRejectRefund",
+    "row": 5.4,
+    "col": 1,
+    "height": 1,
+    "width": 6
+  },
+  "button21": {
+    "container": "containerBuyerPayment",
+    "rowGroup": "header",
+    "col": 7,
+    "height": 0.8
+  },
+  "button9": {
+    "container": "modalQueryRefundSummary",
+    "row": 7.2,
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "buttonRefund": {
+    "container": "modalRefund",
+    "row": 18.4,
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
+  "buttonRefundSetSubtotalRefund": {
+    "container": "modalRefund",
+    "row": 1,
+    "col": 9,
+    "height": 1
+  },
+  "buttonRefundSetTaxRefund": {
+    "container": "modalRefund",
+    "row": 2,
+    "col": 9,
+    "height": 1
+  },
+  "buttonRefundSetTotalRefund": {
+    "container": "modalRefund",
+    "col": 9,
+    "height": 1
+  },
+  "buttonRejectRefundV2": {
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "buttonRejectRefunds": {
+    "container": "modalRefund",
+    "row": 18.4,
+    "col": 1,
+    "height": 1,
+    "width": 5
+  },
+  "buttonSetShippingRefund": {
+    "container": "modalRefund",
+    "row": 3,
+    "col": 9,
+    "height": 1
+  },
+  "container3": {
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container4": {
+    "container": "container3",
+    "subcontainer": "40de5",
+    "col": 6,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container7": {
+    "container": "container3",
+    "subcontainer": "40de5",
+    "row": 10,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerAppealLog": {
+    "container": "container3",
+    "subcontainer": "40de5",
+    "row": 10.2,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerBuyerPayment": {
+    "container": "container3",
+    "subcontainer": "40de5",
+    "height": 2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerRefundAuditLog": {
+    "container": "container3",
+    "subcontainer": "40de5",
+    "row": 2,
+    "height": 8,
+    "width": 12
+  },
+  "containerTitle10": {
+    "container": "containerBuyerPayment",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 7
+  },
+  "containerTitle13": {
+    "container": "container3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle14": {
+    "container": "container4",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 7
+  },
+  "containerTitle18": {
+    "container": "container7",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle31": {
+    "container": "containerAppealLog",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "fake_item_reason": {
+    "container": "modalRefund",
+    "row": 5,
+    "height": 0.2,
+    "width": 12
+  },
+  "item_auth_in_refund_audit_log": {
+    "container": "containerRefundAuditLog",
+    "col": 7,
+    "height": 0.2,
+    "width": 5
+  },
+  "item_authenticity": {
+    "container": "modalRefund",
+    "row": 5.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "keyValue1": {
+    "container": "container4",
+    "subcontainer": "40de5",
+    "height": 5.2,
+    "width": 12
+  },
+  "keyValue6": {
+    "container": "containerBuyerPayment",
+    "row": 0.6,
+    "height": 8.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "mRejectRefundSelectReason": {
+    "subcontainer": "mRejectRefund",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 8
+  },
+  "mRejectRefundTMessage": {
+    "subcontainer": "mRejectRefund",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 8
+  },
+  "mRejectRefundTRefundError": {
+    "subcontainer": "mRejectRefund",
+    "row": 3.8,
+    "height": 0.6,
+    "width": 8
+  },
+  "mRejectRefundText": {
+    "subcontainer": "mRejectRefund",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "mRejectRefund",
+    "col": 9,
+    "height": 1
+  },
+  "modalQueryRefundSummary": {
+    "row": 2.8,
+    "height": 0.8,
+    "width": 2
+  },
+  "modalRefund": {
+    "row": 2,
+    "height": 0.8,
+    "width": 2
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "mRejectRefund",
+    "height": 0.6,
+    "width": 9
+  },
+  "numberinputAllRefundAmount": {
+    "container": "modalRefund",
+    "row": 4.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "numberinputAllRefundPercent": {
+    "container": "modalRefund",
+    "row": 4,
+    "height": 0.2,
+    "width": 12
+  },
+  "orderRefundModule": {
+    "col": 7,
+    "height": 0.2,
+    "width": 1
+  },
+  "overrideOrderCurrency": {
+    "container": "modalRefund",
+    "row": 4.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "proceedWithRefundConfirmationButton": {
+    "container": "refundWarningModal",
+    "row": 0.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "proceedWithRefundConfirmationButton2": {
+    "container": "refundWarningModalRejectedRefundRequest",
+    "row": 0.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "proceedWithRefundConfirmationButtonMdnr": {
+    "container": "refundWarningModalMdnr",
+    "row": 0.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "refundAuditLogTable": {
+    "container": "containerRefundAuditLog",
+    "row": 0.2,
+    "width": 12
+  },
+  "refundButton": {
+    "col": 8,
+    "height": 1,
+    "width": 2
+  },
+  "refundReasonProceedButton": {
+    "container": "refundReasonWarningModal",
+    "row": 1.2,
+    "col": 1,
+    "height": 1,
+    "width": 10
+  },
+  "refundReasonWarningHeader": {
+    "container": "refundReasonWarningModal",
+    "height": 0.6,
+    "width": 12
+  },
+  "refundReasonWarningModal": {
+    "row": 1.2,
+    "height": 0.8,
+    "width": 2
+  },
+  "refundReasonWarningText": {
+    "container": "refundReasonWarningModal",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "refundWarningMessage": {
+    "container": "refundWarningModal",
+    "col": 1,
+    "height": 0.6,
+    "width": 10
+  },
+  "refundWarningMessage2": {
+    "container": "refundWarningModalRejectedRefundRequest",
+    "col": 1,
+    "height": 0.6,
+    "width": 10
+  },
+  "refundWarningMessageMdnr": {
+    "container": "refundWarningModalMdnr",
+    "col": 1,
+    "height": 0.6,
+    "width": 10
+  },
+  "refundWarningModal": {
+    "row": 3.6,
+    "height": 0.8,
+    "width": 2
+  },
+  "refundWarningModalMdnr": {
+    "row": 4.4,
+    "height": 0.8,
+    "width": 2
+  },
+  "refundWarningModalRejectedRefundRequest": {
+    "row": 5.2,
+    "height": 0.8,
+    "width": 2
+  },
+  "revealPaymentPIIButton": {
+    "container": "containerBuyerPayment",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "selectBillBackSeller": {
+    "container": "modalRefund",
+    "row": 5.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "selectRefundReason": {
+    "container": "modalRefund",
+    "row": 4.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "selectReturned": {
+    "container": "modalRefund",
+    "row": 4.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "table4": {
+    "container": "container7",
+    "subcontainer": "016e8",
+    "row": 0.4,
+    "height": 7.4,
+    "width": 12
+  },
+  "tableRefundSummary": {
+    "container": "modalQueryRefundSummary",
+    "row": 0.6,
+    "height": 6.6,
+    "width": 12
+  },
+  "tableShipmentsRefund": {
+    "container": "modalRefund",
+    "row": 7.8,
+    "height": 10.6,
+    "width": 12
+  },
+  "text107": {
+    "container": "containerBuyerPayment",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text133": {
+    "container": "modalRefund",
+    "row": 7.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "text27": {
+    "container": "modalQueryRefundSummary",
+    "height": 0.6,
+    "width": 12
+  },
+  "text4": {
+    "container": "modalRefund",
+    "height": 0.6,
+    "width": 6
+  },
+  "text6": {
+    "container": "modalRefund",
+    "row": 6.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "textRefundNotes": {
+    "container": "modalRefund",
+    "row": 5.6,
+    "height": 1,
+    "width": 12
+  }
+}

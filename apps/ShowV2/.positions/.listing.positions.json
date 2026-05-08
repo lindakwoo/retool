@@ -1,0 +1,327 @@
+{
+  "alert1": {
+    "container": "modalActionShipIt",
+    "row": 0.6,
+    "height": 1,
+    "width": 12
+  },
+  "buttonAction1": {
+    "container": "modalOrderItemActions",
+    "row": 4.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "buttonAction2": {
+    "container": "modalOrderItemActions",
+    "row": 5.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "buttonAction3": {
+    "container": "modalOrderItemActions",
+    "row": 6.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "buttonAction4": {
+    "container": "modalOrderItemActions",
+    "row": 7.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "buttonCopyOutgoingTrackingCode": {
+    "container": "listviewOrderItems",
+    "row": 8.4,
+    "col": 3,
+    "height": 1,
+    "width": 1
+  },
+  "buttonGroup1": {
+    "container": "form1",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "buttonGroup2": {
+    "container": "qualityListingOverride2",
+    "row": 2.2,
+    "height": 1,
+    "width": 11
+  },
+  "buttonGroup3": {
+    "container": "evaluateQualityListingButton",
+    "row": 1.2,
+    "height": 1,
+    "width": 11
+  },
+  "buttonOpenCategory": {
+    "container": "listviewOrderItems",
+    "row": 3,
+    "height": 1,
+    "width": 4
+  },
+  "buttonOpenListing": {
+    "container": "listviewOrderItems",
+    "row": 1,
+    "height": 1,
+    "width": 4
+  },
+  "buttonOpenOutgoingTrackingCode": {
+    "container": "listviewOrderItems",
+    "row": 7.4,
+    "col": 3,
+    "height": 1,
+    "width": 1
+  },
+  "buttonOpenProduct": {
+    "container": "listviewOrderItems",
+    "row": 2,
+    "height": 1,
+    "width": 4
+  },
+  "buttonOrderItemPrintOutgoingLabel": {
+    "container": "listviewOrderItems",
+    "row": 6.4,
+    "height": 1,
+    "width": 4
+  },
+  "buttonSubmitActionShipIt": {
+    "container": "modalActionShipIt",
+    "row": 5.8,
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
+  "container10": {
+    "container": "listviewOrderItems",
+    "row": 11.6,
+    "col": 4,
+    "height": 0.2,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container11": {
+    "container": "container10",
+    "subcontainer": "ef2c2",
+    "col": 5,
+    "height": 0.2,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle24": {
+    "container": "container10",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle28": {
+    "container": "container11",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "evaluateQualityListingButton": {
+    "container": "container10",
+    "subcontainer": "ef2c2",
+    "row": 9.2,
+    "height": 1,
+    "width": 5
+  },
+  "form1": {
+    "container": "qualityListingOverride",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formTitle11": {
+    "container": "form1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "generateOutgoingLabelAlert": {
+    "container": "modalOrderItemActions",
+    "col": 1,
+    "height": 3.6,
+    "width": 10
+  },
+  "keyValue5": {
+    "container": "container10",
+    "subcontainer": "ef2c2",
+    "row": 0.6,
+    "height": 8.6,
+    "width": 5
+  },
+  "keyvaluemapOrderItem": {
+    "container": "listviewOrderItems",
+    "row": 0.6,
+    "col": 4,
+    "height": 5.2,
+    "width": 8
+  },
+  "keyvaluemapSneakerAttributes": {
+    "container": "listviewOrderItems",
+    "row": 6.4,
+    "col": 4,
+    "height": 5.2,
+    "width": 8
+  },
+  "listviewOrderItems": {
+    "height": 1,
+    "width": 12
+  },
+  "modalActionShipIt": {
+    "container": "modalOrderItemActions",
+    "row": 3.6,
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "modalOrderItemActions": {
+    "container": "listviewOrderItems",
+    "row": 4,
+    "height": 1,
+    "width": 4
+  },
+  "multiselectListbox1": {
+    "container": "form1",
+    "height": 3.4,
+    "width": 11
+  },
+  "qualityListingOverride": {
+    "container": "container11",
+    "subcontainer": "e9af3",
+    "height": 1,
+    "width": 12
+  },
+  "qualityListingOverride2": {
+    "container": "container11",
+    "subcontainer": "e9af3",
+    "row": 1,
+    "height": 1,
+    "width": 12
+  },
+  "radiogroupActionShipIt": {
+    "container": "modalActionShipIt",
+    "row": 2,
+    "height": 0.6,
+    "width": 12
+  },
+  "relatedTimedListingEventSubText": {
+    "container": "listviewOrderItems",
+    "row": 12.4,
+    "height": 0.6,
+    "width": 9
+  },
+  "selectCancellationReason": {
+    "container": "modalOrderItemActions",
+    "row": 15.6,
+    "col": 3,
+    "height": 0.2,
+    "width": 6
+  },
+  "text108": {
+    "container": "listviewOrderItems",
+    "row": 5.8,
+    "col": 4,
+    "height": 0.6
+  },
+  "text125": {
+    "container": "container10",
+    "subcontainer": "ef2c2",
+    "height": 0.6,
+    "width": 5
+  },
+  "text127": {
+    "container": "qualityListingOverride",
+    "height": 0.6,
+    "width": 12
+  },
+  "text128": {
+    "container": "qualityListingOverride2",
+    "height": 0.6,
+    "width": 12
+  },
+  "text129": {
+    "container": "qualityListingOverride2",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text130": {
+    "container": "evaluateQualityListingButton",
+    "height": 0.6,
+    "width": 12
+  },
+  "text131": {
+    "container": "evaluateQualityListingButton",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text23": {
+    "container": "listviewOrderItems",
+    "col": 4,
+    "height": 0.6,
+    "width": 4
+  },
+  "text9": {
+    "container": "modalActionShipIt",
+    "height": 0.6,
+    "width": 12
+  },
+  "textOrderItemListingId": {
+    "container": "listviewOrderItems",
+    "height": 1,
+    "width": 4
+  },
+  "textOutgoingShipmentId": {
+    "container": "listviewOrderItems",
+    "row": 7.4,
+    "height": 2,
+    "width": 2
+  },
+  "textOutgoingTrackingCode": {
+    "container": "listviewOrderItems",
+    "row": 9.4,
+    "height": 2
+  },
+  "timedListingEventLabel": {
+    "container": "listviewOrderItems",
+    "row": 11.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "timedListingEventTable": {
+    "container": "listviewOrderItems",
+    "row": 13,
+    "height": 8,
+    "width": 12
+  }
+}

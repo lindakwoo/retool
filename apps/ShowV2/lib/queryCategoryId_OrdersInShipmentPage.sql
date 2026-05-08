@@ -1,0 +1,2 @@
+select p.category_id, c.label from DBT.APPLICATIONS.MAIN_BACKEND__PRODUCTS as p join DBT.APPLICATIONS.MAIN_BACKEND__CATEGORIES as c on c.id = p.category_id  where p.id  ={{queryRecord.data.items[0].product_id}}
+-- snowflake_telemetry: {"app_name": "Orders/ShowV2", "query_name": "queryCategoryId_OrdersInShipmentPage"}

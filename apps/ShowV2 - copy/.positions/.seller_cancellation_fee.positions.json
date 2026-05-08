@@ -1,0 +1,84 @@
+{
+  "cancelFeeContainer": {
+    "height": 3.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "cancelFeeTable": {
+    "container": "cancelFeeContainer",
+    "subcontainer": "00030",
+    "row": 1,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "confirmCancellationFeeReversalButton": {
+    "subcontainer": "cancellationFeeModal",
+    "row": 0.2,
+    "col": 5,
+    "height": 1,
+    "width": 2
+  },
+  "containerTitle30": {
+    "container": "cancelFeeContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton3": {
+    "rowGroup": "header",
+    "subcontainer": "cancellationFeeModal",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle3": {
+    "rowGroup": "header",
+    "subcontainer": "cancellationFeeModal",
+    "height": 0.6,
+    "width": 9
+  },
+  "reverseCancellationFeeButton": {
+    "container": "cancelFeeContainer",
+    "subcontainer": "00030",
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text135": {
+    "subcontainer": "cancellationFeeModal",
+    "height": 0.6,
+    "width": 5
+  }
+}

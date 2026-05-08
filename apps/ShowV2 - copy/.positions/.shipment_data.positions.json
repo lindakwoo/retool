@@ -1,0 +1,3102 @@
+{
+  "BYOL": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 14.4,
+    "height": 1.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "ProofOfDropoffcontainer": {
+    "row": 0.2,
+    "height": 1,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_from_city_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_company_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_country_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_email_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_full_name_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_phone_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_state_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_street_one_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_street_two_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_from_zip_crl": {
+    "container": "collapsibleContainer7",
+    "subcontainer": "65f85",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "address_to_city_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_company_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_country_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_email_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_full_name_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_phone_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_state_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_street_one_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_street_two_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "address_to_zip_crl": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "admin_order_crl": {
+    "container": "populate_table_form",
+    "row": 11.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "aes_itn": {
+    "container": "getRatesForm",
+    "row": 5.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "agent_name_crl": {
+    "container": "populate_table_form",
+    "row": 11,
+    "height": 0.2,
+    "width": 12
+  },
+  "alert3": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 0.8,
+    "height": 1,
+    "width": 12
+  },
+  "button10": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 4.6,
+    "height": 1,
+    "width": 12
+  },
+  "button12": {
+    "container": "containerPickupAddress",
+    "rowGroup": "header",
+    "col": 4,
+    "height": 0.8,
+    "width": 2
+  },
+  "button15": {
+    "container": "containerBuyerShippingOriginalOrder",
+    "rowGroup": "header",
+    "col": 8,
+    "height": 0.8,
+    "width": 4
+  },
+  "button19": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 26,
+    "col": 1,
+    "height": 0.8,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 24,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonCopyShipmentID": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "col": 9,
+    "height": 0.8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonCopyTxnID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 0.4,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "buttonCopyTxnID2": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 1.6,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "buttonGroup4": {
+    "rowGroup": "footer",
+    "subcontainer": "confirmMarkDeliveredWithNoLabel",
+    "row": 0.4,
+    "height": 1,
+    "width": 12
+  },
+  "buttonOpenTrackingCode": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 2.6,
+    "height": 1,
+    "width": 6
+  },
+  "buttonOrderItemPrintLabel": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 2.6,
+    "col": 6,
+    "height": 1,
+    "width": 6
+  },
+  "buttonOrderItemPrintLabel2": {
+    "container": "containerLocalPickup",
+    "subcontainer": "159cc",
+    "row": 2.4,
+    "height": 1,
+    "width": 5
+  },
+  "buyerAddress": {
+    "container": "containerBuyerShipping",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 4
+  },
+  "buyerAddressOriginalOrder": {
+    "container": "containerBuyerShippingOriginalOrder",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 7
+  },
+  "buyer_username_crl": {
+    "container": "populate_table_form",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "c_override_existing_shipment": {
+    "container": "create_return_label_form",
+    "row": 0.4,
+    "height": 0.6,
+    "width": 5
+  },
+  "category_crl": {
+    "container": "populate_table_form",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "city": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "city_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "city_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "city_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 3,
+    "height": 0.2,
+    "width": 12
+  },
+  "city_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "city_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "collapsibleContainer1": {
+    "container": "getRatesForm",
+    "row": 6.4,
+    "height": 1.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer2": {
+    "container": "getRatesForm",
+    "row": 8.2,
+    "height": 2.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer3": {
+    "container": "getRatesFormCRL",
+    "row": 12.8,
+    "height": 1.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer5": {
+    "container": "getRatesFormCRTSL",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer6": {
+    "container": "getRatesFormCRTSL",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer7": {
+    "container": "getRatesFormCRL",
+    "row": 14.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer8": {
+    "container": "getRatesFormCRTSL2",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer9": {
+    "container": "getRatesFormCRTSL2",
+    "row": 1.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle2": {
+    "container": "collapsibleContainer2",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle3": {
+    "container": "collapsibleContainer3",
+    "rowGroup": "header",
+    "height": 0.8
+  },
+  "collapsibleTitle5": {
+    "container": "collapsibleContainer5",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 10
+  },
+  "collapsibleTitle6": {
+    "container": "collapsibleContainer6",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle7": {
+    "container": "collapsibleContainer7",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleTitle8": {
+    "container": "collapsibleContainer8",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 10
+  },
+  "collapsibleTitle9": {
+    "container": "collapsibleContainer9",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle2": {
+    "container": "collapsibleContainer2",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle3": {
+    "container": "collapsibleContainer3",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle5": {
+    "container": "collapsibleContainer5",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "collapsibleToggle6": {
+    "container": "collapsibleContainer6",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle7": {
+    "container": "collapsibleContainer7",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "collapsibleToggle8": {
+    "container": "collapsibleContainer8",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "collapsibleToggle9": {
+    "container": "collapsibleContainer9",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "commercial_invoice_url_button": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 3.6,
+    "height": 1,
+    "width": 12
+  },
+  "company": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "company_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "company_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "company_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 7,
+    "height": 0.2,
+    "width": 12
+  },
+  "company_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "company_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "container5": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerBuyerShipping": {
+    "row": 2.2,
+    "col": 8,
+    "height": 2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerBuyerShippingOriginalOrder": {
+    "row": 0.2,
+    "col": 8,
+    "height": 2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerDropoffImages": {
+    "container": "ProofOfDropoffcontainer",
+    "subcontainer": "00030",
+    "height": 11,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerGetRatesCRLFailureMessage": {
+    "container": "containerGetRatesCRLFailureMessages",
+    "subcontainer": "29207",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerGetRatesCRLFailureMessages": {
+    "container": "getRatesCRLInfoContainer",
+    "subcontainer": "7cfa4",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerGetRatesFailureMessages": {
+    "container": "getRatesInfoContainer",
+    "subcontainer": "7cfa4",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "containerGetRatesFailureMessagesTitle": {
+    "container": "containerGetRatesFailureMessages",
+    "subcontainer": "29207",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerLabelDebugInfo": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 22.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerLabelGenerationFailureMessages": {
+    "container": "generateNewLabel",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerLabelGenerationFailureMessagesTitle": {
+    "container": "containerLabelGenerationFailureMessages",
+    "subcontainer": "29207",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerLabelInfo": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 19.8,
+    "height": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 25,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerLabelInfoDNE": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 22.8,
+    "height": 3.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerLocalPickup": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 10.2,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerPickupAddress": {
+    "row": 6.2,
+    "col": 8,
+    "height": 2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerSellerShipping": {
+    "row": 4.2,
+    "col": 8,
+    "height": 2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerShipmentData": {
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle15": {
+    "container": "container5",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle19": {
+    "container": "containerVoidAndReassignErrorMessageBYOL",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle2": {
+    "container": "containerVoidAndReassignErrorMessage",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle22": {
+    "container": "containerGetRatesFailureMessages",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle23": {
+    "container": "containerGetRatesCRLFailureMessages",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle29": {
+    "container": "ProofOfDropoffcontainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle3": {
+    "container": "containerLabelGenerationFailureMessages",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle4": {
+    "container": "containerLabelInfo",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle5": {
+    "container": "containerLabelInfoDNE",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle6": {
+    "container": "containerTools",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle7": {
+    "container": "containerLabelDebugInfo",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTools": {
+    "col": 4,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerVoidAndReassignErrorMessage": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "row": 8.2,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerVoidAndReassignErrorMessageBYOL": {
+    "container": "modalVoidAndReassignTrackingCodeBYOL",
+    "row": 5.4,
+    "height": 2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "copyBuyerAddress": {
+    "container": "containerBuyerShipping",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copyPickupAddress": {
+    "container": "containerPickupAddress",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copySellerAddress": {
+    "container": "containerSellerShipping",
+    "rowGroup": "header",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copyShippoShipmentId": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 2.8,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copyTextShippingLabelCarrierAccountID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 5.2,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copyTextShippingLabelMerchantID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 4,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "copyTrackingCode": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 1.4,
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "country": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "country_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "country_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "country_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 5,
+    "height": 0.2,
+    "width": 12
+  },
+  "country_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "country_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "courierImage": {
+    "container": "container5",
+    "subcontainer": "d94d3",
+    "height": 3,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "createReturnLabel": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 2.8,
+    "height": 1,
+    "width": 12
+  },
+  "createReturnShippingLabelSubmit": {
+    "container": "create_return_label_form",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "create_return_label_form": {
+    "container": "getRatesCRLInfoContainer",
+    "subcontainer": "7cfa4",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "create_return_to_sender_label_created_form": {
+    "container": "returnToSellerLabel",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "create_return_to_sender_label_created_form2": {
+    "container": "returnToSellerLabel2",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "create_return_to_sender_label_form": {
+    "container": "returnToSellerLabel",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "create_return_to_sender_label_form2": {
+    "container": "returnToSellerLabel2",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "date_crl": {
+    "container": "populate_table_form",
+    "height": 0.2,
+    "width": 12
+  },
+  "delete_dropoff_image": {
+    "container": "ProofOfDropoffcontainer",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.8,
+    "height": 1,
+    "width": 7
+  },
+  "dimension_scale": {
+    "container": "getRatesForm",
+    "row": 4.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "dimension_scale_crl": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "dimension_scale_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "dimension_scale_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "dimensionsDisclaimer": {
+    "container": "getRatesForm",
+    "row": 3.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "divider3": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 10,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "email": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "email_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "email_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "email_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 8,
+    "height": 0.2,
+    "width": 12
+  },
+  "email_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "email_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "fault_crl": {
+    "container": "populate_table_form",
+    "row": 10.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "flatRateBoxAlert1": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 11.2,
+    "height": 2.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "flatRateBoxAlert2": {
+    "container": "getRatesForm",
+    "height": 2.2,
+    "width": 12
+  },
+  "formButton2": {
+    "container": "create_return_to_sender_label_form",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "formButton3": {
+    "container": "create_return_to_sender_label_created_form",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "formButton4": {
+    "container": "create_return_to_sender_label_created_form2",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "formButton5": {
+    "container": "create_return_to_sender_label_form2",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "formTitle1": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle2": {
+    "container": "create_return_label_form",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle3": {
+    "container": "populate_table_form",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle4": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle5": {
+    "container": "create_return_to_sender_label_created_form",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle6": {
+    "container": "create_return_to_sender_label_created_form2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formTitle7": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "full_name": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "height": 0.2,
+    "width": 12
+  },
+  "full_name_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "full_name_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "full_name_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "height": 0.2,
+    "width": 12
+  },
+  "full_name_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "full_name_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "generateLabelLogsHyperlinkCopy": {
+    "container": "containerLabelGenerationFailureMessages",
+    "subcontainer": "29207",
+    "row": 1.2,
+    "col": 6,
+    "height": 1,
+    "width": 6
+  },
+  "generateLabelLogsHyperlinkOpen": {
+    "container": "containerLabelGenerationFailureMessages",
+    "subcontainer": "29207",
+    "row": 1.2,
+    "height": 1,
+    "width": 6
+  },
+  "generateNewLabel": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 1.8,
+    "height": 1,
+    "width": 12
+  },
+  "generateNewLabelTitle": {
+    "container": "generateNewLabel",
+    "height": 0.6,
+    "width": 12
+  },
+  "generate_new_label_form": {
+    "container": "getRatesInfoContainer",
+    "subcontainer": "7cfa4",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "generate_new_label_submit": {
+    "container": "generate_new_label_form",
+    "rowGroup": "footer",
+    "col": 3,
+    "height": 1.2,
+    "width": 6
+  },
+  "getRatesCRLInfoContainer": {
+    "container": "createReturnLabel",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesCRLInfoContainerTitle": {
+    "container": "getRatesCRLInfoContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "getRatesCRLLogsCopyHyperlink": {
+    "container": "getRatesCRLInfoContainer",
+    "subcontainer": "7cfa4",
+    "col": 3,
+    "height": 1
+  },
+  "getRatesCRLLogsOpenHyperlink": {
+    "container": "getRatesCRLInfoContainer",
+    "subcontainer": "7cfa4",
+    "height": 1
+  },
+  "getRatesForm": {
+    "container": "generateNewLabel",
+    "row": 1,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesFormCRL": {
+    "container": "createReturnLabel",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesFormCRTSL": {
+    "container": "returnToSellerLabel",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesFormCRTSL2": {
+    "container": "returnToSellerLabel2",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesInfoContainer": {
+    "container": "generateNewLabel",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "getRatesInfoContainerTitle": {
+    "container": "getRatesInfoContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "getRatesLogsHyperlink": {
+    "container": "getRatesInfoContainer",
+    "subcontainer": "7cfa4",
+    "height": 1,
+    "width": 6
+  },
+  "getRatesLogsHyperlink2": {
+    "container": "create_return_to_sender_label_form",
+    "rowGroup": "header",
+    "height": 1,
+    "width": 6
+  },
+  "getRatesLogsHyperlink3": {
+    "container": "create_return_to_sender_label_form2",
+    "rowGroup": "header",
+    "row": 0.2,
+    "height": 1,
+    "width": 6
+  },
+  "getRatesLogsHyperlinkCopy": {
+    "container": "getRatesInfoContainer",
+    "subcontainer": "7cfa4",
+    "col": 6,
+    "height": 1,
+    "width": 6
+  },
+  "getRatesLogsHyperlinkCopy2": {
+    "container": "create_return_to_sender_label_form",
+    "rowGroup": "header",
+    "col": 6,
+    "height": 1,
+    "width": 6
+  },
+  "getRatesLogsHyperlinkCopy3": {
+    "container": "create_return_to_sender_label_form2",
+    "rowGroup": "header",
+    "row": 0.2,
+    "col": 6,
+    "height": 1,
+    "width": 6
+  },
+  "getRatesSubmit": {
+    "container": "getRatesForm",
+    "rowGroup": "footer",
+    "col": 3,
+    "height": 1,
+    "width": 6
+  },
+  "getRatesSubmitCRL": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "getRatesSubmitCRTSL": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "getRatesSubmitCRTSL2": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "hazmat_override": {
+    "container": "getRatesForm",
+    "row": 5.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "hazmat_override_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "hazmat_override_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "height": {
+    "container": "getRatesForm",
+    "row": 3.8,
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "height_crl": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "height_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "height_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 8,
+    "height": 0.2,
+    "width": 2
+  },
+  "imageDeletedText": {
+    "container": "ProofOfDropoffcontainer",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 2.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "insert_note": {
+    "container": "save_note_modal",
+    "row": 7.8,
+    "height": 1,
+    "width": 4
+  },
+  "insured_value": {
+    "container": "getRatesForm",
+    "row": 5,
+    "height": 0.2,
+    "width": 12
+  },
+  "insured_value_crl": {
+    "container": "getRatesFormCRL",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "insured_value_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "insured_value_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "keyvaluemapBuyerShipping": {
+    "container": "containerBuyerShipping",
+    "height": 6.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "keyvaluemapBuyerShippingOriginalOrder": {
+    "container": "containerBuyerShippingOriginalOrder",
+    "row": 0.6,
+    "height": 6,
+    "width": 12
+  },
+  "keyvaluemapSellerShipping": {
+    "container": "containerSellerShipping",
+    "height": 6.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "keyvaluemapSellerShipping2": {
+    "container": "containerPickupAddress",
+    "height": 6.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "labelGenerationFailureMessage": {
+    "container": "containerLabelGenerationFailureMessages",
+    "subcontainer": "29207",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "label_format_crtsl": {
+    "container": "create_return_to_sender_label_form",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "label_format_crtsl2": {
+    "container": "create_return_to_sender_label_form2",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "label_url_crl": {
+    "container": "populate_table_form",
+    "row": 10.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "label_url_crtsl": {
+    "container": "create_return_to_sender_label_created_form",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "label_url_crtsl2": {
+    "container": "create_return_to_sender_label_created_form2",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "length": {
+    "container": "getRatesForm",
+    "row": 3.8,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "length_crl": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "length_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "length_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "listing_name_crl": {
+    "container": "populate_table_form",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "markDelivered": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 10.6,
+    "height": 1,
+    "width": 12
+  },
+  "markShipped": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 9.6,
+    "height": 1,
+    "width": 12
+  },
+  "mlClassificationText": {
+    "container": "ProofOfDropoffcontainer",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "mlConfidenceText": {
+    "container": "ProofOfDropoffcontainer",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "modalVoidAndReassignCourierInput": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "row": 4.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "modalVoidAndReassignCourierInputBYOL": {
+    "container": "modalVoidAndReassignTrackingCodeBYOL",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "modalVoidAndReassignShippoAcctInput": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "modalVoidAndReassignTrackingCode": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 5.8,
+    "height": 1,
+    "width": 12
+  },
+  "modalVoidAndReassignTrackingCodeActionButton": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "row": 9,
+    "col": 9,
+    "height": 1
+  },
+  "modalVoidAndReassignTrackingCodeActionButtonBYOL": {
+    "container": "modalVoidAndReassignTrackingCodeBYOL",
+    "row": 10.2,
+    "col": 9,
+    "height": 1
+  },
+  "modalVoidAndReassignTrackingCodeBYOL": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 6.8,
+    "height": 1,
+    "width": 12
+  },
+  "modalVoidAndReassignTrackingCodeInput": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "row": 7.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "modalVoidAndReassignTrackingCodeInputBYOL": {
+    "container": "modalVoidAndReassignTrackingCodeBYOL",
+    "row": 4,
+    "height": 0.2,
+    "width": 12
+  },
+  "newLabelToolsHeader": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "height": 0.8,
+    "width": 12
+  },
+  "northernIrelandWarning": {
+    "container": "generateNewLabel"
+  },
+  "openShowUserAppForBuyerButton": {
+    "container": "containerBuyerShipping",
+    "rowGroup": "header",
+    "col": 4,
+    "height": 0.8,
+    "width": 2
+  },
+  "openShowUserAppForSellerButton": {
+    "container": "containerSellerShipping",
+    "rowGroup": "header",
+    "col": 4,
+    "height": 0.8,
+    "width": 2
+  },
+  "packageInsured": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 16,
+    "height": 1.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "package_contents": {
+    "container": "getRatesForm",
+    "row": 5.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "package_contents_crl": {
+    "container": "getRatesFormCRL",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "package_contents_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "package_contents_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 9,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "phone_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "populateTableSubmit": {
+    "container": "populate_table_form",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 12
+  },
+  "populate_table_form": {
+    "container": "createReturnLabel",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "pudoInfoContainer": {
+    "col": 8,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "pudoInfoContainerHeader": {
+    "container": "pudoInfoContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "pudoInfoKeyValue": {
+    "container": "pudoInfoContainer",
+    "subcontainer": "00030",
+    "height": 8.6,
+    "width": 12
+  },
+  "radioGroupReturnAddress": {
+    "container": "collapsibleContainer3",
+    "subcontainer": "fbfcf",
+    "col": 4,
+    "height": 2.4,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "rates": {
+    "container": "generate_new_label_form",
+    "height": 0.2,
+    "width": 12
+  },
+  "rates_crl": {
+    "container": "create_return_label_form",
+    "height": 0.2,
+    "width": 12
+  },
+  "rates_crtsl": {
+    "container": "create_return_to_sender_label_form",
+    "height": 0.2,
+    "width": 12
+  },
+  "rates_crtsl2": {
+    "container": "create_return_to_sender_label_form2",
+    "height": 0.2,
+    "width": 12
+  },
+  "refund_amount_crl": {
+    "container": "populate_table_form",
+    "row": 6.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "refund_reason_crl": {
+    "container": "getRatesFormCRL",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "refund_type_crl": {
+    "container": "populate_table_form",
+    "row": 6,
+    "height": 0.2,
+    "width": 12
+  },
+  "refunded_crl": {
+    "container": "populate_table_form",
+    "row": 10.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "returnToSellerLabel": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 3.8,
+    "height": 1,
+    "width": 12
+  },
+  "returnToSellerLabel2": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 4.8,
+    "height": 1,
+    "width": 12
+  },
+  "return_label_covers_cost_select": {
+    "container": "create_return_label_form",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "return_label_receipient_select": {
+    "container": "collapsibleContainer3",
+    "rowGroup": "header",
+    "col": 4,
+    "height": 0.2,
+    "width": 5
+  },
+  "revealBuyerAddressButton": {
+    "container": "containerBuyerShipping",
+    "rowGroup": "header",
+    "col": 7,
+    "height": 0.8
+  },
+  "revealBuyerAddressReturnLabelButton": {
+    "container": "createReturnLabel",
+    "row": 1.2,
+    "height": 0.8,
+    "width": 12
+  },
+  "revealPickupAddressButton": {
+    "container": "containerPickupAddress",
+    "rowGroup": "header",
+    "col": 7,
+    "height": 0.8
+  },
+  "revealSellerAddressButton": {
+    "container": "containerSellerShipping",
+    "rowGroup": "header",
+    "col": 7,
+    "height": 0.8
+  },
+  "sales_channel_crl": {
+    "container": "populate_table_form",
+    "row": 6.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "save_note_additional": {
+    "container": "save_note_modal",
+    "row": 4.8,
+    "height": 1,
+    "width": 12
+  },
+  "save_note_insured": {
+    "container": "save_note_modal",
+    "row": 3.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "save_note_modal": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 7.8,
+    "height": 1,
+    "width": 12
+  },
+  "save_note_tracking_info": {
+    "container": "save_note_modal",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "save_note_zd": {
+    "container": "save_note_modal",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "selectFlatRateBoxType": {
+    "container": "getRatesForm",
+    "row": 2.4,
+    "col": 4,
+    "height": 0.2,
+    "width": 8
+  },
+  "sellerAddress2": {
+    "container": "containerSellerShipping",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 4
+  },
+  "sellerAddress3": {
+    "container": "containerPickupAddress",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 4
+  },
+  "seller_early_payout_enabled_crl": {
+    "container": "populate_table_form",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "seller_username_crl": {
+    "container": "populate_table_form",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "shipFlatRateToggle": {
+    "container": "getRatesForm",
+    "row": 2.6,
+    "height": 0.6,
+    "width": 4
+  },
+  "shipmentActions": {
+    "container": "containerTools",
+    "subcontainer": "5ffc9",
+    "row": 8.8,
+    "height": 0.8,
+    "width": 12
+  },
+  "shipmentDataTitle": {
+    "container": "containerShipmentData",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "sigRequiredAlert": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 17.6,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "signature_confirmation": {
+    "container": "getRatesForm",
+    "row": 5.8,
+    "height": 0.6,
+    "width": 7
+  },
+  "signature_confirmation_crl": {
+    "container": "getRatesFormCRL",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 7
+  },
+  "signature_confirmation_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "row": 1,
+    "height": 0.6,
+    "width": 7
+  },
+  "signature_confirmation_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "row": 1,
+    "height": 0.6,
+    "width": 7
+  },
+  "spacer1": {
+    "container": "generateNewLabel",
+    "row": 0.6,
+    "height": 0.4,
+    "width": 12
+  },
+  "spacer2": {
+    "container": "createReturnLabel",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "spacer3": {
+    "container": "returnToSellerLabel",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "spacer4": {
+    "container": "returnToSellerLabel2",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "state": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "state_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "state_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "state_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 4,
+    "height": 0.2,
+    "width": 12
+  },
+  "state_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "state_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "height": 0.2,
+    "width": 12
+  },
+  "street_one_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "street_two_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "tableCreateReturnLabel": {
+    "container": "getRatesFormCRL",
+    "row": 2.2,
+    "height": 10.6,
+    "width": 12
+  },
+  "text10": {
+    "container": "modalVoidAndReassignTrackingCode",
+    "height": 0.6,
+    "width": 12
+  },
+  "text105": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 4,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text109": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 4.8,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text110": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 8.8,
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text119": {
+    "container": "containerGetRatesFailureMessages",
+    "subcontainer": "29207",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "text120": {
+    "container": "containerLabelGenerationFailureMessages",
+    "subcontainer": "29207",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text121": {
+    "container": "containerGetRatesFailureMessages",
+    "subcontainer": "29207",
+    "row": 0.6,
+    "height": 1.6,
+    "width": 12
+  },
+  "text122": {
+    "container": "containerBuyerShippingOriginalOrder",
+    "height": 0.6,
+    "width": 12
+  },
+  "text13": {
+    "container": "getRatesForm",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 7
+  },
+  "text132": {
+    "container": "generateNewLabel",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text136": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 6.8,
+    "height": 1,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text137": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 5.8,
+    "height": 1,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text138": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 7.8,
+    "height": 1,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text15": {
+    "container": "containerLabelInfoDNE",
+    "subcontainer": "5ffc9",
+    "height": 0.6,
+    "width": 12
+  },
+  "text17": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 3.2,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text19": {
+    "container": "createReturnLabel",
+    "height": 0.6,
+    "width": 8
+  },
+  "text20": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "row": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "text21": {
+    "container": "returnToSellerLabel",
+    "height": 0.6,
+    "width": 12
+  },
+  "text22": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "row": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "text28": {
+    "container": "getRatesFormCRL",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text29": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "row": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "text30": {
+    "container": "returnToSellerLabel2",
+    "height": 0.6,
+    "width": 12
+  },
+  "text31": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "text42": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 0.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "text43": {
+    "container": "getRatesForm",
+    "row": 3.8,
+    "height": 0.6,
+    "width": 4
+  },
+  "text45": {
+    "container": "save_note_modal",
+    "height": 0.6,
+    "width": 10
+  },
+  "text47": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 18.6,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text48": {
+    "container": "modalVoidAndReassignTrackingCodeBYOL",
+    "height": 0.6,
+    "width": 12
+  },
+  "text83": {
+    "container": "containerLocalPickup",
+    "subcontainer": "159cc",
+    "height": 0.6,
+    "width": 12
+  },
+  "text84": {
+    "container": "containerLocalPickup",
+    "subcontainer": "159cc",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 12
+  },
+  "text85": {
+    "container": "containerLocalPickup",
+    "subcontainer": "159cc",
+    "row": 1.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "text86": {
+    "container": "containerLocalPickup",
+    "subcontainer": "159cc",
+    "row": 1.8,
+    "height": 0.6,
+    "width": 12
+  },
+  "textRateID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 1.2,
+    "height": 1.2,
+    "width": 10
+  },
+  "textRateID2": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 2.4,
+    "height": 1.2,
+    "width": 10
+  },
+  "textRateInfo": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 19.2,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textShipmentCubicWeight": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 2.4,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textShipmentID": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "height": 0.8,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textShipmentID2": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 0.8,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textShipmentID3": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 1.6,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 21,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textShippingLabelCarrierAccountID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 4.8,
+    "height": 1.2,
+    "width": 10
+  },
+  "textShippingLabelMerchantID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "row": 3.6,
+    "height": 1.2,
+    "width": 10
+  },
+  "textTrackingCode": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 13.6,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 22,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textTrackingCode2": {
+    "container": "container5",
+    "subcontainer": "d94d3",
+    "col": 2,
+    "height": 2,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textTrackingCode3": {
+    "container": "containerLabelInfo",
+    "subcontainer": "5ffc9",
+    "row": 1.4,
+    "height": 1.2,
+    "width": 10
+  },
+  "textTrackingCode4": {
+    "container": "containerShipmentData",
+    "subcontainer": "e9127",
+    "row": 21.8,
+    "height": 0.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 23,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "textTxnID": {
+    "container": "containerLabelDebugInfo",
+    "subcontainer": "5ffc9",
+    "height": 1.2,
+    "width": 10
+  },
+  "total_order_amount_crl": {
+    "container": "populate_table_form",
+    "row": 6.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "tracking_number_crl": {
+    "container": "populate_table_form",
+    "row": 10.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "tracking_number_crtsl": {
+    "container": "create_return_to_sender_label_created_form",
+    "height": 0.2,
+    "width": 12
+  },
+  "tracking_number_crtsl2": {
+    "container": "create_return_to_sender_label_created_form2",
+    "height": 0.2,
+    "width": 12
+  },
+  "update_note": {
+    "container": "save_note_modal",
+    "row": 7.8,
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
+  "voidAndReassignErrorMessage": {
+    "container": "containerVoidAndReassignErrorMessage",
+    "subcontainer": "29207",
+    "height": 0.6,
+    "width": 12
+  },
+  "voidAndReassignErrorMessageBYOL": {
+    "container": "containerVoidAndReassignErrorMessageBYOL",
+    "subcontainer": "29207",
+    "height": 0.6,
+    "width": 12
+  },
+  "warehouse_crl": {
+    "container": "populate_table_form",
+    "row": 10,
+    "height": 0.2,
+    "width": 12
+  },
+  "warningMediaMail": {
+    "container": "generate_new_label_form",
+    "row": 1.2,
+    "height": 2.6,
+    "width": 12
+  },
+  "weight": {
+    "container": "getRatesForm",
+    "row": 4.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_crl": {
+    "container": "getRatesFormCRL",
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_scale": {
+    "container": "getRatesForm",
+    "row": 4.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_scale_crl": {
+    "container": "getRatesFormCRL",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_scale_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "weight_scale_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "width": {
+    "container": "getRatesForm",
+    "row": 3.8,
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "width_crl": {
+    "container": "getRatesFormCRL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "width_crtsl": {
+    "container": "getRatesFormCRTSL",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "width_crtsl2": {
+    "container": "getRatesFormCRTSL2",
+    "rowGroup": "header",
+    "row": 1,
+    "col": 6,
+    "height": 0.2,
+    "width": 2
+  },
+  "zen_desk_crl": {
+    "container": "populate_table_form",
+    "row": 17,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "fbfcf",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip_crtsl": {
+    "container": "collapsibleContainer5",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip_crtsl2": {
+    "container": "collapsibleContainer8",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip_seller": {
+    "container": "collapsibleContainer2",
+    "subcontainer": "fbfcf",
+    "row": 6,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip_seller_crtsl": {
+    "container": "collapsibleContainer6",
+    "subcontainer": "fbfcf",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "zip_seller_crtsl2": {
+    "container": "collapsibleContainer9",
+    "subcontainer": "fbfcf",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  }
+}

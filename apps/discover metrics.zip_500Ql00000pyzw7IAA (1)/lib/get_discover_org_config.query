@@ -1,0 +1,1 @@
+{"organization_id": {{ parseInt(urlparams.hash.org_id)}}, "org_feature_name":"discover_config"}

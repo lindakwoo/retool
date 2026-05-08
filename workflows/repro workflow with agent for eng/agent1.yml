@@ -1,0 +1,95 @@
+id: agent1
+type: datasource
+subtype: RetoolAIAgentInvokeQuery
+resourceName: RetoolAIAgentInvokeQuery
+template:
+  queryRefreshTime: ''
+  agentId: c86436b5-7354-4ccb-a09c-fca55ef27d1e
+  agentRunId: ''
+  allowedGroupIds: []
+  streamResponse: false
+  lastReceivedFromResourceAt: null
+  isFunction: false
+  functionParameters: null
+  queryDisabledMessage: ''
+  servedFromCache: false
+  offlineUserQueryInputs: ''
+  functionDescription: null
+  agentDynamicModeEnabled: false
+  successMessage: ''
+  queryDisabled: ''
+  playgroundQuerySaveId: latest
+  workflowParams: null
+  resourceNameOverride: ''
+  agentQueryMode: gui
+  runWhenModelUpdates: false
+  workflowRunExecutionType: sync
+  showFailureToaster: true
+  query: ''
+  playgroundQueryUuid: ''
+  playgroundQueryId: null
+  error: null
+  workflowRunBodyType: raw
+  privateParams: []
+  queryRunOnSelectorUpdate: false
+  agentWorkflowRunMode: sync
+  runWhenPageLoadsDelay: ''
+  data: null
+  importedQueryInputs: {}
+  agentInputs: ''
+  isImported: false
+  showSuccessToaster: true
+  cacheKeyTtl: ''
+  requestSentTimestamp: null
+  metadata: null
+  editorMode: sql
+  queryRunTime: null
+  changesetObject: ''
+  offlineOptimisticResponse: null
+  errorTransformer: return data.error
+  finished: null
+  confirmationMessage: null
+  isFetching: false
+  changeset: ''
+  rawData: null
+  queryTriggerDelay: '0'
+  resourceTypeOverride: null
+  watchedParams: []
+  enableErrorTransformer: false
+  showLatestVersionUpdatedWarning: false
+  timestamp: 0
+  evalType: script
+  importedQueryDefaults: {}
+  enableTransformer: false
+  showUpdateSetValueDynamicallyToggle: true
+  overrideOrgCacheForUserCache: false
+  runWhenPageLoads: false
+  transformer: return data
+  events: []
+  agentGuiMode: invoke
+  queryTimeout: '10000'
+  workflowId: null
+  requireConfirmation: false
+  queryFailureConditions: ''
+  changesetIsObject: false
+  enableCaching: false
+  allowedGroups: []
+  offlineQueryType: None
+  queryThrottleTime: '750'
+  updateSetValueDynamically: false
+  notificationDuration: ''
+createdAt: 2026-03-31T17:46:20.316Z
+blockData:
+  top: 48
+  left: 448
+  uuid: 979f74a2-52e7-4323-8573-9d6ebeac74fa
+  options:
+    agentId: c86436b5-7354-4ccb-a09c-fca55ef27d1e
+    agentSaveId: 79fed56f-2075-411e-898b-67c4792755e4
+    executionMode: sync
+  pluginId: agent1
+  blockType: default
+  editorType: RetoolAIAgentInvokeQuery
+  resourceName: RetoolAIAgentInvokeQuery
+  incomingOnSuccessEdges:
+    - 177d8dc2-ae15-4bd8-a86a-63ea6e465355

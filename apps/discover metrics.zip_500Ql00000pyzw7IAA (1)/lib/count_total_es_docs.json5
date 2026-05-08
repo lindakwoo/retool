@@ -1,0 +1,10 @@
+{
+  body: {
+    query: {
+      match: { "agatha.taxonomy_id": "{{taxonomySelect.value}}" },
+    },
+  },
+  index: "{{ urlparams.hash.org_id }}_tickets_metrics_v1",
+  size: 0,
+  trackTotalHits: true,
+}

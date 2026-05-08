@@ -1,0 +1,1 @@
+select count(*) from shipping_credit_usages where order_id = {{ queryRecord.data.id }}

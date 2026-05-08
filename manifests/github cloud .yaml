@@ -1,0 +1,9 @@
+version: 1.0.0
+name: 'github cloud '
+workflows:
+  - uuid: 4be1a58a-a45a-4657-98b1-51985c4ef6dd
+    release: latest
+  - uuid: 919b9352-1fe4-4d3b-bea1-b2501a27daf0
+    release: latest
+  - uuid: 99ce804a-4f49-4d2d-855f-e8aef27f575d
+    release: latest

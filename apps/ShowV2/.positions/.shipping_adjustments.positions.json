@@ -1,0 +1,36 @@
+{
+  "alert2": {
+    "row": 0.8,
+    "col": 6,
+    "height": 2.4,
+    "width": 6
+  },
+  "container6": {
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle16": {
+    "container": "container6",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "shippingAdjustmentTable": {
+    "container": "container6",
+    "subcontainer": "3d009",
+    "height": 8.8,
+    "width": 12
+  },
+  "textAdjustmentsHeader": {
+    "height": 0.6
+  }
+}
