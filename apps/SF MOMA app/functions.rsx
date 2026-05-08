@@ -17,7 +17,7 @@
       type="datasource"
       waitMs="0"
       waitType="debounce"
-    >
+    />
   </JavascriptQuery>
   <State id="filteredArtwork" value="[]" />
   <State id="artistsMap" value="{}" />
