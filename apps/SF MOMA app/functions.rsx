@@ -8,9 +8,6 @@
     query={include("./lib/filterData.js", "string")}
     resourceName="JavascriptQuery"
     showSuccessToaster={false}
-    workflowActionType={null}
-    workflowBlockUuid={null}
-    workflowRunId={null}
   >
     <Event
       event="success"
