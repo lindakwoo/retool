@@ -38,15 +38,7 @@
     textLight="#ffffff"
     warning="#cd6f00"
   />
- <Event
-        event="parse"
-        method="setValue"
-        params={{ ordered: [{ value: "{{ fileButton1.parsedValue[0] }}" }] }}
-        pluginId="artists"
-        type="state"
-        waitMs="0"
-        waitType="debounce"
-      />
+
   <Frame
     id="$main"
     enableFullBleed={false}
