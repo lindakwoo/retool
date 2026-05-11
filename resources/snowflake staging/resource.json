@@ -1,0 +1,31 @@
+{
+  "type": "snowflake",
+  "host": "lo46504",
+  "port": "",
+  "databaseName": "support",
+  "databaseUsername": "retoolsupport",
+  "databasePassword": "",
+  "description": null,
+  "outboundRegion": null,
+  "ssl": false,
+  "editPrivilege": false,
+  "options": {
+    "role": "",
+    "version": "SqlQueryUnified",
+    "warehouse": "COMPUTE_WH",
+    "oauth2_scope": "refresh_token",
+    "authenticator": "snowflake",
+    "databaseSchema": "public",
+    "oauth2_auth_url": "",
+    "oauth2_client_id": "",
+    "queryEditorModes": { "allowGuiMode": true, "allowSqlMode": true },
+    "oauth2_callback_url": "OAUTH2_CALLBACK_URL",
+    "oauth2_client_secret": "",
+    "oauth2_access_token_url": "",
+    "disableServerSidePrepare": true
+  },
+  "environment": "production",
+  "dynamicallyQueryable": false,
+  "uuid": "b26ef688-6c8d-4ce2-9302-ac19a7288e29",
+  "toolscriptVersion": "1.0.0"
+}
