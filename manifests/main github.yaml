@@ -1,5 +1,8 @@
 version: 1.0.0
 name: main github
+apps:
+  - uuid: a97f6b42-4988-11f1-ab98-f74a5cd6d7bb
+    release: latest
 workflows:
   - uuid: 4be1a58a-a45a-4657-98b1-51985c4ef6dd
     release: latest
