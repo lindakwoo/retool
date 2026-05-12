@@ -1,0 +1,33 @@
+- id: 62447bb9-3880-4ee5-baf4-68874768eb3d
+  createdBy: 1871206
+  enabledAt: '2026-05-07T16:52:47.642Z'
+  workflowId: 262b76c5-cd59-40ba-8053-ebe1da94f718
+  triggerType: schedule
+  environmentId: 7c2c6f84-d59e-48d6-9dc0-497eda4af129
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  environmentName: staging
+  concurrencyLimit: 1
+- id: bd87f257-482b-43e2-87f7-5dfc63efbde2
+  createdBy: 1735245
+  enabledAt: '2026-05-07T16:52:41.593Z'
+  workflowId: 262b76c5-cd59-40ba-8053-ebe1da94f718
+  triggerType: schedule
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions:
+    crontab: 0 0 * * *
+    timezone: UTC
+    scheduleType: interval
+  environmentName: production
+  concurrencyLimit: 1
+- id: ce7b5151-2b3b-4347-a5d3-ddbf2cd5ae43
+  createdBy: null
+  enabledAt: null
+  workflowId: 262b76c5-cd59-40ba-8053-ebe1da94f718
+  triggerType: webhook
+  environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
+  triggerOptions: null
+  environmentName: production
+  concurrencyLimit: null
