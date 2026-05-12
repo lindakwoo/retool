@@ -1,0 +1,26 @@
+{
+  "type": "googlesheets",
+  "host": null,
+  "port": null,
+  "databaseName": null,
+  "databaseUsername": null,
+  "databasePassword": null,
+  "description": "a test google sheet for resource upload",
+  "outboundRegion": null,
+  "ssl": null,
+  "editPrivilege": null,
+  "options": {
+    "oauth2_scope": "email profile https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/spreadsheets",
+    "authentication": "oauth2",
+    "oauth2_auth_url": "https://accounts.google.com/o/oauth2/v2/auth",
+    "oauth2_client_id": "716367306867-d861tjqj92gjb0uphcjt8gu2nvtf6e9t.apps.googleusercontent.com",
+    "oauth2_callback_url": "OAUTH2_CALLBACK_URL",
+    "oauth2_client_secret": "",
+    "oauth2_access_token_url": "https://www.googleapis.com/oauth2/v4/token",
+    "oauth2_share_user_credentials": false
+  },
+  "environment": "production",
+  "dynamicallyQueryable": false,
+  "uuid": "ceec915a-85ed-4f58-98b7-631484c88c0e",
+  "toolscriptVersion": "1.0.0"
+}
