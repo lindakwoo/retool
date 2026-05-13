@@ -1,2 +1,5 @@
 version: 1.0.0
 name: docker staging
+workflows:
+  - uuid: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
+    release: latest
