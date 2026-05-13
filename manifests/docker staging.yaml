@@ -3,3 +3,5 @@ name: docker staging
 workflows:
   - uuid: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
     release: latest
+  - uuid: f366ee4a-93e0-48d5-a02a-15503684729b
+    release: latest

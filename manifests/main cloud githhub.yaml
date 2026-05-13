@@ -1,2 +1,5 @@
 version: 1.0.0
 name: main cloud githhub
+workflows:
+  - uuid: f366ee4a-93e0-48d5-a02a-15503684729b
+    release: latest
