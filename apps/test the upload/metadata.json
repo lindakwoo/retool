@@ -7,5 +7,5 @@
     "browserTitle":"hello",
     "version": "4.2.0"
   }
-  "customDocumentTitleEnabled": false,
+  "customDocumentTitleEnabled": true,
 }
