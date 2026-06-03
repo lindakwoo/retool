@@ -2,8 +2,7 @@
   <Include src="./functions.rsx" />
   <DocumentTitle
     id="$customDocumentTitle"
-    value="some title here
-"
+    value="woo hoo title here"
   />
   <Frame
     id="$main"
