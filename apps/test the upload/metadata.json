@@ -5,6 +5,7 @@
   "appTemplate": {
     "appMaxWidth": "100%",
     "browserTitle":"hello",
-    "version": "4.2.0"
+    "version": "4.2.0",
+    "customDocumentTitleEnabled": true
   }
 }
