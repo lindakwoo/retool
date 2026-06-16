@@ -3,6 +3,8 @@ name: docker staging
 apps:
   - uuid: 1581d6d6-66b7-11f1-9a45-53b1fe1d12f8
     release: latest
+  - uuid: 1f68d028-b989-11ef-816f-27ddfedb6603
+    release: latest
   - uuid: 3c49479e-99b9-11ef-9ae2-a7c325fa25c4
     release: latest
   - uuid: 9168e780-5e10-11f1-a4ce-07b8095c2f55

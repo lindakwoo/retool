@@ -1,0 +1,12 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "1f68d028-b989-11ef-816f-27ddfedb6603",
+  "appTemplate": {
+    "appMaxWidth": "100%",
+    "isGlobalWidget": true,
+    "customDocumentTitleEnabled": true,
+    "shortlink": "nagivation",
+    "version": "4.3.0"
+  }
+}
