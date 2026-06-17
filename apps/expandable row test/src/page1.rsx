@@ -35,6 +35,7 @@
       showHeader={true}
       toolbarPosition="bottom"
     >
+      <Include src="./table1ExpandedRow.rsx" />
       <Column
         id="d151f"
         alignment="right"

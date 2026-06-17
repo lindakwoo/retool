@@ -1,4 +1,9 @@
 {
+  "button1": {
+    "container": "table1",
+    "height": 1,
+    "width": 2
+  },
   "table1": {
     "row": 5.8,
     "col": 2,
