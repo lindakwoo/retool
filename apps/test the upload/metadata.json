@@ -4,7 +4,7 @@
   "pageUuid": "3c49479e-99b9-11ef-9ae2-a7c325fa25c4",
   "appTemplate": {
     "appMaxWidth": "100%",
-    "customDocumentTitleEnabled": true,
-    "version": "4.2.0"
+    "version": "4.2.0",
+    "customDocumentTitleEnabled": true
   }
 }
