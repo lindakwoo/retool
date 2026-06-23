@@ -85,6 +85,13 @@
     spreadsheetId="1pE6QxJgaLTN5kdot0tfHMBMPBOPw_tUC7uABoVfYjBg/"
     useRawSpreadsheetId={true}
   />
+  <JavascriptQuery
+    id="query3"
+    notificationDuration={4.5}
+    query={include("../lib/query3.js", "string")}
+    resourceName="JavascriptQuery"
+    showSuccessToaster={false}
+  />
   <Frame
     id="$main"
     enableFullBleed={false}
@@ -93,6 +100,11 @@
     padding="8px 12px"
     type="main"
   >
+    <Text
+      id="text1"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <Table
       id="table1"
       cellSelection="none"
