@@ -39,6 +39,7 @@
     "lucide-react": "0.577.0",
     "react": "19.2.7",
     "react-dom": "19.2.7",
+    "react-dropzone": "14.3.8",
     "react-resizable-panels": "2.1.9",
     "react-is": "19.2.7",
     "react-router-dom": "7.14.1",
