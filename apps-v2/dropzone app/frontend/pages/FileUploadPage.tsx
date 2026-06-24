@@ -58,7 +58,7 @@ export default function FileUploadPage() {
     <main className="min-h-screen bg-background px-4 py-10 text-foreground sm:px-6 lg:px-8">
       <section className="mx-auto flex w-full max-w-5xl flex-col gap-6">
         <div className="space-y-2">
-          <h1 className="text-3xl font-semibold tracking-tight">File uploader</h1>
+          <h1 className="text-3xl font-semibold tracking-tight">File uploader!</h1>
           <p className="text-muted-foreground">Drag files into the upload area or browse from your device.</p>
         </div>
 
