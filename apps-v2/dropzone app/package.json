@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "bc103afa-6fe1-11f1-8ed7-0fb5cf244838",
+      "name": "dropzone app",
+      "resourceReferencesByFile": {},
+      "appIdentifier": null
+    }
+  }
+}
