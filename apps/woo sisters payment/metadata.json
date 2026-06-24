@@ -3,10 +3,9 @@
   "version": "43.0.9",
   "pageUuid": "183bd5d2-25ec-11f0-ad27-07bf802db1d4",
   "appTemplate": {
-    "appMaxWidth": "100%",
     "rootScreen": "page1",
     "customDocumentTitleEnabled": true,
     "shortlink": "custom-url",
-    "version": "4.12.0"
+    "version": "3.300.0"
   }
 }
