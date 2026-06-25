@@ -1,1 +1,0 @@
-return retoolContext.environment
