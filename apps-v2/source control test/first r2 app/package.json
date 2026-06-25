@@ -2,7 +2,7 @@
   "private": true,
   "retool": {
     "app": {
-      "uuid": "85ca6e8e-6f4b-11f1-8a5c-b79fd0d37095",
+      "uuid": "af966530-859a-4204-b9b0-48411b442426",
       "name": "first r2 app",
       "resourceReferencesByFile": {},
       "appIdentifier": "first-r2-app"
