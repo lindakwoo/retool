@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "https://catfact.ninja/fact/",
+    "baseURL": "https://catfact.ninja/fact",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
