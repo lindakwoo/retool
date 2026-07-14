@@ -1,0 +1,11 @@
+<GlobalFunctions>
+  <GlobalWidgetQuery
+    id="triggerDrawer"
+    data="{{query1.data}}"
+    defaultValue=""
+    error="{{query1.error}}"
+    metadata="{{query1.metadata}}"
+    resourceName="GlobalWidgetQuery"
+    value=""
+  />
+</GlobalFunctions>

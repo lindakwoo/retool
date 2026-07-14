@@ -1,0 +1,22 @@
+query {
+  launches(limit: 10) {
+    mission_name
+    launch_date_utc
+    rocket {
+      rocket_name
+    }
+    launch_success
+  }
+}
+# An example GraphQL query with an argument variable "id" of type String might look like:
+#
+#     query ($id: String) {
+#       field(id: $id) {
+#         subField
+#       }
+#     }
+#
+# Keyboard shortcuts:
+#
+#   Auto Complete:  Ctrl-Space (or just start typing)
+

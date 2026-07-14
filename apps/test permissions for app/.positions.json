@@ -1,0 +1,14 @@
+{
+  "sourceControlTestModule1": {
+    "row": 10.8,
+    "col": 1,
+    "height": 12,
+    "width": 11
+  },
+  "table1": {
+    "row": 2.8,
+    "col": 2,
+    "height": 8,
+    "width": 8
+  }
+}

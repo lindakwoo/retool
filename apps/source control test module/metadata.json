@@ -1,0 +1,9 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "25a683c6-2e23-11f1-a436-47279d476aea",
+  "appTemplate": {
+    "isGlobalWidget": true,
+    "version": "3.334.4"
+  }
+}

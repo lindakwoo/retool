@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "https://httpbun.com/post",
+    "baseURL": "https://httpbun.com",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
@@ -47,6 +47,6 @@
   },
   "environment": "production",
   "dynamicallyQueryable": false,
-  "uuid": "01ef3815-b6b3-4f92-963e-090bc036b95d",
+  "uuid": "893f622e-9f18-4c34-9f99-1f065d203b78",
   "toolscriptVersion": "1.0.0"
 }

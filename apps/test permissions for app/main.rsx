@@ -1,26 +1,14 @@
-<Screen
-  id="page1"
-  _customShortcuts={[]}
-  _hashParams={[]}
-  _searchParams={[]}
-  browserTitle=""
-  title="Page 1"
-  urlSlug=""
-  uuid="d41196f9-3902-462c-be0c-74ccd03fc053"
->
+<App>
+  <Include src="./functions.rsx" />
   <Frame
     id="$main"
     enableFullBleed={false}
     isHiddenOnDesktop={false}
     isHiddenOnMobile={false}
     padding="8px 12px"
+    sticky={null}
     type="main"
   >
-    <Module
-      id="finalTestModule1"
-      name="final test module"
-      pageUuid="e6cfd9de-5058-11f0-bf05-3745f5e55fff"
-    />
     <Table
       id="table1"
       cellSelection="none"
@@ -31,7 +19,7 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
-      primaryKeyColumnId="4fc00"
+      primaryKeyColumnId="bbae2"
       rowHeight="medium"
       showBorder={true}
       showFooter={true}
@@ -39,7 +27,7 @@
       toolbarPosition="bottom"
     >
       <Column
-        id="4fc00"
+        id="bbae2"
         alignment="right"
         format="decimal"
         groupAggregationMode="countDistinct"
@@ -50,7 +38,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="1ba38"
+        id="6d4f5"
         alignment="left"
         caption="{{ currentSourceRow.email }}"
         format="avatar"
@@ -64,7 +52,7 @@
         valueOverride="{{ currentSourceRow.firstName }} {{ currentSourceRow.lastName }}"
       />
       <Column
-        id="42833"
+        id="3e0c9"
         alignment="left"
         format="tag"
         formatOptions={{ automaticColors: true }}
@@ -77,7 +65,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="3996d"
+        id="4b26f"
         alignment="left"
         format="boolean"
         groupAggregationMode="none"
@@ -88,7 +76,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a96a"
+        id="af7d5"
         alignment="left"
         format="date"
         groupAggregationMode="none"
@@ -99,7 +87,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a81d"
+        id="2d167"
         alignment="left"
         cellTooltipMode="overflow"
         format="tags"
@@ -113,7 +101,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="bef33"
+        id="798b5"
         alignment="left"
         format="link"
         groupAggregationMode="none"
@@ -124,7 +112,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="6d658"
+        id="56251"
         alignment="left"
         cellTooltipMode="overflow"
         format="multilineString"
@@ -148,6 +136,7 @@
         type="custom"
       >
         <Event
+          id="20272ff9"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -163,6 +152,7 @@
         type="custom"
       >
         <Event
+          id="d5e1d500"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
@@ -172,6 +162,12 @@
         />
       </ToolbarButton>
     </Table>
-    <Text id="text1" value="parent app" verticalAlign="center" />
+    <Module
+      id="sourceControlTestModule1"
+      heightType="fixed"
+      name="source control test module"
+      overflowType="hidden"
+      pageUuid="25a683c6-2e23-11f1-a436-47279d476aea"
+    />
   </Frame>
-</Screen>
+</App>

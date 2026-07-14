@@ -1,0 +1,71 @@
+{
+  "container2": {
+    "container": "listView2",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle2": {
+    "container": "container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "fileButton1": {
+    "row": 1.2,
+    "col": 1,
+    "height": 1,
+    "width": 2
+  },
+  "fileButton2": {
+    "row": 1.2,
+    "col": 4,
+    "height": 1,
+    "width": 2
+  },
+  "image2": {
+    "container": "container2",
+    "subcontainer": "ee6db"
+  },
+  "listView2": {
+    "row": 22.4,
+    "height": 12,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "select1": {
+    "row": 22.2,
+    "height": 0.2,
+    "width": 4
+  },
+  "table3": {
+    "row": 3.4,
+    "height": 8.4,
+    "width": 8
+  },
+  "table4": {
+    "row": 12.4,
+    "height": 8,
+    "width": 10
+  },
+  "text1": {
+    "row": 0.6,
+    "col": 1,
+    "height": 0.6,
+    "width": 4
+  }
+}

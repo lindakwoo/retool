@@ -2,12 +2,22 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
   urlSlug=""
-  uuid="d41196f9-3902-462c-be0c-74ccd03fc053"
+  uuid="e698adf9-287a-426d-9c97-d6521275764d"
 >
+  <RESTQuery
+    id="query1"
+    bodyType="json"
+    query="post"
+    resourceDisplayName="whatnot httpbun"
+    resourceName="893f622e-9f18-4c34-9f99-1f065d203b78"
+    runWhenModelUpdates={false}
+    type="POST"
+  />
   <Frame
     id="$main"
     enableFullBleed={false}
@@ -16,11 +26,6 @@
     padding="8px 12px"
     type="main"
   >
-    <Module
-      id="finalTestModule1"
-      name="final test module"
-      pageUuid="e6cfd9de-5058-11f0-bf05-3745f5e55fff"
-    />
     <Table
       id="table1"
       cellSelection="none"
@@ -31,7 +36,7 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
-      primaryKeyColumnId="4fc00"
+      primaryKeyColumnId="8a697"
       rowHeight="medium"
       showBorder={true}
       showFooter={true}
@@ -39,7 +44,7 @@
       toolbarPosition="bottom"
     >
       <Column
-        id="4fc00"
+        id="8a697"
         alignment="right"
         format="decimal"
         groupAggregationMode="countDistinct"
@@ -50,7 +55,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="1ba38"
+        id="53dac"
         alignment="left"
         caption="{{ currentSourceRow.email }}"
         format="avatar"
@@ -64,7 +69,7 @@
         valueOverride="{{ currentSourceRow.firstName }} {{ currentSourceRow.lastName }}"
       />
       <Column
-        id="42833"
+        id="05c8f"
         alignment="left"
         format="tag"
         formatOptions={{ automaticColors: true }}
@@ -77,7 +82,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="3996d"
+        id="8d7c2"
         alignment="left"
         format="boolean"
         groupAggregationMode="none"
@@ -88,7 +93,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a96a"
+        id="8d7d5"
         alignment="left"
         format="date"
         groupAggregationMode="none"
@@ -99,7 +104,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a81d"
+        id="79576"
         alignment="left"
         cellTooltipMode="overflow"
         format="tags"
@@ -113,7 +118,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="bef33"
+        id="34d31"
         alignment="left"
         format="link"
         groupAggregationMode="none"
@@ -124,7 +129,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="6d658"
+        id="2843c"
         alignment="left"
         cellTooltipMode="overflow"
         format="multilineString"
@@ -172,6 +177,5 @@
         />
       </ToolbarButton>
     </Table>
-    <Text id="text1" value="parent app" verticalAlign="center" />
   </Frame>
 </Screen>

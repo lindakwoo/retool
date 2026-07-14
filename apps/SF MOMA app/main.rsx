@@ -38,6 +38,7 @@
     textLight="#ffffff"
     warning="#cd6f00"
   />
+
   <Frame
     id="$main"
     enableFullBleed={false}

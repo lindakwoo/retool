@@ -2,11 +2,12 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
   urlSlug=""
-  uuid="d41196f9-3902-462c-be0c-74ccd03fc053"
+  uuid="e698adf9-287a-426d-9c97-d6521275764d"
 >
   <Frame
     id="$main"
@@ -16,11 +17,6 @@
     padding="8px 12px"
     type="main"
   >
-    <Module
-      id="finalTestModule1"
-      name="final test module"
-      pageUuid="e6cfd9de-5058-11f0-bf05-3745f5e55fff"
-    />
     <Table
       id="table1"
       cellSelection="none"
@@ -30,8 +26,9 @@
       }
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
+      enableExpandableRows={true}
       enableSaveActions={true}
-      primaryKeyColumnId="4fc00"
+      primaryKeyColumnId="d151f"
       rowHeight="medium"
       showBorder={true}
       showFooter={true}
@@ -39,7 +36,7 @@
       toolbarPosition="bottom"
     >
       <Column
-        id="4fc00"
+        id="d151f"
         alignment="right"
         format="decimal"
         groupAggregationMode="countDistinct"
@@ -50,9 +47,10 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="1ba38"
+        id="4499b"
         alignment="left"
         caption="{{ currentSourceRow.email }}"
+        editable="true"
         format="avatar"
         groupAggregationMode="none"
         key="email"
@@ -64,8 +62,9 @@
         valueOverride="{{ currentSourceRow.firstName }} {{ currentSourceRow.lastName }}"
       />
       <Column
-        id="42833"
+        id="1b966"
         alignment="left"
+        editable="true"
         format="tag"
         formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
@@ -77,8 +76,9 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="3996d"
+        id="1e8a4"
         alignment="left"
+        editable="true"
         format="boolean"
         groupAggregationMode="none"
         key="enabled"
@@ -88,8 +88,9 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a96a"
+        id="364e2"
         alignment="left"
+        editable="true"
         format="date"
         groupAggregationMode="none"
         key="createdAt"
@@ -99,9 +100,10 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="8a81d"
+        id="e2dab"
         alignment="left"
         cellTooltipMode="overflow"
+        editable="true"
         format="tags"
         formatOptions={{ automaticColors: true }}
         groupAggregationMode="none"
@@ -113,7 +115,7 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="bef33"
+        id="68b9a"
         alignment="left"
         format="link"
         groupAggregationMode="none"
@@ -124,9 +126,10 @@
         summaryAggregationMode="none"
       />
       <Column
-        id="6d658"
+        id="579aa"
         alignment="left"
         cellTooltipMode="overflow"
+        editable="true"
         format="multilineString"
         groupAggregationMode="none"
         key="text"
@@ -148,6 +151,7 @@
         type="custom"
       >
         <Event
+          id="d1c2d191"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -163,6 +167,7 @@
         type="custom"
       >
         <Event
+          id="9d68aeca"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
@@ -171,7 +176,18 @@
           waitType="debounce"
         />
       </ToolbarButton>
+      <Event
+        id="abbe2420"
+        event="save"
+        method="run"
+        params={{
+          map: { src: 'console.log("hello linda")\nreturn "hello world"' },
+        }}
+        pluginId=""
+        type="script"
+        waitMs="0"
+        waitType="debounce"
+      />
     </Table>
-    <Text id="text1" value="parent app" verticalAlign="center" />
   </Frame>
 </Screen>
