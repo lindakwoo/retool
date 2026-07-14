@@ -20,6 +20,17 @@
     showSuccessToaster={false}
     type="POST"
   />
+  <SqlQueryUnified
+    id="query2"
+    notificationDuration={4.5}
+    query={include("../lib/query2.sql", "string")}
+    resourceDisplayName="retool_db"
+    resourceName="024aecd9-837d-4859-b18f-949f99ea4a51"
+    showSuccessToaster={false}
+    showUpdateSetValueDynamicallyToggle={false}
+    updateSetValueDynamically={true}
+    warningCodes={[]}
+  />
   <Frame
     id="$main"
     enableFullBleed={false}
