@@ -1,1 +1,1 @@
-select * from accounts
+select * from attendees 

@@ -25,7 +25,7 @@
     notificationDuration={4.5}
     query={include("../lib/query2.sql", "string")}
     resourceDisplayName="retool_db"
-    resourceName="024aecd9-837d-4859-b18f-949f99ea4a51"
+    resourceName="47ee5c4b-0834-4f2e-b8fc-f150fd46c892"
     showSuccessToaster={false}
     showUpdateSetValueDynamicallyToggle={false}
     updateSetValueDynamically={true}
