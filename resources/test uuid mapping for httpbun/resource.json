@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "https://catfact.ninja/fact",
+    "baseURL": "https://httpbun.com",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
@@ -43,10 +43,11 @@
     "oauth1_realm_parameter": "",
     "oauth1_signature_method": "HMAC-SHA1",
     "oauth2_access_token_url": "",
+    "raw_authorization_scheme": "",
     "digest_server_auth_header_response": ""
   },
   "environment": "production",
   "dynamicallyQueryable": false,
-  "uuid": "451a9c9a-527e-4169-ba65-128ad5fdc262",
+  "uuid": "b6d79dd3-7072-44b9-a1d3-bf22de6e2c24",
   "toolscriptVersion": "1.0.0"
 }
