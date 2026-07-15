@@ -1,0 +1,19 @@
+{
+  "select1": {
+    "row": 2.2,
+    "col": 1,
+    "height": 0.2,
+    "width": 4
+  },
+  "table1": {
+    "row": 5.8,
+    "col": 1,
+    "height": 8,
+    "width": 8
+  },
+  "text1": {
+    "row": 2.6,
+    "col": 5,
+    "height": 1
+  }
+}
