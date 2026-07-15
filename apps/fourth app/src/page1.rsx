@@ -42,6 +42,7 @@
       />
     </Button>
     <Text id="text1" value="hello linda" verticalAlign="center" />
+    <Button id="button2" text="Button" />
     <Text
       id="text2"
       value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
