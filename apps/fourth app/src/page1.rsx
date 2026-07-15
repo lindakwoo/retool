@@ -31,6 +31,7 @@
   >
     <Button id="button1" text="get users">
       <Event
+        id="d5a297ca"
         event="click"
         method="trigger"
         params={{}}
@@ -136,6 +137,7 @@
         type="custom"
       >
         <Event
+          id="e369b82d"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -151,6 +153,7 @@
         type="custom"
       >
         <Event
+          id="2925f73e"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
