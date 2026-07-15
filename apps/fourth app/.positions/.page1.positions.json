@@ -15,5 +15,10 @@
     "row": 4.4,
     "col": 2,
     "height": 1
+  },
+  "text2": {
+    "row": 5.6,
+    "col": 2,
+    "height": 0.6
   }
 }
