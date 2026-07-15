@@ -31,7 +31,7 @@
   >
     <Button id="button1" text="get users">
       <Event
-        id="d5a297ca"
+        id="62ed6508"
         event="click"
         method="trigger"
         params={{}}
@@ -41,8 +41,9 @@
         waitType="debounce"
       />
     </Button>
+    <Text id="text1" value="hello linda" verticalAlign="center" />
     <Text
-      id="text1"
+      id="text2"
       value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
       verticalAlign="center"
     />
@@ -137,7 +138,7 @@
         type="custom"
       >
         <Event
-          id="e369b82d"
+          id="2d9b6a2e"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -153,7 +154,7 @@
         type="custom"
       >
         <Event
-          id="2925f73e"
+          id="abbc00fc"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
