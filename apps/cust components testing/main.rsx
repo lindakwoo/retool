@@ -9,6 +9,11 @@
     sticky={null}
     type="main"
   >
+    <Module
+      id="anotherTestModule1"
+      name="Another test module"
+      pageUuid="185ae842-09a8-11f0-b156-778049b45569"
+    />
     <DynamicWidget_LindaLibrary_HelloWorldDev
       id="helloWorldDev1"
       collectionUuid="5f3540c2-9a81-415f-ae6c-2b3507b344b3"
@@ -24,12 +29,5 @@
       maintainSpaceWhenHidden={false}
       name="martha"
     />
-
-    <Module
-      id="anotherTestModule1"
-      name="Another test module"
-      pageUuid="185ae842-09a8-11f0-b156-778049b45569"
-    />
-
   </Frame>
 </App>
