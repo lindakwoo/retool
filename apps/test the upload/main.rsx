@@ -1,9 +1,6 @@
 <App>
   <Include src="./functions.rsx" />
-  <DocumentTitle
-    id="$customDocumentTitle"
-    value="woo hoo title here"
-  />
+  <DocumentTitle id="$customDocumentTitle" value="woo hoo title here" />
   <Frame
     id="$main"
     enableFullBleed={false}
