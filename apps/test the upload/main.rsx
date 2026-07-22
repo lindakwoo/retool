@@ -70,6 +70,7 @@ upload art"
         waitType="debounce"
       />
     </FileButton>
+    <Button id="button1" text="Button" />
     <Table
       id="table3"
       cellSelection="none"
