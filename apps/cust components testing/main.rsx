@@ -14,6 +14,11 @@
       name="Another test module"
       pageUuid="185ae842-09a8-11f0-b156-778049b45569"
     />
+    <Text
+      id="text1"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <DynamicWidget_LindaLibrary_HelloWorldDev
       id="helloWorldDev1"
       collectionUuid="5f3540c2-9a81-415f-ae6c-2b3507b344b3"
