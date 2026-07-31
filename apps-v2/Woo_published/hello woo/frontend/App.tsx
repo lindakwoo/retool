@@ -10,14 +10,15 @@ export default function App() {
         fontFamily: 'sans-serif',
         padding: 0,
         margin: 0,
-        background: '#F0EFEE', // StarterCanvas u_gray
+        background: 'green',
         position: 'relative',
         width: '100vw',
         height: '100vh',
         overflow: 'hidden',
       }}
     >
-      <h1>hello woo</h1>
+      <h1>hello woo!</h1>
+      <h1>goodbye woo!</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )
