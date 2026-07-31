@@ -17,8 +17,8 @@ export default function App() {
         overflow: 'hidden',
       }}
     >
-      <h1>hello woo</h1>
-      <h1>goodbye woo</h1>
+      <h1>hello woo!</h1>
+      <h1>goodbye woo!</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )
