@@ -10,7 +10,7 @@ export default function App() {
         fontFamily: 'sans-serif',
         padding: 0,
         margin: 0,
-        background: '#F0EFEE', // StarterCanvas u_gray
+        background: 'yellow',
         position: 'relative',
         width: '100vw',
         height: '100vh',
