@@ -3,6 +3,8 @@
   "version": "43.0.9",
   "pageUuid": "1ff63e8e-0049-11f0-b0ac-bbd2765580a0",
   "appTemplate": {
+    "appMaxWidth": "100%",
+    "pubAppDecoupledQueriesDisabled": null,
     "customComponentCollections": {
       "array": [
         {
@@ -15,9 +17,6 @@
       ]
     },
     "isFetching": true,
-
-    "version": "3.174.0",
-
-    "experimentalDataTabEnabled": true
+    "version": "4.28.0"
   }
 }

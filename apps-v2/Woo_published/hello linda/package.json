@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "567d3436-8d14-11f1-b902-17c8950f7cbb",
+      "name": "hello linda",
+      "resourceReferencesByFile": {},
+      "appIdentifier": "hello-linda-2"
+    }
+  }
+}

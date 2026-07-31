@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "95f834dc-89cf-11f1-a83d-e7c4ff1d6583",
+      "name": "Case Number Display",
+      "resourceReferencesByFile": {},
+      "appIdentifier": "case-number-display"
+    }
+  }
+}
