@@ -6,7 +6,7 @@ import { StarterCanvas } from './components/StarterCanvas'
 export default function App() {
   return (
     <div
-      className="bg-yellow-500 dark:bg-yellow-600"
+      className="bg-blue-500 dark:bg-blue-600"
       style={{
         fontFamily: 'sans-serif',
         padding: 0,
