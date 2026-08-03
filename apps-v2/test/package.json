@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "ac53ed0e-8d3d-11f1-9da1-3baa209c4d8d",
+      "name": "test",
+      "appIdentifier": "untitled-4"
+    }
+  }
+}
