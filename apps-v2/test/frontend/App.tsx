@@ -6,7 +6,7 @@ import { StarterCanvas } from './components/StarterCanvas'
 export default function App() {
   return (
     <div
-      className="bg-green-50 dark:bg-green-950"
+      className="bg-pink-50 dark:bg-pink-950"
       style={{
         fontFamily: 'sans-serif',
         padding: 0,
@@ -18,7 +18,6 @@ export default function App() {
       }}
     >
       <h1>linda!</h1>
-      <h1>why?</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )
