@@ -1,6 +1,34 @@
+pythonLanguageConfiguration:
+  object:
+    id: 247874f3-e0ee-4e17-84e4-3c1345a14ef6
+    name: workflow_python_9cf9662e-9be6-45c3-9d53-afe49feec24b
+    description: null
+    libraries:
+      object:
+        bson:
+          object:
+            specVersion: 0.5.10
+            actualVersion: ''
+        pandas:
+          object:
+            specVersion: 1.5.2
+            actualVersion: ''
+    librariesFormat: requirements.txt
+    language: python
+    pythonVersion: null
 private: false
 customLibraries:
   array:
+    - object:
+        version: 0.5.10
+        language: python
+        codeString: ''
+        libraryName: bson
+    - object:
+        version: 1.5.2
+        language: python
+        codeString: ''
+        libraryName: pandas
     - object:
         version: 4.17.21
         language: javascript
