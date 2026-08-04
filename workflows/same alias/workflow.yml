@@ -1,3 +1,4 @@
+private: false
 customLibraries:
   array:
     - object:
@@ -126,4 +127,4 @@ version: 43.0.9
 workflowId: 9cf9662e-9be6-45c3-9d53-afe49feec24b
 description: null
 workflowTemplate:
-  version: 3.334.0
+  version: 4.0.7
