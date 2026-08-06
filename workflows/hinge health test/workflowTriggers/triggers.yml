@@ -1,7 +1,7 @@
 - id: 94f42019-12d7-4e6a-885c-08b885716a1b
   createdBy: 1871206
   enabledAt: null
-  workflowId: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
+  workflowId: 6301cf3c-3153-4ea2-a3e3-888064aefa33
   triggerType: webhook
   environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
   triggerOptions: null
@@ -10,7 +10,7 @@
 - id: 9ea4935f-2464-439b-ad9d-6c6b52ec1c9a
   createdBy: 1871206
   enabledAt: '2026-05-13T14:59:39.526Z'
-  workflowId: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
+  workflowId: 6301cf3c-3153-4ea2-a3e3-888064aefa33
   triggerType: schedule
   environmentId: 19f2ccc9-eade-4757-9c3c-c6ca68dbab46
   triggerOptions:
