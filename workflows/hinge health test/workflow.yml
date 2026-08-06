@@ -125,6 +125,7 @@ triggerWebhooks:
         examplePathParams: ''
 version: 43.0.9
 workflowId: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
-description: ''
+description: null
 workflowTemplate:
-  version: 3.388.0
+  pubAppDecoupledQueriesDisabled: null
+  version: 4.37.0
