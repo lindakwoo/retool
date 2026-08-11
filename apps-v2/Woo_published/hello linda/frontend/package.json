@@ -61,6 +61,7 @@
     "tailwindcss-animate": "1.0.7",
     "typescript": "5.9.3",
     "vite": "8.1.4",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "lodash":"1.4.1"
   }
 }
