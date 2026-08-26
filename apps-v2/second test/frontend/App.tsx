@@ -6,18 +6,18 @@ import { StarterCanvas } from './components/StarterCanvas'
 export default function App() {
   return (
     <div
+      className="bg-yellow-500 dark:bg-yellow-600"
       style={{
         fontFamily: 'sans-serif',
         padding: 0,
         margin: 0,
-        background: 'green',
         position: 'relative',
         width: '100vw',
         height: '100vh',
         overflow: 'hidden',
       }}
     >
-      <h1 className="text-6xl font-bold p-6">hello linda!</h1>
+      <h1 className="text-4xl font-bold p-8 text-foreground">hello woo</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )

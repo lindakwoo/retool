@@ -1,6 +1,43 @@
+pythonLanguageConfiguration:
+  object:
+    id: 1448e87a-df12-4e56-82b4-4d2293c0a1c4
+    name: workflow_python_6301cf3c-3153-4ea2-a3e3-888064aefa33
+    description: null
+    libraries:
+      object:
+        bson:
+          object:
+            specVersion: 0.5.10
+            actualVersion: ''
+        numpy:
+          object:
+            specVersion: 1.24.1
+            actualVersion: ''
+        pandas:
+          object:
+            specVersion: 1.5.2
+            actualVersion: ''
+    librariesFormat: requirements.txt
+    language: python
+    pythonVersion: null
 private: false
 customLibraries:
   array:
+    - object:
+        version: 0.5.10
+        language: python
+        codeString: ''
+        libraryName: bson
+    - object:
+        version: 1.24.1
+        language: python
+        codeString: ''
+        libraryName: numpy
+    - object:
+        version: 1.5.2
+        language: python
+        codeString: ''
+        libraryName: pandas
     - object:
         version: 4.18.1
         language: javascript
@@ -125,6 +162,7 @@ triggerWebhooks:
         examplePathParams: ''
 version: 43.0.9
 workflowId: 7b212cb8-1fb9-4288-ac5e-3d3b454bbee1
-description: ''
+description: null
 workflowTemplate:
-  version: 3.388.0
+  pubAppDecoupledQueriesDisabled: null
+  version: 4.37.0
