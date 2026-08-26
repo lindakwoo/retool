@@ -10,14 +10,14 @@ export default function App() {
         fontFamily: 'sans-serif',
         padding: 0,
         margin: 0,
-        background: 'pink',
+        background: 'green',
         position: 'relative',
         width: '100vw',
         height: '100vh',
         overflow: 'hidden',
       }}
     >
-      <h1 className="text-3xl font-bold p-6">hello linda!</h1>
+      <h1 className="text-6xl font-bold p-6">hello linda!</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )
