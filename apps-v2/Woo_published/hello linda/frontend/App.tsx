@@ -17,8 +17,8 @@ export default function App() {
         overflow: 'hidden',
       }}
     >
-      <h1 className="text-6xl font-bold p-6">hello linda!</h1>
-      <h1 className="text-6xl font-bold p-6">hello Woo!</h1>
+      <h1 className="text-6xl font-bold p-6">hello linda</h1>
+      <h1 className="text-6xl font-bold p-6"> Woo!</h1>
       <StarterCanvas fadeIn={false} />
     </div>
   )
