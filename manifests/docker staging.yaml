@@ -22,4 +22,4 @@ workflows:
     release: latest
 apps-v2:
   - uuid: 567d3436-8d14-11f1-b902-17c8950f7cbb
-    release: 1.0.0
+    release: 2.0.0
