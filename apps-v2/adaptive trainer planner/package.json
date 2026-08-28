@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "194efc1c-74d1-11f1-b8d1-8f162c015b1c",
+      "name": "adaptive trainer planner",
+      "resourceReferencesByFile": {
+        "/backend/workouts/createPullUpPlan.ts": [
+          {
+            "name": "72ea2958-c875-4658-88ab-6b5c2c8c3a97",
+            "displayName": "workout api",
+            "type": "restapi"
+          }
+        ],
+        "/backend/workouts/createWorkoutPlan.ts": [
+          {
+            "name": "72ea2958-c875-4658-88ab-6b5c2c8c3a97",
+            "displayName": "workout api",
+            "type": "restapi"
+          }
+        ]
+      },
+      "appIdentifier": "workoutgenerator"
+    }
+  }
+}
