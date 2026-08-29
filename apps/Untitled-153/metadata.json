@@ -1,0 +1,28 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "2b410360-a33f-11f1-ab02-9baf453fca46",
+  "appTemplate": {
+    "appMaxWidth": "100%",
+    "appThemeId": 8634,
+    "appThemeModeId": "cd15600e",
+    "pageCodeFolders": {
+      "object": {
+        "analytics": {
+          "array": [
+            "customer_overview",
+            "customer_provider_scribe_usage",
+            "customer_provider_integration_usage",
+            "customer_all_scribes",
+            "watchlist_site_overview_panel",
+            "device_info",
+            "note_quality"
+          ]
+        }
+      }
+    },
+    "rootScreen": "analytics",
+    "appThemeName": "Brand Based Theme",
+    "version": "4.50.0"
+  }
+}

@@ -1,0 +1,13 @@
+Promise.all([
+  get_weekly_active_provider_count.trigger(),
+  get_total_scribes.trigger(),
+  get_median_time_to_sync.trigger(),
+  get_total_scribe_minutes.trigger(),
+  get_pct_providers_syncing.trigger(),
+  get_adoption_previous_week.trigger(),
+  get_activation.trigger(),
+  get_adoption.trigger(),
+  get_all_scribes.trigger(),
+  get_integration_adoption.trigger(),
+  get_avg_generation_time.trigger(),
+]);

@@ -1,0 +1,1322 @@
+{
+  "ProviderMetaData": {
+    "rowGroup": "header",
+    "subcontainer": "adminProviderDeepDive",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "activeLicenses": {
+    "container": "adminScribeAdoption",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "adminLicenseUsage": {
+    "row": 5.4,
+    "col": 1,
+    "height": 0.2,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "adminScribeAdoption": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 26,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "adoptionTable": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 1.4,
+    "height": 10.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 27,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 24,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button19": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 6,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 15,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button23": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 10.4,
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 13,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button24": {
+    "container": "tabbedContainer5",
+    "subcontainer": "1ac3c",
+    "row": 0.6,
+    "height": 1,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "button25": {
+    "rowGroup": "footer",
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "row": 0,
+    "height": 1,
+    "width": 4
+  },
+  "button26": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 1.2,
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 11,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonArchiveFeedback2": {
+    "container": "containerSiteFeedback",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "buttonRefreshData": {
+    "container": "group1",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "col": 10,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "buttonSeeIntegrationUsage": {
+    "rowGroup": "footer",
+    "subcontainer": "adminProviderDeepDive",
+    "height": 1,
+    "width": 4
+  },
+  "chartBertMonthly": {
+    "container": "tabbedContainer1",
+    "subcontainer": "896fb",
+    "row": 8.2,
+    "height": 9.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "chartPercentRetainedMonthly": {
+    "container": "tabbedContainer1",
+    "subcontainer": "896fb",
+    "row": 18,
+    "height": 9.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "chartStatusVsDevice": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 25.8,
+    "height": 7.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 7,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "chatSyncedUnderOneDay2": {
+    "container": "container12",
+    "subcontainer": "00030",
+    "row": 0,
+    "height": 5.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleContainer1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6c4c8",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle1": {
+    "container": "adminLicenseUsage",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 11,
+    "height": 0.8,
+    "width": 1
+  },
+  "collapsibleToggle2": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "col": 9,
+    "height": 0.8
+  },
+  "container11": {
+    "subcontainer": "adminProviderDeepDive",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container12": {
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container13": {
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container14": {
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container25": {
+    "subcontainer": "adminProviderDeepDive",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container26": {
+    "subcontainer": "adminProviderDeepDive",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container27": {
+    "subcontainer": "adminProviderDeepDive",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container29": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 13.6,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "container4": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6c4c8",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 20,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerSiteFeedback": {
+    "container": "positivefeedbacklist",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle1": {
+    "container": "adminLicenseUsage",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "height": 1
+  },
+  "containerTitle14": {
+    "container": "container11",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle15": {
+    "container": "container12",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle2": {
+    "container": "adminScribeAdoption",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "height": 0.6,
+    "width": 5
+  },
+  "containerTitle28": {
+    "container": "container25",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle29": {
+    "container": "container26",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 4
+  },
+  "containerTitle30": {
+    "container": "container27",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle32": {
+    "container": "container29",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle33": {
+    "container": "containerSiteFeedback",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "height": 1,
+    "width": 9
+  },
+  "containerTitle4": {
+    "container": "container4",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "dateRange": {
+    "container": "group1",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 2,
+    "height": 0.2,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "dateRangeAllTime": {
+    "container": "group1",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 9,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "device_breakdown2": {
+    "container": "container29",
+    "subcontainer": "00030",
+    "col": 5,
+    "height": 3.6,
+    "width": 7,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "divider1": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 22,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "drawerCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "adminProviderDeepDive",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "drawerCloseButton5": {
+    "rowGroup": "header",
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "col": 9,
+    "height": 1
+  },
+  "drawerSearch": {
+    "container": "container26",
+    "subcontainer": "00030",
+    "row": 0,
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "drawerTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "row": 0,
+    "height": 1,
+    "width": 9
+  },
+  "group1": {
+    "row": 1.6,
+    "col": 6,
+    "height": 3.8,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "light_switch": {
+    "row": 0.8,
+    "col": 10,
+    "height": 0.8,
+    "width": 1
+  },
+  "logo_dark": {
+    "row": 1.2,
+    "col": 1,
+    "height": 0.6
+  },
+  "logo_light": {
+    "row": 1.8,
+    "col": 1,
+    "height": 0.6
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "userGuide",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "userGuide",
+    "height": 0.6,
+    "width": 9
+  },
+  "pdf2": {
+    "subcontainer": "userGuide",
+    "height": 42.8,
+    "width": 12
+  },
+  "positivefeedbacklist": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "00030",
+    "height": 7,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "progressCircle1": {
+    "container": "adminLicenseUsage",
+    "subcontainer": "00030",
+    "col": 4,
+    "height": 2,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "providerScribeHistory": {
+    "container": "container26",
+    "subcontainer": "00030",
+    "row": 0.2,
+    "height": 7.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "providerScribeHistoryTitle": {
+    "rowGroup": "header",
+    "subcontainer": "adminProviderDeepDive",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 8
+  },
+  "providerSearch": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 25,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "providerSearch2": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 10.2,
+    "height": 0.2,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 14,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "scribeactivitytitle": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 17,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "selectProviderBert": {
+    "container": "tabbedContainer1",
+    "subcontainer": "896fb",
+    "row": 8,
+    "height": 0.2,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "sparkline1": {
+    "container": "container25",
+    "subcontainer": "00030",
+    "height": 4.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic14": {
+    "container": "container29",
+    "subcontainer": "00030",
+    "row": 0.8,
+    "col": 2,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic15": {
+    "container": "container29",
+    "subcontainer": "00030",
+    "col": 2,
+    "height": 0.8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic16": {
+    "container": "container29",
+    "subcontainer": "00030",
+    "row": 0.8,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic17": {
+    "container": "container29",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic2": {
+    "container": "adminScribeAdoption",
+    "subcontainer": "00030",
+    "col": 10,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic3": {
+    "container": "adminScribeAdoption",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 6,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic4": {
+    "container": "adminScribeAdoption",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 8,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic5": {
+    "container": "container4",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic6": {
+    "container": "container4",
+    "subcontainer": "00030",
+    "col": 7,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic7": {
+    "container": "container4",
+    "subcontainer": "00030",
+    "col": 2,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "statistic9": {
+    "container": "container4",
+    "subcontainer": "00030",
+    "col": 9,
+    "height": 0.8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer1": {
+    "row": 5.6,
+    "col": 1,
+    "height": 0.2,
+    "width": 10,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabbedContainer5": {
+    "container": "container13",
+    "subcontainer": "00030",
+    "height": 0.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table4": {
+    "container": "tabbedContainer5",
+    "subcontainer": "00030",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 4,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table5": {
+    "container": "tabbedContainer1",
+    "subcontainer": "896fb",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableAllScribes": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 2.4,
+    "height": 11.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 19,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableCollaboratorBreakdown2": {
+    "container": "container14",
+    "subcontainer": "00030",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableIntegrationUsage": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 11.4,
+    "height": 10.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 23,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableNoScribeCoverage2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "00031",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 5,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "subcontainer": "6c4c8",
+    "height": 0.8,
+    "width": 9
+  },
+  "tabs5": {
+    "container": "tabbedContainer5",
+    "rowGroup": "header",
+    "subcontainer": "1ac3c",
+    "height": 0.6,
+    "width": 12
+  },
+  "templateSelect": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 1.2,
+    "col": 5,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 18,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "templateUsageBarChart": {
+    "container": "container11",
+    "subcontainer": "00030",
+    "height": 3.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text1": {
+    "container": "adminLicenseUsage",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 5,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text15": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 16,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text2": {
+    "container": "adminLicenseUsage",
+    "subcontainer": "00030",
+    "height": 0.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text55": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 12,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text56": {
+    "container": "tabbedContainer5",
+    "subcontainer": "1ac3c",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text57": {
+    "container": "tabbedContainer5",
+    "subcontainer": "1ac3c",
+    "row": 0.6,
+    "col": 8,
+    "height": 1,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text58": {
+    "rowGroup": "header",
+    "subcontainer": "drawerProviderIntegrationUsage",
+    "row": 1,
+    "height": 0.6,
+    "width": 11
+  },
+  "text74": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 9.6,
+    "height": 0.6,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 10,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text8": {
+    "container": "container26",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0,
+    "col": 7,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text81": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 1,
+    "height": 0.6,
+    "width": 5,
+    "stackPosition": {
+      "object": {
+        "ordinal": 9,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text91": {
+    "container": "container27",
+    "subcontainer": "00030",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text92": {
+    "container": "containerSiteFeedback",
+    "subcontainer": "00030",
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "txtCollaboratorBreakdownText5": {
+    "container": "container13",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0,
+    "height": 0.6,
+    "width": 7
+  },
+  "txtCollaboratorBreakdownText6": {
+    "container": "container14",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0,
+    "height": 0.6,
+    "width": 8
+  },
+  "txtFeedbackAddedBy": {
+    "container": "containerSiteFeedback",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "txtNoCoverageSummary2": {
+    "container": "tabbedContainer5",
+    "subcontainer": "1ac3c",
+    "row": 1.6,
+    "height": 0.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "weeklyActiveProviders": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6c4c8",
+    "row": 0.2,
+    "height": 7.6,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 21,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "weeklyScribes": {
+    "container": "tabbedContainer1",
+    "subcontainer": "00032",
+    "row": 0.6,
+    "height": 9,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 8,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "weeklydevices": {
+    "container": "tabbedContainer1",
+    "subcontainer": "16472",
+    "row": 13.8,
+    "height": 12,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 6,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}
