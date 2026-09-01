@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "764a60b8-a641-11f1-8287-ab202e24f103",
+      "name": "third try r2 m resources with partial deploy",
+      "resourceReferencesByFile": {},
+      "appIdentifier": "third-try-r2-m-resources-with-partial-deploy"
+    }
+  }
+}
