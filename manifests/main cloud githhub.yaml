@@ -1,6 +1,8 @@
 version: 1.0.0
 name: main cloud githhub
 apps:
+  - uuid: 05a24246-a640-11f1-b9e3-1fab30d7f8e1
+    release: latest
   - uuid: 1581d6d6-66b7-11f1-9a45-53b1fe1d12f8
     release: latest
   - uuid: 183bd5d2-25ec-11f0-ad27-07bf802db1d4
